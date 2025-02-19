@@ -259,25 +259,23 @@ function createPointList(pointsFiltered: any, pointsList: any, last: boolean) {
 }
 
 async function searchToSDR(term: string) {
-    const service_url = `https://${apiUrl}/search/v5/?query=${term}`;
-    const response = await fetch(service_url);
-
-    if (response.status !== 200) {
+    try {
+        const response = await fetch(chrome.runtime.getURL('data/search-results.json'));
+        if (!response.ok) {
+            throw new Error('Failed to load search results');
+        }
+        const searchResults = await response.json();
+        
+        // 直接从本地数据中查找
+        const result = searchResults[term];
+        if (result?.services?.length > 0) {
+            return result.services[0].id;
+        }
+    } catch (error) {
+        console.error('Error searching:', error);
         document.getElementById('loading')!.style.display = 'none';
         document.getElementById('loaded')!.style.display = 'none';
         document.getElementById('error')!.style.display = 'flex';
-        return;
-    }
-
-    const data = await response.json();
-
-    if (data.services.length !== 0) {
-        const urls = data.services[0].urls as string[];
-        for (let i = 0; i < urls.length; i++) {
-            if (urls[i] === term) {
-                return data.services[0].id;
-            }
-        }
     }
 }
 

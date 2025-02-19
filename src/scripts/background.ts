@@ -151,56 +151,28 @@ async function setTabBadgeNotification(on:boolean, tab: chrome.tabs.Tab ) {
 }
 
 async function downloadDatabase() {
-    // get the database directly from the new endpoint
-    const db_url = `https://${apiUrl}/appdb/version/v2`;
-    const response = await fetch(db_url, {
-        headers: {
-            'apikey': atob('Y29uZ3JhdHMgb24gZ2V0dGluZyB0aGUga2V5IDpQ')
+    try {
+        // 从本地加载数据库
+        const response = await fetch(chrome.runtime.getURL('data/database.json'));
+        if (!response.ok) {
+            throw new Error('Failed to load local database');
         }
-    });
+        const data = await response.json();
 
-    if (response.status >= 300) {
-        chrome.action.setBadgeText({ text: 'err ' + response.status });
-        return;
-    }
-
-    const data = await response.json();
-
-    chrome.action.setBadgeText({ text: '' });
-    //check if its time to show a donation reminder
-    async function checkDonationReminder() {
-        // Retrieve the value from storage and ensure it's a boolean
-        const data = await chrome.storage.local.get('displayDonationReminder');
-        let dDR: boolean = Boolean(data.displayDonationReminder);
-        if ( dDR !== true) {
-            const currentDate = new Date();
-            const currentYear = currentDate.getFullYear();
-    
-            const data: any = await chrome.storage.local.get('lastDismissedReminder');
-            const lastDismissedReminder = data.lastDismissedReminder;
-            const lastDismissedYear = lastDismissedReminder?.year;
-    
-            if (currentYear > lastDismissedYear) {
-                chrome.action.setBadgeText({ text: '!' });
-                chrome.storage.local.set({ displayDonationReminder: true });
+        chrome.storage.local.set(
+            { 
+                db: data,
+                lastModified: new Date().toISOString()
+            },
+            function () {
+                console.log('Database loaded from local file');
+                checkDonationReminder();
             }
-        }
-        else {
-            chrome.action.setBadgeText({ text: '!' });
-        }
+        );
+    } catch (error) {
+        console.error('Error loading database:', error);
+        chrome.action.setBadgeText({ text: 'err' });
     }
-    checkDonationReminder();
-
-    chrome.storage.local.set(
-        { 
-            db: data,
-            lastModified: new Date().toISOString()
-        },
-        function () {
-            console.log('Database downloaded and saved to chrome.storage');
-            checkDonationReminder();
-        }
-    );
 }
 
 function checkIfUpdateNeeded(firstStart = false) {

@@ -28,6 +28,11 @@ interface DatabaseEntry extends ServiceData {
 
 async function downloadDatabase() {
     try {
+        const dbPath = path.join(__dirname, '../../data');
+        if (!fs.existsSync(dbPath)) {
+            fs.mkdirSync(dbPath, { recursive: true });
+        }
+
         // 1. 下载主数据库
         console.log('Downloading main database...');
         const dbResponse = await fetch(`https://${API_URL}/appdb/version/v2`, {
@@ -42,22 +47,17 @@ async function downloadDatabase() {
 
         const dbData = await dbResponse.json() as DatabaseEntry[];
         
-        // 保存完整数据库
-        const dbPath = path.join(__dirname, '../../data');
-        if (!fs.existsSync(dbPath)) {
-            fs.mkdirSync(dbPath, { recursive: true });
-        }
-        
+        // 保存主数据库
         fs.writeFileSync(
             path.join(dbPath, 'database.json'), 
             JSON.stringify(dbData, null, 2)
         );
         console.log(`Database saved with ${dbData.length} services`);
 
-        // 2. 获取所有服务的详细信息
-        console.log('Downloading service details...');
-        const servicesDetails: APIResponse[] = [];
-        const batchSize = 10; // 每批处理10个服务
+        // 2. 获取所有服务的搜索结果
+        console.log('Downloading search results...');
+        const searchResults = new Map<string, APIResponse>();
+        const batchSize = 10;
         
         for (let i = 0; i < dbData.length; i += batchSize) {
             const batch = dbData.slice(i, i + batchSize);
@@ -65,29 +65,34 @@ async function downloadDatabase() {
             
             await Promise.all(batch.map(async (service: DatabaseEntry) => {
                 try {
-                    const searchResponse = await fetch(
-                        `https://${API_URL}/search/v5/?query=${service.url.split(',')[0]}`
-                    );
+                    // 为每个 URL 都获取搜索结果
+                    const urls = service.url.split(',');
+                    for (const url of urls) {
+                        if (!searchResults.has(url)) {
+                            const searchResponse = await fetch(
+                                `https://${API_URL}/search/v5/?query=${url}`
+                            );
 
-                    if (searchResponse.ok) {
-                        const searchData = await searchResponse.json() as APIResponse;
-                        servicesDetails.push(searchData);
+                            if (searchResponse.ok) {
+                                const searchData = await searchResponse.json() as APIResponse;
+                                searchResults.set(url, searchData);
+                            }
+                        }
                     }
                 } catch (error) {
                     console.error(`Error fetching details for service ${service.id}:`, error);
                 }
             }));
 
-            // 每批处理完后等待一秒
             await new Promise(resolve => setTimeout(resolve, 1000));
         }
 
-        // 保存服务详情
+        // 保存搜索结果
         fs.writeFileSync(
-            path.join(dbPath, 'services-details.json'),
-            JSON.stringify(servicesDetails, null, 2)
+            path.join(dbPath, 'search-results.json'),
+            JSON.stringify(Object.fromEntries(searchResults), null, 2)
         );
-        console.log(`Service details saved for ${servicesDetails.length} services`);
+        console.log(`Search results saved for ${searchResults.size} URLs`);
 
     } catch (error) {
         console.error('Error downloading data:', error);

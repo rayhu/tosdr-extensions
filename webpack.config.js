@@ -1,5 +1,6 @@
 // webpack.config.js
 const path = require('path');
+const CopyPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   entry: './src/scripts/background.ts',
@@ -19,4 +20,14 @@ module.exports = {
       },
     ],
   },
+  plugins: [
+    new CopyPlugin({
+      patterns: [
+        { 
+          from: 'data/*.json',
+          to: '../data/[name][ext]'
+        },
+      ],
+    }),
+  ],
 };
