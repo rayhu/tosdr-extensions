@@ -6,13 +6,17 @@
   "license": "AGPL-3.0-or-later",
   "devDependencies": {
     "@types/chrome": "^0.0.251",
+    "@types/node": "^22.13.4",
+    "@types/node-fetch": "^2.6.12",
     "clean-css": "^5.3.2",
     "eslint": "^8.53.0",
     "html-minifier": "^4.0.0",
+    "node-fetch": "^3.3.2",
     "prettier": "3.0.3",
     "terser": "^5.24.0",
     "ts-loader": "^9.5.1",
-    "typescript": "^5.2.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
   },
@@ -21,7 +25,8 @@
     "dev": "tsc && npm run copy-assets && npm run webpack",
     "copy-assets": "node copy.js",
     "clean": "node clean.js",
-    "webpack": "webpack"
+    "webpack": "webpack",
+    "download-api": "ts-node src/scripts/download-api.ts"
   },
   "dependencies": {
     "@sentry/browser": "^7.80.1"

@@ -1,23 +1,18 @@
 {
     "compilerOptions": {
-        "module": "ES6",
-        "target": "ES2016",
-        "moduleResolution": "bundler",
-        "noImplicitAny": true,
-        "removeComments": true,
-        "skipLibCheck": true,
-        "preserveConstEnums": true,
+        "target": "ES2020",
+        "module": "commonjs",
+        "strict": true,
         "esModuleInterop": true,
-        "outDir": "tsc/",
-        "rootDir": "src/",
-        "sourceMap": false,
-        "strict": true
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "outDir": "./dist",
+        "rootDir": "./src"
     },
     "include": [
-        "src/scripts/**/*"
+        "src/**/*"
     ],
     "exclude": [
-        "node_modules",
-        "**/*.spec.ts"
+        "node_modules"
     ]
 }
