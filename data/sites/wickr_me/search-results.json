@@ -1,0 +1,21 @@
+[
+  {
+    "url": "wickr.com",
+    "data": {
+      "services": [
+        {
+          "id": 3587,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "wickr.com"
+          ],
+          "name": "Wickr Me",
+          "updated_at": "2023-06-05T22:01:50.807699",
+          "created_at": "2021-05-13T11:48:14.149147",
+          "slug": "wickr_me",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "url": "instructure.com",
+    "data": {
+      "services": [
+        {
+          "id": 2392,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "instructure.com",
+            "canvas-user-content.com",
+            "canvaslms.com"
+          ],
+          "name": "Instructure",
+          "updated_at": "2023-07-10T22:01:39.652985",
+          "created_at": "2020-11-04T04:47:21.340870",
+          "slug": "instructure",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "canvas-user-content.com",
+    "data": {
+      "services": [
+        {
+          "id": 2392,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "instructure.com",
+            "canvas-user-content.com",
+            "canvaslms.com"
+          ],
+          "name": "Instructure",
+          "updated_at": "2023-07-10T22:01:39.652985",
+          "created_at": "2020-11-04T04:47:21.340870",
+          "slug": "instructure",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "quora.com",
+    "data": {
+      "services": [
+        {
+          "id": 314,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "quora.com"
+          ],
+          "name": "Quora",
+          "updated_at": "2023-07-10T22:00:48.670249",
+          "created_at": "2018-01-16T21:25:57.601953",
+          "slug": "quora",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

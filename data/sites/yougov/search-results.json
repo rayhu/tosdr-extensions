@@ -1,0 +1,158 @@
+[
+  {
+    "url": "yougov.co.uk",
+    "data": {
+      "services": [
+        {
+          "id": 3906,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yougov.co.uk",
+            "yougov.com",
+            "yougov.fi",
+            "yougov.dk",
+            "yougov.de",
+            "yougov.no",
+            "yougov.se",
+            "yougov.chat"
+          ],
+          "name": "YouGov",
+          "updated_at": "2023-07-10T22:01:53.193373",
+          "created_at": "2021-06-01T14:23:45.412382",
+          "slug": "yougov",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "yougov.com",
+    "data": {
+      "services": [
+        {
+          "id": 3906,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yougov.co.uk",
+            "yougov.com",
+            "yougov.fi",
+            "yougov.dk",
+            "yougov.de",
+            "yougov.no",
+            "yougov.se",
+            "yougov.chat"
+          ],
+          "name": "YouGov",
+          "updated_at": "2023-07-10T22:01:53.193373",
+          "created_at": "2021-06-01T14:23:45.412382",
+          "slug": "yougov",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "yougov.de",
+    "data": {
+      "services": [
+        {
+          "id": 3906,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yougov.co.uk",
+            "yougov.com",
+            "yougov.fi",
+            "yougov.dk",
+            "yougov.de",
+            "yougov.no",
+            "yougov.se",
+            "yougov.chat"
+          ],
+          "name": "YouGov",
+          "updated_at": "2023-07-10T22:01:53.193373",
+          "created_at": "2021-06-01T14:23:45.412382",
+          "slug": "yougov",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "yougov.no",
+    "data": {
+      "services": [
+        {
+          "id": 3906,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yougov.co.uk",
+            "yougov.com",
+            "yougov.fi",
+            "yougov.dk",
+            "yougov.de",
+            "yougov.no",
+            "yougov.se",
+            "yougov.chat"
+          ],
+          "name": "YouGov",
+          "updated_at": "2023-07-10T22:01:53.193373",
+          "created_at": "2021-06-01T14:23:45.412382",
+          "slug": "yougov",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "yougov.se",
+    "data": {
+      "services": [
+        {
+          "id": 3906,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yougov.co.uk",
+            "yougov.com",
+            "yougov.fi",
+            "yougov.dk",
+            "yougov.de",
+            "yougov.no",
+            "yougov.se",
+            "yougov.chat"
+          ],
+          "name": "YouGov",
+          "updated_at": "2023-07-10T22:01:53.193373",
+          "created_at": "2021-06-01T14:23:45.412382",
+          "slug": "yougov",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "yougov.chat",
+    "data": {
+      "services": [
+        {
+          "id": 3906,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yougov.co.uk",
+            "yougov.com",
+            "yougov.fi",
+            "yougov.dk",
+            "yougov.de",
+            "yougov.no",
+            "yougov.se",
+            "yougov.chat"
+          ],
+          "name": "YouGov",
+          "updated_at": "2023-07-10T22:01:53.193373",
+          "created_at": "2021-06-01T14:23:45.412382",
+          "slug": "yougov",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

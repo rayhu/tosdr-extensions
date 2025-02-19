@@ -1,0 +1,21 @@
+[
+  {
+    "url": "crowdmark.com",
+    "data": {
+      "services": [
+        {
+          "id": 1592,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "crowdmark.com"
+          ],
+          "name": "Crowdmark",
+          "updated_at": "2023-07-10T22:01:08.206265",
+          "created_at": "2019-05-24T00:49:02.437468",
+          "slug": "crowdmark",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "fedora.email",
+    "data": {
+      "services": [
+        {
+          "id": 6663,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fedora.email"
+          ],
+          "name": "Fedora Email",
+          "updated_at": "2023-09-07T17:00:57.822925",
+          "created_at": "2022-06-12T00:00:30.320632",
+          "slug": "fedora-email",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

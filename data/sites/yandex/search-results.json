@@ -1,0 +1,137 @@
+[
+  {
+    "url": "yandex.ru",
+    "data": {
+      "services": [
+        {
+          "id": 860,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yandex.com",
+            "yandex.ru",
+            "yandex.ua",
+            "yandex.by",
+            "yandex.kz",
+            "yandex.uz",
+            "yandex.com.tr",
+            "alice.yandex.ru",
+            ""
+          ],
+          "name": "Yandex",
+          "updated_at": "2023-07-10T22:01:26.839101",
+          "created_at": "2018-12-19T03:25:44.602542",
+          "slug": "yandex",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "yandex.ua",
+    "data": {
+      "services": [
+        {
+          "id": 860,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yandex.com",
+            "yandex.ru",
+            "yandex.ua",
+            "yandex.by",
+            "yandex.kz",
+            "yandex.uz",
+            "yandex.com.tr",
+            "alice.yandex.ru",
+            ""
+          ],
+          "name": "Yandex",
+          "updated_at": "2023-07-10T22:01:26.839101",
+          "created_at": "2018-12-19T03:25:44.602542",
+          "slug": "yandex",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "yandex.by",
+    "data": {
+      "services": [
+        {
+          "id": 860,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yandex.com",
+            "yandex.ru",
+            "yandex.ua",
+            "yandex.by",
+            "yandex.kz",
+            "yandex.uz",
+            "yandex.com.tr",
+            "alice.yandex.ru",
+            ""
+          ],
+          "name": "Yandex",
+          "updated_at": "2023-07-10T22:01:26.839101",
+          "created_at": "2018-12-19T03:25:44.602542",
+          "slug": "yandex",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "yandex.kz",
+    "data": {
+      "services": [
+        {
+          "id": 860,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yandex.com",
+            "yandex.ru",
+            "yandex.ua",
+            "yandex.by",
+            "yandex.kz",
+            "yandex.uz",
+            "yandex.com.tr",
+            "alice.yandex.ru",
+            ""
+          ],
+          "name": "Yandex",
+          "updated_at": "2023-07-10T22:01:26.839101",
+          "created_at": "2018-12-19T03:25:44.602542",
+          "slug": "yandex",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "yandex.uz",
+    "data": {
+      "services": [
+        {
+          "id": 860,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yandex.com",
+            "yandex.ru",
+            "yandex.ua",
+            "yandex.by",
+            "yandex.kz",
+            "yandex.uz",
+            "yandex.com.tr",
+            "alice.yandex.ru",
+            ""
+          ],
+          "name": "Yandex",
+          "updated_at": "2023-07-10T22:01:26.839101",
+          "created_at": "2018-12-19T03:25:44.602542",
+          "slug": "yandex",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "openhab.org",
+    "data": {
+      "services": [
+        {
+          "id": 3395,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "openhab.org"
+          ],
+          "name": "OpenHAB",
+          "updated_at": "2021-06-14T15:59:22.277730",
+          "created_at": "2021-05-01T21:07:39.081383",
+          "slug": "openhab",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

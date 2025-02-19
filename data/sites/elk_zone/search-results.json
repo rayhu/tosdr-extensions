@@ -1,0 +1,21 @@
+[
+  {
+    "url": "elk.zone",
+    "data": {
+      "services": [
+        {
+          "id": 7670,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "elk.zone"
+          ],
+          "name": "Elk.zone",
+          "updated_at": "2023-07-10T22:02:38.175659",
+          "created_at": "2023-03-19T17:31:54.778396",
+          "slug": "elk-zone",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

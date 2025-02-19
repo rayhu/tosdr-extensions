@@ -1,0 +1,21 @@
+[
+  {
+    "url": "icloud.com",
+    "data": {
+      "services": [
+        {
+          "id": 291,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "icloud.com"
+          ],
+          "name": "iCloud",
+          "updated_at": "2023-07-10T22:00:52.076646",
+          "created_at": "2018-01-16T15:26:07.519347",
+          "slug": "icloud",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

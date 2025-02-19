@@ -1,0 +1,21 @@
+[
+  {
+    "url": "anonfiles.com",
+    "data": {
+      "services": [
+        {
+          "id": 2212,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "anonfiles.com"
+          ],
+          "name": "Anonfiles",
+          "updated_at": "2023-07-10T22:01:44.091708",
+          "created_at": "2020-04-07T05:18:26.789004",
+          "slug": "anonfiles",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

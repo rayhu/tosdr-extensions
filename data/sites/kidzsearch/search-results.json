@@ -1,0 +1,21 @@
+[
+  {
+    "url": "kidzsearch.com",
+    "data": {
+      "services": [
+        {
+          "id": 3854,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "kidzsearch.com"
+          ],
+          "name": "KidzSearch",
+          "updated_at": "2023-07-10T22:01:52.265944",
+          "created_at": "2021-05-30T21:01:16.163283",
+          "slug": "kidzsearch",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

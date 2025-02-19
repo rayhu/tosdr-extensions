@@ -1,0 +1,77 @@
+[
+  {
+    "url": "nbcuniversal.com",
+    "data": {
+      "services": [
+        {
+          "id": 2531,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nbcuniversal.com",
+            "nbcnews.com",
+            "nbcsports.com",
+            "nbc.com",
+            "syfy.com",
+            "eonline.com",
+            "bravotv.com"
+          ],
+          "name": "NBC News",
+          "updated_at": "2025-01-14T21:49:20.000341",
+          "created_at": "2021-01-16T10:54:00.427733",
+          "slug": "nbc_news",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "nbcnews.com",
+    "data": {
+      "services": [
+        {
+          "id": 2531,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nbcuniversal.com",
+            "nbcnews.com",
+            "nbcsports.com",
+            "nbc.com",
+            "syfy.com",
+            "eonline.com",
+            "bravotv.com"
+          ],
+          "name": "NBC News",
+          "updated_at": "2025-01-14T21:49:20.000341",
+          "created_at": "2021-01-16T10:54:00.427733",
+          "slug": "nbc_news",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "bravotv.com",
+    "data": {
+      "services": [
+        {
+          "id": 2531,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nbcuniversal.com",
+            "nbcnews.com",
+            "nbcsports.com",
+            "nbc.com",
+            "syfy.com",
+            "eonline.com",
+            "bravotv.com"
+          ],
+          "name": "NBC News",
+          "updated_at": "2025-01-14T21:49:20.000341",
+          "created_at": "2021-01-16T10:54:00.427733",
+          "slug": "nbc_news",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

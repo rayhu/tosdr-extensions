@@ -1,0 +1,21 @@
+[
+  {
+    "url": "standardnotes.com",
+    "data": {
+      "services": [
+        {
+          "id": 2116,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "standardnotes.com"
+          ],
+          "name": "Standard Notes",
+          "updated_at": "2023-03-31T15:24:23.928904",
+          "created_at": "2020-01-08T20:56:12.450883",
+          "slug": "standard_notes",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

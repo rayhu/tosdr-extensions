@@ -1,0 +1,21 @@
+[
+  {
+    "url": "nslookup.io",
+    "data": {
+      "services": [
+        {
+          "id": 2913,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nslookup.io"
+          ],
+          "name": "Nslookup",
+          "updated_at": "2021-05-14T04:10:09.553677",
+          "created_at": "2021-03-31T11:51:45.818597",
+          "slug": "nslookup",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

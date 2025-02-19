@@ -1,0 +1,65 @@
+[
+  {
+    "url": "pinterest.com",
+    "data": {
+      "services": [
+        {
+          "id": 175,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "pinterest.com",
+            "pinterestinc.com",
+            "pinimg.com"
+          ],
+          "name": "Pinterest",
+          "updated_at": "2023-07-10T22:00:51.680706",
+          "created_at": "2018-01-16T15:26:05.405610",
+          "slug": "pinterest",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "pinterestinc.com",
+    "data": {
+      "services": [
+        {
+          "id": 175,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "pinterest.com",
+            "pinterestinc.com",
+            "pinimg.com"
+          ],
+          "name": "Pinterest",
+          "updated_at": "2023-07-10T22:00:51.680706",
+          "created_at": "2018-01-16T15:26:05.405610",
+          "slug": "pinterest",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "pinimg.com",
+    "data": {
+      "services": [
+        {
+          "id": 175,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "pinterest.com",
+            "pinterestinc.com",
+            "pinimg.com"
+          ],
+          "name": "Pinterest",
+          "updated_at": "2023-07-10T22:00:51.680706",
+          "created_at": "2018-01-16T15:26:05.405610",
+          "slug": "pinterest",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

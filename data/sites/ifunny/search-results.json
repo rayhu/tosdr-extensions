@@ -1,0 +1,21 @@
+[
+  {
+    "url": "ifunny.co",
+    "data": {
+      "services": [
+        {
+          "id": 2453,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ifunny.co"
+          ],
+          "name": "iFunny",
+          "updated_at": "2023-07-10T22:01:31.467551",
+          "created_at": "2020-12-14T09:47:13.199513",
+          "slug": "ifunny",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

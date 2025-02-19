@@ -1,0 +1,22 @@
+[
+  {
+    "url": "anonyome.com",
+    "data": {
+      "services": [
+        {
+          "id": 1352,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mysudo.com",
+            "anonyome.com"
+          ],
+          "name": "MySudo",
+          "updated_at": "2022-12-04T05:54:53.478120",
+          "created_at": "2019-01-21T22:34:03.998585",
+          "slug": "mysudo",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

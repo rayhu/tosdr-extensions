@@ -1,0 +1,42 @@
+[
+  {
+    "url": "weblate.org",
+    "data": {
+      "services": [
+        {
+          "id": 3582,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "weblate.org",
+            "hosted.weblate.org"
+          ],
+          "name": "Weblate",
+          "updated_at": "2021-06-17T09:10:07.861198",
+          "created_at": "2021-05-13T00:35:13.838965",
+          "slug": "weblate",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "hosted.weblate.org",
+    "data": {
+      "services": [
+        {
+          "id": 3582,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "weblate.org",
+            "hosted.weblate.org"
+          ],
+          "name": "Weblate",
+          "updated_at": "2021-06-17T09:10:07.861198",
+          "created_at": "2021-05-13T00:35:13.838965",
+          "slug": "weblate",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

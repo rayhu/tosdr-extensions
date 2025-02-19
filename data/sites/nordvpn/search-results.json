@@ -1,0 +1,21 @@
+[
+  {
+    "url": "nordvpn.com",
+    "data": {
+      "services": [
+        {
+          "id": 697,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nordvpn.com"
+          ],
+          "name": "NordVPN",
+          "updated_at": "2023-07-10T22:01:05.560769",
+          "created_at": "2018-09-05T00:56:01.527715",
+          "slug": "nordvpn",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

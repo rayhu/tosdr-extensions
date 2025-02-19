@@ -1,0 +1,267 @@
+[
+  {
+    "url": "nexage.com",
+    "data": {
+      "services": [
+        {
+          "id": 309,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yahoo.com",
+            "autoblog.com",
+            "yahooinc.com",
+            "adtech.com",
+            "nexage.com",
+            "aol.com",
+            "millennialmedia.com",
+            "flurry.com",
+            "aws.oath.cloud",
+            "oath.cloud",
+            "advertising.com",
+            "adtech.de"
+          ],
+          "name": "Yahoo!",
+          "updated_at": "2023-11-17T17:25:13.866674",
+          "created_at": "2018-01-16T15:26:07.984217",
+          "slug": "yahoo",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "aol.com",
+    "data": {
+      "services": [
+        {
+          "id": 309,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yahoo.com",
+            "autoblog.com",
+            "yahooinc.com",
+            "adtech.com",
+            "nexage.com",
+            "aol.com",
+            "millennialmedia.com",
+            "flurry.com",
+            "aws.oath.cloud",
+            "oath.cloud",
+            "advertising.com",
+            "adtech.de"
+          ],
+          "name": "Yahoo!",
+          "updated_at": "2023-11-17T17:25:13.866674",
+          "created_at": "2018-01-16T15:26:07.984217",
+          "slug": "yahoo",
+          "rating": "E"
+        },
+        {
+          "id": 890,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "www.aol.com"
+          ],
+          "name": "Aol",
+          "updated_at": "2021-03-25T03:19:40.255940",
+          "created_at": "2018-12-19T05:11:24.945622",
+          "slug": "aol",
+          "rating": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "millennialmedia.com",
+    "data": {
+      "services": [
+        {
+          "id": 309,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yahoo.com",
+            "autoblog.com",
+            "yahooinc.com",
+            "adtech.com",
+            "nexage.com",
+            "aol.com",
+            "millennialmedia.com",
+            "flurry.com",
+            "aws.oath.cloud",
+            "oath.cloud",
+            "advertising.com",
+            "adtech.de"
+          ],
+          "name": "Yahoo!",
+          "updated_at": "2023-11-17T17:25:13.866674",
+          "created_at": "2018-01-16T15:26:07.984217",
+          "slug": "yahoo",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "flurry.com",
+    "data": {
+      "services": [
+        {
+          "id": 309,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yahoo.com",
+            "autoblog.com",
+            "yahooinc.com",
+            "adtech.com",
+            "nexage.com",
+            "aol.com",
+            "millennialmedia.com",
+            "flurry.com",
+            "aws.oath.cloud",
+            "oath.cloud",
+            "advertising.com",
+            "adtech.de"
+          ],
+          "name": "Yahoo!",
+          "updated_at": "2023-11-17T17:25:13.866674",
+          "created_at": "2018-01-16T15:26:07.984217",
+          "slug": "yahoo",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "aws.oath.cloud",
+    "data": {
+      "services": [
+        {
+          "id": 309,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yahoo.com",
+            "autoblog.com",
+            "yahooinc.com",
+            "adtech.com",
+            "nexage.com",
+            "aol.com",
+            "millennialmedia.com",
+            "flurry.com",
+            "aws.oath.cloud",
+            "oath.cloud",
+            "advertising.com",
+            "adtech.de"
+          ],
+          "name": "Yahoo!",
+          "updated_at": "2023-11-17T17:25:13.866674",
+          "created_at": "2018-01-16T15:26:07.984217",
+          "slug": "yahoo",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "oath.cloud",
+    "data": {
+      "services": [
+        {
+          "id": 309,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yahoo.com",
+            "autoblog.com",
+            "yahooinc.com",
+            "adtech.com",
+            "nexage.com",
+            "aol.com",
+            "millennialmedia.com",
+            "flurry.com",
+            "aws.oath.cloud",
+            "oath.cloud",
+            "advertising.com",
+            "adtech.de"
+          ],
+          "name": "Yahoo!",
+          "updated_at": "2023-11-17T17:25:13.866674",
+          "created_at": "2018-01-16T15:26:07.984217",
+          "slug": "yahoo",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "advertising.com",
+    "data": {
+      "services": [
+        {
+          "id": 309,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yahoo.com",
+            "autoblog.com",
+            "yahooinc.com",
+            "adtech.com",
+            "nexage.com",
+            "aol.com",
+            "millennialmedia.com",
+            "flurry.com",
+            "aws.oath.cloud",
+            "oath.cloud",
+            "advertising.com",
+            "adtech.de"
+          ],
+          "name": "Yahoo!",
+          "updated_at": "2023-11-17T17:25:13.866674",
+          "created_at": "2018-01-16T15:26:07.984217",
+          "slug": "yahoo",
+          "rating": "E"
+        },
+        {
+          "id": 3430,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "mediaforge.com",
+            "rakutenadvertising.com"
+          ],
+          "name": "Rakuten Advertising",
+          "updated_at": "2021-05-04T00:00:35.526192",
+          "created_at": "2021-05-03T18:40:06.346784",
+          "slug": "rakuten_advertising",
+          "rating": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "adtech.de",
+    "data": {
+      "services": [
+        {
+          "id": 309,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yahoo.com",
+            "autoblog.com",
+            "yahooinc.com",
+            "adtech.com",
+            "nexage.com",
+            "aol.com",
+            "millennialmedia.com",
+            "flurry.com",
+            "aws.oath.cloud",
+            "oath.cloud",
+            "advertising.com",
+            "adtech.de"
+          ],
+          "name": "Yahoo!",
+          "updated_at": "2023-11-17T17:25:13.866674",
+          "created_at": "2018-01-16T15:26:07.984217",
+          "slug": "yahoo",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

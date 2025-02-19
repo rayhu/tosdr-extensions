@@ -1,0 +1,139 @@
+[
+  {
+    "url": "adt.com",
+    "data": {
+      "services": [
+        {
+          "id": 2685,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adt.com",
+            "myadtdigitalsecurity.com",
+            "adtpuertoricollc.com",
+            "myadt.com",
+            "adt-optout.com",
+            "adt-unsub.com",
+            "homeprotectioncenter.com"
+          ],
+          "name": "ADT",
+          "updated_at": "2023-07-10T22:02:26.747396",
+          "created_at": "2021-02-02T19:27:03.914750",
+          "slug": "adt",
+          "rating": "E"
+        },
+        {
+          "id": 9037,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "bluebyadt.com"
+          ],
+          "name": "Blue by ADT",
+          "updated_at": "2023-07-11T10:02:13.007200",
+          "created_at": "2023-07-10T23:27:19.845683",
+          "slug": "blue-by-adt",
+          "rating": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "myadt.com",
+    "data": {
+      "services": [
+        {
+          "id": 2685,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adt.com",
+            "myadtdigitalsecurity.com",
+            "adtpuertoricollc.com",
+            "myadt.com",
+            "adt-optout.com",
+            "adt-unsub.com",
+            "homeprotectioncenter.com"
+          ],
+          "name": "ADT",
+          "updated_at": "2023-07-10T22:02:26.747396",
+          "created_at": "2021-02-02T19:27:03.914750",
+          "slug": "adt",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "adt-optout.com",
+    "data": {
+      "services": [
+        {
+          "id": 2685,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adt.com",
+            "myadtdigitalsecurity.com",
+            "adtpuertoricollc.com",
+            "myadt.com",
+            "adt-optout.com",
+            "adt-unsub.com",
+            "homeprotectioncenter.com"
+          ],
+          "name": "ADT",
+          "updated_at": "2023-07-10T22:02:26.747396",
+          "created_at": "2021-02-02T19:27:03.914750",
+          "slug": "adt",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "adt-unsub.com",
+    "data": {
+      "services": [
+        {
+          "id": 2685,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adt.com",
+            "myadtdigitalsecurity.com",
+            "adtpuertoricollc.com",
+            "myadt.com",
+            "adt-optout.com",
+            "adt-unsub.com",
+            "homeprotectioncenter.com"
+          ],
+          "name": "ADT",
+          "updated_at": "2023-07-10T22:02:26.747396",
+          "created_at": "2021-02-02T19:27:03.914750",
+          "slug": "adt",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "homeprotectioncenter.com",
+    "data": {
+      "services": [
+        {
+          "id": 2685,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adt.com",
+            "myadtdigitalsecurity.com",
+            "adtpuertoricollc.com",
+            "myadt.com",
+            "adt-optout.com",
+            "adt-unsub.com",
+            "homeprotectioncenter.com"
+          ],
+          "name": "ADT",
+          "updated_at": "2023-07-10T22:02:26.747396",
+          "created_at": "2021-02-02T19:27:03.914750",
+          "slug": "adt",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

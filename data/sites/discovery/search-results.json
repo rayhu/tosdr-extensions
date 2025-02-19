@@ -1,0 +1,289 @@
+[
+  {
+    "url": "discovery.com",
+    "data": {
+      "services": [
+        {
+          "id": 1741,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discovery.com",
+            "foodnetwork.com",
+            "asianfoodnetwork.com",
+            "foodnetwork.com.br",
+            "foodnetwork.ca",
+            "foodnetworktv.com",
+            "foodnetwork.co.uk",
+            "foodnetworklatam.com",
+            "animalplanet.com",
+            "destinationamerica.com",
+            "diynetwork.com",
+            "greatamericancountry.com",
+            "hgtv.com",
+            "hgtv.pl",
+            "tlc.com",
+            "ahctv.com",
+            "tudiscovery.com",
+            "investigationdiscovery.com",
+            "discoveryplus.co.uk",
+            "discoveryplus.com",
+            "discoveryplus.fi",
+            "discoveryplus.no",
+            ""
+          ],
+          "name": "Discovery",
+          "updated_at": "2021-05-03T00:02:05.430590",
+          "created_at": "2019-08-08T06:44:56.476497",
+          "slug": "discovery",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "foodnetwork.com",
+    "data": {
+      "services": [
+        {
+          "id": 1741,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discovery.com",
+            "foodnetwork.com",
+            "asianfoodnetwork.com",
+            "foodnetwork.com.br",
+            "foodnetwork.ca",
+            "foodnetworktv.com",
+            "foodnetwork.co.uk",
+            "foodnetworklatam.com",
+            "animalplanet.com",
+            "destinationamerica.com",
+            "diynetwork.com",
+            "greatamericancountry.com",
+            "hgtv.com",
+            "hgtv.pl",
+            "tlc.com",
+            "ahctv.com",
+            "tudiscovery.com",
+            "investigationdiscovery.com",
+            "discoveryplus.co.uk",
+            "discoveryplus.com",
+            "discoveryplus.fi",
+            "discoveryplus.no",
+            ""
+          ],
+          "name": "Discovery",
+          "updated_at": "2021-05-03T00:02:05.430590",
+          "created_at": "2019-08-08T06:44:56.476497",
+          "slug": "discovery",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "destinationamerica.com",
+    "data": {
+      "services": [
+        {
+          "id": 1741,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discovery.com",
+            "foodnetwork.com",
+            "asianfoodnetwork.com",
+            "foodnetwork.com.br",
+            "foodnetwork.ca",
+            "foodnetworktv.com",
+            "foodnetwork.co.uk",
+            "foodnetworklatam.com",
+            "animalplanet.com",
+            "destinationamerica.com",
+            "diynetwork.com",
+            "greatamericancountry.com",
+            "hgtv.com",
+            "hgtv.pl",
+            "tlc.com",
+            "ahctv.com",
+            "tudiscovery.com",
+            "investigationdiscovery.com",
+            "discoveryplus.co.uk",
+            "discoveryplus.com",
+            "discoveryplus.fi",
+            "discoveryplus.no",
+            ""
+          ],
+          "name": "Discovery",
+          "updated_at": "2021-05-03T00:02:05.430590",
+          "created_at": "2019-08-08T06:44:56.476497",
+          "slug": "discovery",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "diynetwork.com",
+    "data": {
+      "services": [
+        {
+          "id": 1741,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discovery.com",
+            "foodnetwork.com",
+            "asianfoodnetwork.com",
+            "foodnetwork.com.br",
+            "foodnetwork.ca",
+            "foodnetworktv.com",
+            "foodnetwork.co.uk",
+            "foodnetworklatam.com",
+            "animalplanet.com",
+            "destinationamerica.com",
+            "diynetwork.com",
+            "greatamericancountry.com",
+            "hgtv.com",
+            "hgtv.pl",
+            "tlc.com",
+            "ahctv.com",
+            "tudiscovery.com",
+            "investigationdiscovery.com",
+            "discoveryplus.co.uk",
+            "discoveryplus.com",
+            "discoveryplus.fi",
+            "discoveryplus.no",
+            ""
+          ],
+          "name": "Discovery",
+          "updated_at": "2021-05-03T00:02:05.430590",
+          "created_at": "2019-08-08T06:44:56.476497",
+          "slug": "discovery",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "greatamericancountry.com",
+    "data": {
+      "services": [
+        {
+          "id": 1741,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discovery.com",
+            "foodnetwork.com",
+            "asianfoodnetwork.com",
+            "foodnetwork.com.br",
+            "foodnetwork.ca",
+            "foodnetworktv.com",
+            "foodnetwork.co.uk",
+            "foodnetworklatam.com",
+            "animalplanet.com",
+            "destinationamerica.com",
+            "diynetwork.com",
+            "greatamericancountry.com",
+            "hgtv.com",
+            "hgtv.pl",
+            "tlc.com",
+            "ahctv.com",
+            "tudiscovery.com",
+            "investigationdiscovery.com",
+            "discoveryplus.co.uk",
+            "discoveryplus.com",
+            "discoveryplus.fi",
+            "discoveryplus.no",
+            ""
+          ],
+          "name": "Discovery",
+          "updated_at": "2021-05-03T00:02:05.430590",
+          "created_at": "2019-08-08T06:44:56.476497",
+          "slug": "discovery",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "hgtv.com",
+    "data": {
+      "services": [
+        {
+          "id": 1741,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discovery.com",
+            "foodnetwork.com",
+            "asianfoodnetwork.com",
+            "foodnetwork.com.br",
+            "foodnetwork.ca",
+            "foodnetworktv.com",
+            "foodnetwork.co.uk",
+            "foodnetworklatam.com",
+            "animalplanet.com",
+            "destinationamerica.com",
+            "diynetwork.com",
+            "greatamericancountry.com",
+            "hgtv.com",
+            "hgtv.pl",
+            "tlc.com",
+            "ahctv.com",
+            "tudiscovery.com",
+            "investigationdiscovery.com",
+            "discoveryplus.co.uk",
+            "discoveryplus.com",
+            "discoveryplus.fi",
+            "discoveryplus.no",
+            ""
+          ],
+          "name": "Discovery",
+          "updated_at": "2021-05-03T00:02:05.430590",
+          "created_at": "2019-08-08T06:44:56.476497",
+          "slug": "discovery",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "hgtv.pl",
+    "data": {
+      "services": [
+        {
+          "id": 1741,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discovery.com",
+            "foodnetwork.com",
+            "asianfoodnetwork.com",
+            "foodnetwork.com.br",
+            "foodnetwork.ca",
+            "foodnetworktv.com",
+            "foodnetwork.co.uk",
+            "foodnetworklatam.com",
+            "animalplanet.com",
+            "destinationamerica.com",
+            "diynetwork.com",
+            "greatamericancountry.com",
+            "hgtv.com",
+            "hgtv.pl",
+            "tlc.com",
+            "ahctv.com",
+            "tudiscovery.com",
+            "investigationdiscovery.com",
+            "discoveryplus.co.uk",
+            "discoveryplus.com",
+            "discoveryplus.fi",
+            "discoveryplus.no",
+            ""
+          ],
+          "name": "Discovery",
+          "updated_at": "2021-05-03T00:02:05.430590",
+          "created_at": "2019-08-08T06:44:56.476497",
+          "slug": "discovery",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

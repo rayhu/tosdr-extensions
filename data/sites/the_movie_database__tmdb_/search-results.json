@@ -1,0 +1,42 @@
+[
+  {
+    "url": "www.themoviedb.org",
+    "data": {
+      "services": [
+        {
+          "id": 1735,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "www.themoviedb.org",
+            "themoviedb.org"
+          ],
+          "name": "The Movie Database (TMDb)",
+          "updated_at": "2023-07-10T22:01:13.704704",
+          "created_at": "2019-08-03T18:35:55.553199",
+          "slug": "the_movie_database_tmdb",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "themoviedb.org",
+    "data": {
+      "services": [
+        {
+          "id": 1735,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "www.themoviedb.org",
+            "themoviedb.org"
+          ],
+          "name": "The Movie Database (TMDb)",
+          "updated_at": "2023-07-10T22:01:13.704704",
+          "created_at": "2019-08-03T18:35:55.553199",
+          "slug": "the_movie_database_tmdb",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

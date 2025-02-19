@@ -1,0 +1,21 @@
+[
+  {
+    "url": "chicagobusiness.com",
+    "data": {
+      "services": [
+        {
+          "id": 2622,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "chicagobusiness.com"
+          ],
+          "name": "Crain's Chicago Business",
+          "updated_at": "2023-07-10T22:01:36.965772",
+          "created_at": "2021-01-22T19:21:17.375291",
+          "slug": "crains_chicago_business",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "url": "netsyms.com",
+    "data": {
+      "services": [
+        {
+          "id": 837,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "netsyms.com",
+            "netsyms.biz",
+            "netsyms.org",
+            "netsyms.net",
+            "netsyms.dev",
+            "terranquest.net",
+            "ntsm.co",
+            "helpinghelena.org"
+          ],
+          "name": "Netsyms Technologies",
+          "updated_at": "2021-05-14T14:37:54.313345",
+          "created_at": "2018-11-24T06:52:02.788415",
+          "slug": "netsyms_technologies",
+          "rating": "A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "netsyms.biz",
+    "data": {
+      "services": [
+        {
+          "id": 837,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "netsyms.com",
+            "netsyms.biz",
+            "netsyms.org",
+            "netsyms.net",
+            "netsyms.dev",
+            "terranquest.net",
+            "ntsm.co",
+            "helpinghelena.org"
+          ],
+          "name": "Netsyms Technologies",
+          "updated_at": "2021-05-14T14:37:54.313345",
+          "created_at": "2018-11-24T06:52:02.788415",
+          "slug": "netsyms_technologies",
+          "rating": "A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "netsyms.org",
+    "data": {
+      "services": [
+        {
+          "id": 837,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "netsyms.com",
+            "netsyms.biz",
+            "netsyms.org",
+            "netsyms.net",
+            "netsyms.dev",
+            "terranquest.net",
+            "ntsm.co",
+            "helpinghelena.org"
+          ],
+          "name": "Netsyms Technologies",
+          "updated_at": "2021-05-14T14:37:54.313345",
+          "created_at": "2018-11-24T06:52:02.788415",
+          "slug": "netsyms_technologies",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

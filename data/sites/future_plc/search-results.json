@@ -1,0 +1,102 @@
+[
+  {
+    "url": "futureplc.com",
+    "data": {
+      "services": [
+        {
+          "id": 2580,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "futureplc.com",
+            "techradar.com",
+            "musicradar.com",
+            "gamesradar.com",
+            "pcgamer.com",
+            "mixonline.com",
+            "homesandgardens.com"
+          ],
+          "name": "Future PLC",
+          "updated_at": "2023-07-10T22:02:44.420064",
+          "created_at": "2021-01-20T18:20:24.204714",
+          "slug": "future_plc",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "techradar.com",
+    "data": {
+      "services": [
+        {
+          "id": 2580,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "futureplc.com",
+            "techradar.com",
+            "musicradar.com",
+            "gamesradar.com",
+            "pcgamer.com",
+            "mixonline.com",
+            "homesandgardens.com"
+          ],
+          "name": "Future PLC",
+          "updated_at": "2023-07-10T22:02:44.420064",
+          "created_at": "2021-01-20T18:20:24.204714",
+          "slug": "future_plc",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "musicradar.com",
+    "data": {
+      "services": [
+        {
+          "id": 2580,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "futureplc.com",
+            "techradar.com",
+            "musicradar.com",
+            "gamesradar.com",
+            "pcgamer.com",
+            "mixonline.com",
+            "homesandgardens.com"
+          ],
+          "name": "Future PLC",
+          "updated_at": "2023-07-10T22:02:44.420064",
+          "created_at": "2021-01-20T18:20:24.204714",
+          "slug": "future_plc",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "gamesradar.com",
+    "data": {
+      "services": [
+        {
+          "id": 2580,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "futureplc.com",
+            "techradar.com",
+            "musicradar.com",
+            "gamesradar.com",
+            "pcgamer.com",
+            "mixonline.com",
+            "homesandgardens.com"
+          ],
+          "name": "Future PLC",
+          "updated_at": "2023-07-10T22:02:44.420064",
+          "created_at": "2021-01-20T18:20:24.204714",
+          "slug": "future_plc",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "cryptomator.org",
+    "data": {
+      "services": [
+        {
+          "id": 4403,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "cryptomator.org"
+          ],
+          "name": "Cryptomator",
+          "updated_at": "2023-07-10T22:02:00.657643",
+          "created_at": "2021-07-02T20:46:12.601989",
+          "slug": "cryptomator",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

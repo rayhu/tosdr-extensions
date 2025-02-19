@@ -1,0 +1,33 @@
+[
+  {
+    "url": "speedtest.net",
+    "data": {
+      "services": [
+        {
+          "id": 1553,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "speedtest.net"
+          ],
+          "name": "Speedtest by Ookla",
+          "updated_at": "2023-07-10T22:01:16.424703",
+          "created_at": "2019-05-13T05:36:58.264908",
+          "slug": "speedtest_by_ookla",
+          "rating": "E"
+        },
+        {
+          "id": 11080,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "quickspeedtest.net"
+          ],
+          "name": "quickspeedtest.net",
+          "updated_at": "2024-07-01T10:02:32.655249",
+          "created_at": "2024-07-01T03:25:03.661504",
+          "slug": "quickspeedtest-net",
+          "rating": "N/A"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "url": "walmart.com",
+    "data": {
+      "services": [
+        {
+          "id": 445,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "walmart.com",
+            "walmart.ca",
+            "massmart.co.za",
+            "walmartchile.cl",
+            "wal-martchina.com",
+            "walmartmexico.com.mx",
+            "walmartplus.com",
+            "drive4spark.com"
+          ],
+          "name": "Walmart",
+          "updated_at": "2023-07-10T22:00:36.119488",
+          "created_at": "2018-05-08T12:19:44.919809",
+          "slug": "walmart",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "walmart.ca",
+    "data": {
+      "services": [
+        {
+          "id": 445,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "walmart.com",
+            "walmart.ca",
+            "massmart.co.za",
+            "walmartchile.cl",
+            "wal-martchina.com",
+            "walmartmexico.com.mx",
+            "walmartplus.com",
+            "drive4spark.com"
+          ],
+          "name": "Walmart",
+          "updated_at": "2023-07-10T22:00:36.119488",
+          "created_at": "2018-05-08T12:19:44.919809",
+          "slug": "walmart",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "massmart.co.za",
+    "data": {
+      "services": [
+        {
+          "id": 445,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "walmart.com",
+            "walmart.ca",
+            "massmart.co.za",
+            "walmartchile.cl",
+            "wal-martchina.com",
+            "walmartmexico.com.mx",
+            "walmartplus.com",
+            "drive4spark.com"
+          ],
+          "name": "Walmart",
+          "updated_at": "2023-07-10T22:00:36.119488",
+          "created_at": "2018-05-08T12:19:44.919809",
+          "slug": "walmart",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "walmartchile.cl",
+    "data": {
+      "services": [
+        {
+          "id": 445,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "walmart.com",
+            "walmart.ca",
+            "massmart.co.za",
+            "walmartchile.cl",
+            "wal-martchina.com",
+            "walmartmexico.com.mx",
+            "walmartplus.com",
+            "drive4spark.com"
+          ],
+          "name": "Walmart",
+          "updated_at": "2023-07-10T22:00:36.119488",
+          "created_at": "2018-05-08T12:19:44.919809",
+          "slug": "walmart",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "wal-martchina.com",
+    "data": {
+      "services": [
+        {
+          "id": 445,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "walmart.com",
+            "walmart.ca",
+            "massmart.co.za",
+            "walmartchile.cl",
+            "wal-martchina.com",
+            "walmartmexico.com.mx",
+            "walmartplus.com",
+            "drive4spark.com"
+          ],
+          "name": "Walmart",
+          "updated_at": "2023-07-10T22:00:36.119488",
+          "created_at": "2018-05-08T12:19:44.919809",
+          "slug": "walmart",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

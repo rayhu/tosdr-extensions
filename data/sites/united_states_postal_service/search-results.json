@@ -1,0 +1,21 @@
+[
+  {
+    "url": "usps.com",
+    "data": {
+      "services": [
+        {
+          "id": 2530,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "usps.com"
+          ],
+          "name": "United States Postal Service",
+          "updated_at": "2023-07-10T22:00:30.404148",
+          "created_at": "2021-01-16T10:51:12.895372",
+          "slug": "united_states_postal_service",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

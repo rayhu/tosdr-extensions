@@ -1,0 +1,132 @@
+[
+  {
+    "url": "stateofthemap.org",
+    "data": {
+      "services": [
+        {
+          "id": 232,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "openstreetmap.org",
+            "osmfoundation.org",
+            "stateofthemap.org",
+            "stateofthemap.com",
+            "openstreetmap.net",
+            "openstreetmaps.org",
+            "openmaps.org",
+            "osm.org"
+          ],
+          "name": "OpenStreetMap",
+          "updated_at": "2023-07-10T22:02:26.895018",
+          "created_at": "2018-01-16T15:26:06.519258",
+          "slug": "openstreetmap",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "openstreetmap.net",
+    "data": {
+      "services": [
+        {
+          "id": 232,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "openstreetmap.org",
+            "osmfoundation.org",
+            "stateofthemap.org",
+            "stateofthemap.com",
+            "openstreetmap.net",
+            "openstreetmaps.org",
+            "openmaps.org",
+            "osm.org"
+          ],
+          "name": "OpenStreetMap",
+          "updated_at": "2023-07-10T22:02:26.895018",
+          "created_at": "2018-01-16T15:26:06.519258",
+          "slug": "openstreetmap",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "openstreetmaps.org",
+    "data": {
+      "services": [
+        {
+          "id": 232,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "openstreetmap.org",
+            "osmfoundation.org",
+            "stateofthemap.org",
+            "stateofthemap.com",
+            "openstreetmap.net",
+            "openstreetmaps.org",
+            "openmaps.org",
+            "osm.org"
+          ],
+          "name": "OpenStreetMap",
+          "updated_at": "2023-07-10T22:02:26.895018",
+          "created_at": "2018-01-16T15:26:06.519258",
+          "slug": "openstreetmap",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "openmaps.org",
+    "data": {
+      "services": [
+        {
+          "id": 232,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "openstreetmap.org",
+            "osmfoundation.org",
+            "stateofthemap.org",
+            "stateofthemap.com",
+            "openstreetmap.net",
+            "openstreetmaps.org",
+            "openmaps.org",
+            "osm.org"
+          ],
+          "name": "OpenStreetMap",
+          "updated_at": "2023-07-10T22:02:26.895018",
+          "created_at": "2018-01-16T15:26:06.519258",
+          "slug": "openstreetmap",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "osm.org",
+    "data": {
+      "services": [
+        {
+          "id": 232,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "openstreetmap.org",
+            "osmfoundation.org",
+            "stateofthemap.org",
+            "stateofthemap.com",
+            "openstreetmap.net",
+            "openstreetmaps.org",
+            "openmaps.org",
+            "osm.org"
+          ],
+          "name": "OpenStreetMap",
+          "updated_at": "2023-07-10T22:02:26.895018",
+          "created_at": "2018-01-16T15:26:06.519258",
+          "slug": "openstreetmap",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

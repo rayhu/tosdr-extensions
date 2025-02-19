@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://ask.fm/",
+    "data": {
+      "services": [
+        {
+          "id": 370,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "https://ask.fm/"
+          ],
+          "name": "ASKfm",
+          "updated_at": "2023-07-10T22:01:47.270566",
+          "created_at": "2018-05-08T12:19:43.498641",
+          "slug": "askfm",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

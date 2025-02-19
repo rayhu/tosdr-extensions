@@ -1,0 +1,21 @@
+[
+  {
+    "url": "gandi.net",
+    "data": {
+      "services": [
+        {
+          "id": 4423,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "gandi.net"
+          ],
+          "name": "Gandi",
+          "updated_at": "2023-07-10T22:02:01.227967",
+          "created_at": "2021-07-03T19:56:19.793145",
+          "slug": "gandi",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

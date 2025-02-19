@@ -1,0 +1,21 @@
+[
+  {
+    "url": "wattpad.com",
+    "data": {
+      "services": [
+        {
+          "id": 1362,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "wattpad.com"
+          ],
+          "name": "Wattpad",
+          "updated_at": "2023-06-05T22:01:37.884338",
+          "created_at": "2019-01-27T17:23:32.824992",
+          "slug": "wattpad",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

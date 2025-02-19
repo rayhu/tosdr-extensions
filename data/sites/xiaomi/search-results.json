@@ -1,0 +1,155 @@
+[
+  {
+    "url": "mi.com",
+    "data": {
+      "services": [
+        {
+          "id": 406,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mi.com"
+          ],
+          "name": "Xiaomi",
+          "updated_at": "2021-03-25T03:19:50.970660",
+          "created_at": "2018-05-08T12:19:44.250878",
+          "slug": "xiaomi",
+          "rating": "B"
+        },
+        {
+          "id": 5590,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "pmi.com",
+            "pmiprivacy.com"
+          ],
+          "name": "Philip Morris International",
+          "updated_at": "2021-11-13T23:01:10.903603",
+          "created_at": "2021-11-13T20:16:06.900028",
+          "slug": "philip-morris-international",
+          "rating": "N/A"
+        },
+        {
+          "id": 9182,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "taimi.com"
+          ],
+          "name": "Taimi ",
+          "updated_at": "2023-07-14T22:02:29.531489",
+          "created_at": "2023-07-14T21:31:13.044445",
+          "slug": "taimi",
+          "rating": "N/A"
+        },
+        {
+          "id": 9536,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "boomi.com"
+          ],
+          "name": "Boomi",
+          "updated_at": "2023-09-04T10:02:31.928249",
+          "created_at": "2023-09-04T03:36:16.786459",
+          "slug": "boomi",
+          "rating": "N/A"
+        },
+        {
+          "id": 6439,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "epsilon.com",
+            "dotomi.com",
+            "conversantmedia.com",
+            "jdoqocy.com",
+            "emjcd.com"
+          ],
+          "name": "Epsilon Data Management",
+          "updated_at": "2022-08-19T20:43:29.781046",
+          "created_at": "2022-03-21T20:03:24.210069",
+          "slug": "epsilon-data-management",
+          "rating": "N/A"
+        },
+        {
+          "id": 3291,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "scjbrands.com",
+            "scjohnson.com",
+            "whatsinsidescjohnson.com",
+            "bonami.com",
+            "windex.com",
+            "kiwicare.com",
+            "glade.com",
+            "off.com.ar",
+            "pyrel.fr",
+            "autan.fr",
+            "raid.tm.fr",
+            "linharaid.com.br",
+            "ziploc.com.br",
+            "duck.co.uk",
+            "patopurific.uy",
+            "wceend.nl",
+            "duck.co.th",
+            "patowc.com",
+            "toilet-duck.co.za",
+            "duck.ru",
+            "toilet-duck.nz",
+            "patowc.pt",
+            "patopurific.cl",
+            "wcente.de",
+            "duck.co.il",
+            "wc-duck.it",
+            "patomexico.com",
+            "offaustralia.com.au",
+            "linhaoff.com.br",
+            "off.ca",
+            "autan.co",
+            "off.cr",
+            "off.com.ec",
+            "off.com.sv",
+            "off.com.gt",
+            "autan.de",
+            "off.hn",
+            "autan.id",
+            "autan.it",
+            "offmexico.com.mx",
+            "off.com.ni",
+            "off.com.pa",
+            "off.com.pe",
+            "off.com.ph",
+            "off.com.pl",
+            "off-russia.ru",
+            "autan.com.es",
+            "off.com",
+            "offuruguay.com.uy",
+            "toilet-duck.com.au",
+            "canardwc.fr",
+            "mrmuscleclean.com",
+            "linhagrandprix.com.br",
+            "linhabravo.com.br",
+            "ceramicol.com.ar",
+            "pledge.com",
+            "scrubbingbubbles.com",
+            "kabikiller.jp"
+          ],
+          "name": "SC Johnson",
+          "updated_at": "2023-07-10T22:02:51.010111",
+          "created_at": "2021-04-25T12:31:09.270220",
+          "slug": "scjbrands_",
+          "rating": "E"
+        },
+        {
+          "id": 10145,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "konami.com"
+          ],
+          "name": "Konami Digital Entertainment",
+          "updated_at": "2023-12-29T11:02:58.995415",
+          "created_at": "2023-12-29T04:13:05.370513",
+          "slug": "konami-digital-entertainment",
+          "rating": "N/A"
+        }
+      ]
+    }
+  }
+]

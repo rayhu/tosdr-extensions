@@ -1,0 +1,21 @@
+[
+  {
+    "url": "linksys.com",
+    "data": {
+      "services": [
+        {
+          "id": 2582,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linksys.com"
+          ],
+          "name": "Linksys",
+          "updated_at": "2023-07-10T22:01:37.701483",
+          "created_at": "2021-01-20T19:53:52.294490",
+          "slug": "linksys",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

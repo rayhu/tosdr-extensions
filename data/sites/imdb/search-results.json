@@ -1,0 +1,21 @@
+[
+  {
+    "url": "imdb.com",
+    "data": {
+      "services": [
+        {
+          "id": 313,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "imdb.com"
+          ],
+          "name": "IMDb",
+          "updated_at": "2023-07-10T22:01:12.840325",
+          "created_at": "2018-01-16T21:23:10.887006",
+          "slug": "imdb",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

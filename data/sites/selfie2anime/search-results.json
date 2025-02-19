@@ -1,0 +1,21 @@
+[
+  {
+    "url": "selfie2anime.com",
+    "data": {
+      "services": [
+        {
+          "id": 2690,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "selfie2anime.com"
+          ],
+          "name": "Selfie2Anime",
+          "updated_at": "2023-07-10T22:01:36.718705",
+          "created_at": "2021-02-03T16:20:24.339361",
+          "slug": "selfie2anime",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

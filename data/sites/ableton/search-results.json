@@ -1,0 +1,21 @@
+[
+  {
+    "url": "ableton.com",
+    "data": {
+      "services": [
+        {
+          "id": 5643,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ableton.com"
+          ],
+          "name": "Ableton",
+          "updated_at": "2023-07-10T22:02:15.859702",
+          "created_at": "2021-11-16T05:35:39.637759",
+          "slug": "ableton",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

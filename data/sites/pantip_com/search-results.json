@@ -1,0 +1,21 @@
+[
+  {
+    "url": "pantip.com",
+    "data": {
+      "services": [
+        {
+          "id": 6285,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "pantip.com"
+          ],
+          "name": "Pantip.com",
+          "updated_at": "2023-07-10T22:02:21.158838",
+          "created_at": "2022-01-08T19:34:52.349969",
+          "slug": "pantip-com",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "schildi.chat",
+    "data": {
+      "services": [
+        {
+          "id": 3388,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "schildi.chat"
+          ],
+          "name": "SchildiChat",
+          "updated_at": "2023-07-10T22:01:44.576011",
+          "created_at": "2021-05-01T20:43:07.176278",
+          "slug": "schildichat",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

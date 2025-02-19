@@ -1,0 +1,21 @@
+[
+  {
+    "url": "likee.video",
+    "data": {
+      "services": [
+        {
+          "id": 2447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "likee.video"
+          ],
+          "name": "likee",
+          "updated_at": "2023-07-10T22:01:29.001259",
+          "created_at": "2020-12-07T00:34:25.190017",
+          "slug": "likee",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

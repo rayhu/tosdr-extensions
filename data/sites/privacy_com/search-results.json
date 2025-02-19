@@ -1,0 +1,228 @@
+[
+  {
+    "url": "privacy.com",
+    "data": {
+      "services": [
+        {
+          "id": 3262,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "privacy.com"
+          ],
+          "name": "Privacy.com",
+          "updated_at": "2023-07-10T22:01:18.860294",
+          "created_at": "2021-04-23T19:50:17.485069",
+          "slug": "privacy",
+          "rating": "E"
+        },
+        {
+          "id": 4971,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "merckmanuals.com",
+            "msdprivacy.com",
+            "merck.com",
+            "keytruda.com"
+          ],
+          "name": "Merck",
+          "updated_at": "2023-06-30T18:42:42.880393",
+          "created_at": "2021-09-02T23:08:38.037614",
+          "slug": "merck",
+          "rating": "N/A"
+        },
+        {
+          "id": 5590,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "pmi.com",
+            "pmiprivacy.com"
+          ],
+          "name": "Philip Morris International",
+          "updated_at": "2021-11-13T23:01:10.903603",
+          "created_at": "2021-11-13T20:16:06.900028",
+          "slug": "philip-morris-international",
+          "rating": "N/A"
+        },
+        {
+          "id": 7401,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "uskoprivacy.com"
+          ],
+          "name": "Usko",
+          "updated_at": "2023-03-29T19:26:41.186786",
+          "created_at": "2023-02-18T19:45:39.691654",
+          "slug": "usko",
+          "rating": "N/A"
+        },
+        {
+          "id": 11294,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "haloprivacy.com"
+          ],
+          "name": "Halo Privacy   ",
+          "updated_at": "2024-07-19T02:40:40.981435",
+          "created_at": "2024-07-19T02:40:40.981435",
+          "slug": null,
+          "rating": "N/A"
+        },
+        {
+          "id": 1893,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "jumboprivacy.com"
+          ],
+          "name": "Jumbo Privacy",
+          "updated_at": "2023-07-10T22:01:23.896786",
+          "created_at": "2019-10-10T18:45:57.271172",
+          "slug": "jumbo_privacy",
+          "rating": "C"
+        },
+        {
+          "id": 222,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "duckduckgo.com",
+            "3g2upl4pq6kufc4m.onion",
+            "spreadprivacy.com",
+            "duckduckhack.com",
+            "donttrack.us",
+            "duck.co",
+            "duck.com"
+          ],
+          "name": "DuckDuckGo",
+          "updated_at": "2024-04-12T22:01:31.311206",
+          "created_at": "2018-01-16T15:26:06.270020",
+          "slug": "duckduckgo",
+          "rating": "B"
+        },
+        {
+          "id": 2786,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "torrentprivacy.com"
+          ],
+          "name": "Torrent Privacy",
+          "updated_at": "2023-07-10T22:01:40.290767",
+          "created_at": "2021-02-17T10:15:30.886234",
+          "slug": "torrent_privacy",
+          "rating": "C"
+        },
+        {
+          "id": 7228,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "sethforprivacy.com",
+            "teddit.sethforprivacy.com",
+            "cryptpad.sethforprivacy.com",
+            "invidious.sethforprivacy.com",
+            "nitter.sethforprivacy.com",
+            "paste.sethforprivacy.com",
+            "search.sethforprivacy.com",
+            "searx.sethforprivacy.com",
+            "status.sethforprivacy.com",
+            "wl.vern.cc"
+          ],
+          "name": "Seth For Privacy",
+          "updated_at": "2023-01-22T17:00:17.197630",
+          "created_at": "2023-01-05T03:40:57.941099",
+          "slug": "seth-for-privacy",
+          "rating": "N/A"
+        },
+        {
+          "id": 7269,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "restoreprivacy.com"
+          ],
+          "name": "Restore Privacy",
+          "updated_at": "2023-01-22T17:00:19.761664",
+          "created_at": "2023-01-18T04:06:48.486449",
+          "slug": "restore-privacy",
+          "rating": "N/A"
+        },
+        {
+          "id": 2259,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "perfect-privacy.com"
+          ],
+          "name": "Perfect Privacy VPN",
+          "updated_at": "2023-07-10T22:01:23.800988",
+          "created_at": "2020-06-17T06:46:24.991807",
+          "slug": "perfect_privacy_vpn",
+          "rating": "C"
+        },
+        {
+          "id": 10523,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "lockdownprivacy.com"
+          ],
+          "name": "Lockdown",
+          "updated_at": "2024-01-12T23:02:47.896305",
+          "created_at": "2024-01-12T19:30:27.056757",
+          "slug": "lockdown",
+          "rating": "N/A"
+        },
+        {
+          "id": 3255,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "viacomcbs.com",
+            "comicbook.com",
+            "viacomcbsprivacy.com",
+            "viacomcbs.legal",
+            "cbssports.com",
+            "cbsi.secure.force.com",
+            "findarticles.com",
+            "cbsinteractive.com",
+            "ca.privacy.cbs",
+            "viacbs.com",
+            "cbs.com",
+            "rachaelrayshow.com",
+            "startrek.com",
+            "insideedition.com",
+            "internetbuyer.com"
+          ],
+          "name": "ViacomCBS",
+          "updated_at": "2023-07-10T22:02:55.692015",
+          "created_at": "2021-04-23T19:41:35.998907",
+          "slug": "cbs_sports",
+          "rating": "D"
+        },
+        {
+          "id": 516,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "warnerbros.com",
+            "warnerbroscareers.com",
+            "wbstudiotour.com",
+            "wbsl.com",
+            "watertower-music.com",
+            "dccomics.com",
+            "wbparents.com",
+            "wbkidsgo.com",
+            "dckids.com",
+            "warnertv.com",
+            "telepicturestv.com",
+            "telepicturesmusic.com",
+            "tmz.com",
+            "truecrimedaily.com",
+            "toofab.com",
+            "warnermediaprivacy.com",
+            "mortalkombat.com",
+            "wbgames.com",
+            "warnerbrosgames.com"
+          ],
+          "name": "Warner Bros",
+          "updated_at": "2023-11-17T20:18:45.407119",
+          "created_at": "2018-06-04T18:25:32.325558",
+          "slug": "warner_bros",
+          "rating": "N/A"
+        }
+      ]
+    }
+  }
+]

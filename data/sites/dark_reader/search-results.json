@@ -1,0 +1,21 @@
+[
+  {
+    "url": "darkreader.org",
+    "data": {
+      "services": [
+        {
+          "id": 3434,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "darkreader.org"
+          ],
+          "name": "Dark Reader",
+          "updated_at": "2023-07-10T22:00:38.884052",
+          "created_at": "2021-05-03T22:48:31.299424",
+          "slug": "dark_reader",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

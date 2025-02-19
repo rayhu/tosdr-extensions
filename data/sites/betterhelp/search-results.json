@@ -1,0 +1,21 @@
+[
+  {
+    "url": "betterhelp.com",
+    "data": {
+      "services": [
+        {
+          "id": 1012,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "betterhelp.com"
+          ],
+          "name": "BetterHelp",
+          "updated_at": "2023-07-10T22:01:07.259564",
+          "created_at": "2019-01-01T20:24:35.233020",
+          "slug": "betterhelp",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

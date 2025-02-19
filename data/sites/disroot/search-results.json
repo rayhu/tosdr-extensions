@@ -1,0 +1,21 @@
+[
+  {
+    "url": "disroot.org",
+    "data": {
+      "services": [
+        {
+          "id": 1826,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "disroot.org"
+          ],
+          "name": "Disroot",
+          "updated_at": "2021-06-13T22:00:27.905099",
+          "created_at": "2019-09-07T22:00:11.552232",
+          "slug": "disroot",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

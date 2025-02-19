@@ -1,0 +1,21 @@
+[
+  {
+    "url": "patook.com",
+    "data": {
+      "services": [
+        {
+          "id": 798,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "patook.com"
+          ],
+          "name": "Patook",
+          "updated_at": "2023-07-10T22:01:04.514116",
+          "created_at": "2018-10-25T22:42:07.984319",
+          "slug": "patook",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "filen.io",
+    "data": {
+      "services": [
+        {
+          "id": 6820,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "filen.io"
+          ],
+          "name": "Filen",
+          "updated_at": "2023-07-10T22:02:27.530465",
+          "created_at": "2022-09-05T08:11:54.010985",
+          "slug": "filen",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "cnbc.com",
+    "data": {
+      "services": [
+        {
+          "id": 2808,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "cnbc.com"
+          ],
+          "name": "Consumer News & Business Channel",
+          "updated_at": "2023-07-10T22:02:50.758799",
+          "created_at": "2021-03-10T13:16:04.194118",
+          "slug": "cnbc_consumer_news_business_channel",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "kik.com",
+    "data": {
+      "services": [
+        {
+          "id": 358,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "kik.com"
+          ],
+          "name": "kik-messenger",
+          "updated_at": "2023-07-10T22:00:52.705503",
+          "created_at": "2018-05-08T12:19:43.250929",
+          "slug": "kikmessenger",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

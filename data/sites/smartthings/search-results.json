@@ -1,0 +1,21 @@
+[
+  {
+    "url": "smartthings.com",
+    "data": {
+      "services": [
+        {
+          "id": 3428,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "smartthings.com"
+          ],
+          "name": "SmartThings",
+          "updated_at": "2023-07-10T22:00:36.710118",
+          "created_at": "2021-05-03T18:03:28.068919",
+          "slug": "smartthings",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

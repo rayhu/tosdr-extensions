@@ -1,0 +1,21 @@
+[
+  {
+    "url": "opencollective.com",
+    "data": {
+      "services": [
+        {
+          "id": 2617,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "opencollective.com"
+          ],
+          "name": "Open Collective",
+          "updated_at": "2023-07-10T22:01:42.556241",
+          "created_at": "2021-01-21T07:59:50.249503",
+          "slug": "opencollective",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

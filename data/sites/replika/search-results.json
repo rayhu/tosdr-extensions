@@ -1,0 +1,21 @@
+[
+  {
+    "url": "replika.ai",
+    "data": {
+      "services": [
+        {
+          "id": 2909,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "replika.ai"
+          ],
+          "name": "Replika",
+          "updated_at": "2023-07-10T22:00:36.000714",
+          "created_at": "2021-03-31T09:52:55.057220",
+          "slug": "replika",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

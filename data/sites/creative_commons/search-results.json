@@ -1,0 +1,21 @@
+[
+  {
+    "url": "creativecommons.org",
+    "data": {
+      "services": [
+        {
+          "id": 2031,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "creativecommons.org"
+          ],
+          "name": "Creative Commons",
+          "updated_at": "2023-07-10T22:01:36.060103",
+          "created_at": "2019-12-02T12:10:16.815780",
+          "slug": "creative_commons",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

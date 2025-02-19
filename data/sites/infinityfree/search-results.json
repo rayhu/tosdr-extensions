@@ -1,0 +1,42 @@
+[
+  {
+    "url": "infinityfree.net",
+    "data": {
+      "services": [
+        {
+          "id": 4780,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "infinityfree.net",
+            "infinityfree.com"
+          ],
+          "name": "InfinityFree",
+          "updated_at": "2024-01-26T18:46:46.084466",
+          "created_at": "2021-07-16T20:56:24.583679",
+          "slug": "infinityfree",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "infinityfree.com",
+    "data": {
+      "services": [
+        {
+          "id": 4780,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "infinityfree.net",
+            "infinityfree.com"
+          ],
+          "name": "InfinityFree",
+          "updated_at": "2024-01-26T18:46:46.084466",
+          "created_at": "2021-07-16T20:56:24.583679",
+          "slug": "infinityfree",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "keepassxc.org",
+    "data": {
+      "services": [
+        {
+          "id": 3804,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "keepassxc.org"
+          ],
+          "name": "KeePassXC",
+          "updated_at": "2021-06-25T22:09:36.138169",
+          "created_at": "2021-05-28T22:17:18.880788",
+          "slug": "keepassxc",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

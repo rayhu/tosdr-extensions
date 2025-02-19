@@ -1,0 +1,21 @@
+[
+  {
+    "url": "bluemail.me",
+    "data": {
+      "services": [
+        {
+          "id": 2848,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "bluemail.me"
+          ],
+          "name": "BlueMail",
+          "updated_at": "2023-07-10T22:01:42.866503",
+          "created_at": "2021-03-23T18:21:54.100994",
+          "slug": "bluemail",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

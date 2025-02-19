@@ -1,0 +1,21 @@
+[
+  {
+    "url": "picoxr.com",
+    "data": {
+      "services": [
+        {
+          "id": 7103,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "picoxr.com"
+          ],
+          "name": "Pico",
+          "updated_at": "2023-07-10T22:02:29.273607",
+          "created_at": "2022-12-20T20:22:04.477662",
+          "slug": "pico",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

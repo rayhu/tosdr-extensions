@@ -1,0 +1,157 @@
+[
+  {
+    "url": "leagueoflegends.com",
+    "data": {
+      "services": [
+        {
+          "id": 369,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "leagueoflegends.com",
+            "lolesports.com",
+            "riotgames.com",
+            "playruneterra.com",
+            "playvalorant.com",
+            "riotforgegames.com",
+            "valorantesports.com",
+            "arcane.com",
+            "themageseeker.com",
+            "ruinedking.com",
+            "hextechmayhem.com",
+            "convrgencegame.com",
+            "songofnunu.com"
+          ],
+          "name": "Riot Games (League of Legends)",
+          "updated_at": "2023-12-28T17:17:23.613404",
+          "created_at": "2018-05-08T12:19:43.481167",
+          "slug": "riot_games",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "lolesports.com",
+    "data": {
+      "services": [
+        {
+          "id": 369,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "leagueoflegends.com",
+            "lolesports.com",
+            "riotgames.com",
+            "playruneterra.com",
+            "playvalorant.com",
+            "riotforgegames.com",
+            "valorantesports.com",
+            "arcane.com",
+            "themageseeker.com",
+            "ruinedking.com",
+            "hextechmayhem.com",
+            "convrgencegame.com",
+            "songofnunu.com"
+          ],
+          "name": "Riot Games (League of Legends)",
+          "updated_at": "2023-12-28T17:17:23.613404",
+          "created_at": "2018-05-08T12:19:43.481167",
+          "slug": "riot_games",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "riotgames.com",
+    "data": {
+      "services": [
+        {
+          "id": 369,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "leagueoflegends.com",
+            "lolesports.com",
+            "riotgames.com",
+            "playruneterra.com",
+            "playvalorant.com",
+            "riotforgegames.com",
+            "valorantesports.com",
+            "arcane.com",
+            "themageseeker.com",
+            "ruinedking.com",
+            "hextechmayhem.com",
+            "convrgencegame.com",
+            "songofnunu.com"
+          ],
+          "name": "Riot Games (League of Legends)",
+          "updated_at": "2023-12-28T17:17:23.613404",
+          "created_at": "2018-05-08T12:19:43.481167",
+          "slug": "riot_games",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "playruneterra.com",
+    "data": {
+      "services": [
+        {
+          "id": 369,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "leagueoflegends.com",
+            "lolesports.com",
+            "riotgames.com",
+            "playruneterra.com",
+            "playvalorant.com",
+            "riotforgegames.com",
+            "valorantesports.com",
+            "arcane.com",
+            "themageseeker.com",
+            "ruinedking.com",
+            "hextechmayhem.com",
+            "convrgencegame.com",
+            "songofnunu.com"
+          ],
+          "name": "Riot Games (League of Legends)",
+          "updated_at": "2023-12-28T17:17:23.613404",
+          "created_at": "2018-05-08T12:19:43.481167",
+          "slug": "riot_games",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "playvalorant.com",
+    "data": {
+      "services": [
+        {
+          "id": 369,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "leagueoflegends.com",
+            "lolesports.com",
+            "riotgames.com",
+            "playruneterra.com",
+            "playvalorant.com",
+            "riotforgegames.com",
+            "valorantesports.com",
+            "arcane.com",
+            "themageseeker.com",
+            "ruinedking.com",
+            "hextechmayhem.com",
+            "convrgencegame.com",
+            "songofnunu.com"
+          ],
+          "name": "Riot Games (League of Legends)",
+          "updated_at": "2023-12-28T17:17:23.613404",
+          "created_at": "2018-05-08T12:19:43.481167",
+          "slug": "riot_games",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "disneyplus.com",
+    "data": {
+      "services": [
+        {
+          "id": 2745,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "disneyplus.com"
+          ],
+          "name": "Disney+",
+          "updated_at": "2023-07-10T22:01:38.521779",
+          "created_at": "2021-02-06T20:57:26.230472",
+          "slug": "disney",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

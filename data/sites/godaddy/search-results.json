@@ -1,0 +1,42 @@
+[
+  {
+    "url": "godaddy.com",
+    "data": {
+      "services": [
+        {
+          "id": 347,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "godaddy.com",
+            "godaddy.net"
+          ],
+          "name": "GoDaddy",
+          "updated_at": "2023-09-19T22:01:14.407353",
+          "created_at": "2018-05-08T12:19:42.984886",
+          "slug": "godaddy",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "godaddy.net",
+    "data": {
+      "services": [
+        {
+          "id": 347,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "godaddy.com",
+            "godaddy.net"
+          ],
+          "name": "GoDaddy",
+          "updated_at": "2023-09-19T22:01:14.407353",
+          "created_at": "2018-05-08T12:19:42.984886",
+          "slug": "godaddy",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

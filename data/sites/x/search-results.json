@@ -1,0 +1,1876 @@
+[
+  {
+    "url": "twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion",
+    "data": {
+      "services": [
+        {
+          "id": 195,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "twitter.com",
+            "blog.twitter.com",
+            "analytics.twitter.com",
+            "tweetdeck.twitter.com",
+            "ads-twitter.com",
+            "twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion",
+            "x.com"
+          ],
+          "name": "X",
+          "updated_at": "2023-09-02T20:55:12.577633",
+          "created_at": "2018-01-16T15:26:05.726759",
+          "slug": "twitter",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "x.com",
+    "data": {
+      "services": [
+        {
+          "id": 195,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "twitter.com",
+            "blog.twitter.com",
+            "analytics.twitter.com",
+            "tweetdeck.twitter.com",
+            "ads-twitter.com",
+            "twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion",
+            "x.com"
+          ],
+          "name": "X",
+          "updated_at": "2023-09-02T20:55:12.577633",
+          "created_at": "2018-01-16T15:26:05.726759",
+          "slug": "twitter",
+          "rating": "E"
+        },
+        {
+          "id": 1750,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "vox.com"
+          ],
+          "name": "Vox",
+          "updated_at": "2023-06-05T22:00:34.143144",
+          "created_at": "2019-08-12T06:41:28.459688",
+          "slug": "vox",
+          "rating": "E"
+        },
+        {
+          "id": 2958,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "ftx.com"
+          ],
+          "name": "FTX",
+          "updated_at": "2021-04-06T00:01:39.481149",
+          "created_at": "2021-04-04T16:23:54.996610",
+          "slug": "ftx",
+          "rating": "N/A"
+        },
+        {
+          "id": 2961,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "mix.com",
+            "stumbleupon.com"
+          ],
+          "name": "Mix",
+          "updated_at": "2021-08-07T15:31:21.185970",
+          "created_at": "2021-04-04T16:28:28.074510",
+          "slug": "mix",
+          "rating": "N/A"
+        },
+        {
+          "id": 434,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "cox.com"
+          ],
+          "name": "Cox",
+          "updated_at": "2021-07-07T02:38:57.502500",
+          "created_at": "2018-05-08T12:19:44.744701",
+          "slug": "cox",
+          "rating": "N/A"
+        },
+        {
+          "id": 287,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "wix.com",
+            "wixapps.net",
+            "wixstatic.com",
+            "wix-code.com",
+            "parastorage.com",
+            "wixdns.net"
+          ],
+          "name": "wix",
+          "updated_at": "2023-07-10T22:00:52.878011",
+          "created_at": "2018-01-16T15:26:07.456700",
+          "slug": "wix",
+          "rating": "D"
+        },
+        {
+          "id": 1610,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "gmx.com"
+          ],
+          "name": "gmx",
+          "updated_at": "2023-07-10T22:01:07.397253",
+          "created_at": "2019-06-04T14:01:36.173728",
+          "slug": "gmx",
+          "rating": "C"
+        },
+        {
+          "id": 3848,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "box.com"
+          ],
+          "name": "Box",
+          "updated_at": "2023-07-10T22:01:53.398512",
+          "created_at": "2021-05-30T20:41:15.676641",
+          "slug": "box",
+          "rating": "D"
+        },
+        {
+          "id": 341,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "olx.com"
+          ],
+          "name": "OLX",
+          "updated_at": "2023-06-05T22:02:03.866558",
+          "created_at": "2018-05-08T11:34:52.002573",
+          "slug": "olx",
+          "rating": "E"
+        },
+        {
+          "id": 5388,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "aax.com"
+          ],
+          "name": "AAX.com",
+          "updated_at": "2023-06-05T22:02:19.063300",
+          "created_at": "2021-10-31T23:55:58.010031",
+          "slug": "aax-com",
+          "rating": "C"
+        },
+        {
+          "id": 7235,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "hex.com"
+          ],
+          "name": "Hex Official Site",
+          "updated_at": "2023-01-22T17:00:17.475357",
+          "created_at": "2023-01-06T23:23:03.442901",
+          "slug": "hex-official-site",
+          "rating": "N/A"
+        },
+        {
+          "id": 3122,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "epix.com"
+          ],
+          "name": "EPIX",
+          "updated_at": "2022-12-16T04:28:20.921153",
+          "created_at": "2021-04-13T22:42:47.104722",
+          "slug": "epix_",
+          "rating": "N/A"
+        },
+        {
+          "id": 3533,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "hoxx.com"
+          ],
+          "name": "Hoxx VPN Services",
+          "updated_at": "2021-05-08T00:02:35.891413",
+          "created_at": "2021-05-07T17:20:52.978045",
+          "slug": "hoxx_vpn_services",
+          "rating": "N/A"
+        },
+        {
+          "id": 5479,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "owox.com"
+          ],
+          "name": "OWOX",
+          "updated_at": "2021-11-03T23:01:07.301407",
+          "created_at": "2021-11-03T23:23:16.862813",
+          "slug": "owox",
+          "rating": "N/A"
+        },
+        {
+          "id": 244,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "powerapps.com",
+            "microsoft.com",
+            "xbox.com",
+            "microsoft.org",
+            "microsoft.net",
+            "microsoft.co.uk",
+            "live.com",
+            "microsoftedgeinsider.com",
+            "msdn.com",
+            "office.com",
+            "office365.com",
+            "msn.com",
+            "typescriptlang.org",
+            "microsoft.com",
+            "groupme.com",
+            "skype.com",
+            "microsoft.nl",
+            "microsoft.co",
+            "microsoft.dk",
+            "outlook.dk",
+            "skype.dk",
+            "outlook.com.au",
+            "yammer.com",
+            "azure.com",
+            "userpxt.io",
+            "azureedge.net",
+            "onedrive.com",
+            "microsoftnewskids.com",
+            "makecode.com",
+            "microbit.org",
+            "makecode.microbit.org",
+            "microsoftonline.com",
+            "hololens.com",
+            "sysinternals.com",
+            "1drv.ms",
+            "dreamspark.com",
+            "redirect.microsoft",
+            "clarity.ms",
+            "vscode.dev",
+            "visualstudio.com",
+            "github.dev",
+            "teams.com",
+            "customsearch.ai",
+            "windows.com",
+            "aka.ms",
+            "customsearch.ai"
+          ],
+          "name": "Microsoft Services",
+          "updated_at": "2023-11-17T19:15:40.801937",
+          "created_at": "2018-01-16T15:26:06.736220",
+          "slug": "microsoft_services",
+          "rating": "E"
+        },
+        {
+          "id": 290,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "fruux.com"
+          ],
+          "name": "fruux",
+          "updated_at": "2023-07-10T22:00:52.212556",
+          "created_at": "2018-01-16T15:26:07.505254",
+          "slug": "fruux",
+          "rating": "D"
+        },
+        {
+          "id": 2807,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "dubox.com"
+          ],
+          "name": "Dubox",
+          "updated_at": "2021-03-25T03:19:58.086743",
+          "created_at": "2021-03-10T13:07:19.038394",
+          "slug": "dubox",
+          "rating": "N/A"
+        },
+        {
+          "id": 1023,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "forex.com"
+          ],
+          "name": "FOREX.com",
+          "updated_at": "2022-12-04T00:20:30.288032",
+          "created_at": "2019-01-02T18:14:58.510376",
+          "slug": "forexcom",
+          "rating": "N/A"
+        },
+        {
+          "id": 2486,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "imgix.com",
+            "imgix.net"
+          ],
+          "name": "Imgix",
+          "updated_at": "2023-06-05T22:01:28.226730",
+          "created_at": "2021-01-01T20:14:53.835822",
+          "slug": "imgix",
+          "rating": "C"
+        },
+        {
+          "id": 282,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "500px.com",
+            "500px.me",
+            "500px.org",
+            "500px.net"
+          ],
+          "name": "500px",
+          "updated_at": "2023-07-10T22:01:21.238813",
+          "created_at": "2018-01-16T15:26:07.389869",
+          "slug": "500px",
+          "rating": "C"
+        },
+        {
+          "id": 3791,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "aerux.com"
+          ],
+          "name": "Aerux Broadband",
+          "updated_at": "2021-05-27T22:00:23.183208",
+          "created_at": "2021-05-27T22:19:15.194938",
+          "slug": "aerux_broadband",
+          "rating": "N/A"
+        },
+        {
+          "id": 4421,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "findx.com"
+          ],
+          "name": "findx",
+          "updated_at": "2021-07-03T22:00:51.085479",
+          "created_at": "2021-07-03T19:54:41.824263",
+          "slug": "findx",
+          "rating": "N/A"
+        },
+        {
+          "id": 5202,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "pobox.com"
+          ],
+          "name": "Pobox",
+          "updated_at": "2023-05-04T22:01:46.261546",
+          "created_at": "2021-10-20T23:42:13.653075",
+          "slug": "pobox",
+          "rating": "B"
+        },
+        {
+          "id": 5362,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "tappx.com"
+          ],
+          "name": "Tappx",
+          "updated_at": "2021-10-30T22:01:11.603555",
+          "created_at": "2021-10-30T01:16:27.294898",
+          "slug": "tappx",
+          "rating": "N/A"
+        },
+        {
+          "id": 6908,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "genfx.com"
+          ],
+          "name": "GenFX",
+          "updated_at": "2022-11-18T23:01:09.727587",
+          "created_at": "2022-11-18T19:16:27.600508",
+          "slug": "genfx",
+          "rating": "N/A"
+        },
+        {
+          "id": 7337,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "openx.com",
+            "proprofs-ui.openx.net",
+            "openx.net"
+          ],
+          "name": "OpenX",
+          "updated_at": "2023-03-29T19:26:38.216259",
+          "created_at": "2023-01-24T04:22:46.113679",
+          "slug": "openx",
+          "rating": "N/A"
+        },
+        {
+          "id": 332,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "jagex.com",
+            "runescape.com"
+          ],
+          "name": "Jagex (including RuneScape)",
+          "updated_at": "2023-07-10T22:02:48.748602",
+          "created_at": "2018-03-05T09:25:13.042273",
+          "slug": "jagex_including_runescape",
+          "rating": "C"
+        },
+        {
+          "id": 9454,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "artix.com",
+            "battleon.com"
+          ],
+          "name": "Artix Entertainment, LLC.",
+          "updated_at": "2023-09-01T10:02:30.883231",
+          "created_at": "2023-09-01T04:30:55.792177",
+          "slug": "artix-entertainment-llc",
+          "rating": "N/A"
+        },
+        {
+          "id": 9557,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "jumex.com"
+          ],
+          "name": "Jumex ",
+          "updated_at": "2023-09-05T10:02:23.778067",
+          "created_at": "2023-09-04T22:44:52.533501",
+          "slug": "jumex",
+          "rating": "N/A"
+        },
+        {
+          "id": 2581,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "cisco.com",
+            "webex.com"
+          ],
+          "name": "Cisco",
+          "updated_at": "2023-11-17T19:28:46.105907",
+          "created_at": "2021-01-20T18:26:30.928362",
+          "slug": "cisco",
+          "rating": "D"
+        },
+        {
+          "id": 10041,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "lorex.com"
+          ],
+          "name": "Lorex ",
+          "updated_at": "2023-12-27T23:03:07.259423",
+          "created_at": "2023-12-27T19:06:12.343769",
+          "slug": "lorex",
+          "rating": "N/A"
+        },
+        {
+          "id": 10544,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "fedex.com"
+          ],
+          "name": "fedex",
+          "updated_at": "2024-01-12T23:02:48.519145",
+          "created_at": "2024-01-12T22:34:35.599640",
+          "slug": "fedex",
+          "rating": "N/A"
+        },
+        {
+          "id": 217,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "google.com",
+            "google.co.in",
+            "google.co.jp",
+            "google.de",
+            "google.co.uk",
+            "google.com.br",
+            "google.fr",
+            "google.ru",
+            "google.it",
+            "google.com.hk",
+            "google.es",
+            "google.ca",
+            "google.com.mx",
+            "google.com.tr",
+            "google.com.au",
+            "google.com.tw",
+            "google.pl",
+            "google.co.id",
+            "google.com.ar",
+            "google.com.ua",
+            "google.com.pk",
+            "google.co.th",
+            "google.com.sa",
+            "google.com.eg",
+            "google.nl",
+            "google.co.ve",
+            "google.co.za",
+            "google.gr",
+            "google.com.ph",
+            "google.se",
+            "google.com.sg",
+            "google.be",
+            "google.az",
+            "google.co.ao",
+            "google.com.co",
+            "google.co.kr",
+            "google.at",
+            "google.com.vn",
+            "google.cn",
+            "google.com.ng",
+            "google.cz",
+            "google.ch",
+            "google.no",
+            "google.ro",
+            "google.com.pe",
+            "google.pt",
+            "google.cl",
+            "google.ae",
+            "google.ie",
+            "google.dk",
+            "google.dz",
+            "google.hu",
+            "google.fi",
+            "google.co.il",
+            "google.sk",
+            "google.kz",
+            "google.com.kw",
+            "google.co.nz",
+            "google.lk",
+            "google.bg",
+            "google.by",
+            "google.com.do",
+            "google.com.ly",
+            "google.rs",
+            "google.com.mm",
+            "google.hr",
+            "google.com.ec",
+            "google.tn",
+            "google.com.my",
+            "google.lt",
+            "google.tm",
+            "google.iq",
+            "google.si",
+            "google.com.af",
+            "google.com.gt",
+            "google.lv",
+            "google.com.pr",
+            "google.com.gh",
+            "google.com.bd",
+            "google.com.cu",
+            "google.jo",
+            "google.com.lb",
+            "google.com.sv",
+            "google.ee",
+            "google.com.bh",
+            "google.ba",
+            "google.com.uy",
+            "google.co.ma",
+            "google.cm",
+            "google.tt",
+            "google.com.kh",
+            "google.com.py",
+            "google.com.np",
+            "google.com.cy",
+            "google.com.ni",
+            "google.com.et",
+            "google.cd",
+            "google.hn",
+            "google.ge",
+            "google.am",
+            "google.lu",
+            "google.com.qa",
+            "google.co.mz",
+            "google.co.bw",
+            "google.mg",
+            "google.sn",
+            "google.com.pg",
+            "google.cg",
+            "google.com.bn",
+            "google.com.tj",
+            "google.ht",
+            "google.co.zm",
+            "google.co.ke",
+            "google.al",
+            "google.bf",
+            "google.mu",
+            "google.co.cr",
+            "google.la",
+            "google.mn",
+            "google.com.bo",
+            "google.org",
+            "google.com.jm",
+            "google.co.tz",
+            "google.com.na",
+            "google.ml",
+            "google.com.mt",
+            "google.is",
+            "google.bj",
+            "google.co.ug",
+            "google.rw",
+            "google.com.om",
+            "google.ci",
+            "google.bs",
+            "google.td",
+            "google.ps",
+            "google.com.gi",
+            "google.com.pa",
+            "google.com.sl",
+            "google.co.uz",
+            "google.md",
+            "google.bi",
+            "google.sr",
+            "google.cat",
+            "google.so",
+            "google.bt",
+            "google.je",
+            "google.gy",
+            "google.me",
+            "google.co.zw",
+            "google.gp",
+            "google.tg",
+            "google.co.ls",
+            "google.as",
+            "google.com.bz",
+            "google.cf",
+            "google.mv",
+            "google.ad",
+            "google.li",
+            "google.cv",
+            "google.mk",
+            "google.com.vc",
+            "google.com.ag",
+            "google.gl",
+            "google.ne",
+            "google.mw",
+            "google.ws",
+            "google.kg",
+            "google.gm",
+            "google.to",
+            "google.com.sb",
+            "google.com.tn",
+            "google.ga",
+            "google.tl",
+            "google.im",
+            "google.com.fj",
+            "google.dj",
+            "google.ac",
+            "google.com.iq",
+            "google.vg",
+            "google.dm",
+            "google.sc",
+            "google.com.pt",
+            "google.com.cn",
+            "google.st",
+            "google.ng",
+            "google.com.ai",
+            "google.ki",
+            "google.vu",
+            "google.sm",
+            "google.jp",
+            "google.om",
+            "google.co.vi",
+            "google.gg",
+            "google.fm",
+            "google.hk",
+            "google.co.ck",
+            "google.tk",
+            "google.co",
+            "google.in",
+            "google.co.je",
+            "google.com.ve",
+            "google.tw",
+            "google.us",
+            "google.ua",
+            "google.de.com",
+            "google.ms",
+            "google.com.by",
+            "google.nr",
+            "google.br.com",
+            "google.sh",
+            "google.hk.com",
+            "google.kr",
+            "maps.google.com",
+            "gmail.google.com",
+            "pki.goog",
+            "alooma.com",
+            "thinkwithgoogle.com",
+            "blogger.com",
+            "x.company",
+            "crashlytics.com",
+            "translate.goog",
+            "opensource.google",
+            "nest.com",
+            "home.nest.com",
+            "googlesource.com",
+            "teachfromanywhere.google",
+            "about.google",
+            "googleusercontent.com",
+            "withgoogle.com",
+            "csfirst.withgoogle.com",
+            "chrome.com",
+            "developer.chrome.com",
+            "mail.google.com"
+          ],
+          "name": "Google",
+          "updated_at": "2024-07-16T10:47:15.218795",
+          "created_at": "2018-01-16T15:26:06.179873",
+          "slug": "google",
+          "rating": "E"
+        },
+        {
+          "id": 3117,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "stockx.com"
+          ],
+          "name": "StockX",
+          "updated_at": "2021-04-14T00:02:38.349385",
+          "created_at": "2021-04-13T22:12:46.496780",
+          "slug": "stockx",
+          "rating": "N/A"
+        },
+        {
+          "id": 2976,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "runbox.com"
+          ],
+          "name": "Runbox",
+          "updated_at": "2021-04-06T00:01:39.403868",
+          "created_at": "2021-04-05T21:56:51.654947",
+          "slug": "runbox",
+          "rating": "N/A"
+        },
+        {
+          "id": 3709,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "neobux.com"
+          ],
+          "name": "NeoBux ",
+          "updated_at": "2021-05-19T22:00:17.479771",
+          "created_at": "2021-05-19T17:22:07.459683",
+          "slug": "neobux_",
+          "rating": "N/A"
+        },
+        {
+          "id": 1873,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "limmex.com"
+          ],
+          "name": "Limmex",
+          "updated_at": "2021-03-25T03:19:40.474158",
+          "created_at": "2019-09-22T23:01:45.547781",
+          "slug": "limmex",
+          "rating": "N/A"
+        },
+        {
+          "id": 2024,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "mapbox.com"
+          ],
+          "name": "Mapbox",
+          "updated_at": "2021-03-25T03:19:42.012051",
+          "created_at": "2019-11-29T11:35:06.807283",
+          "slug": "mapbox",
+          "rating": "N/A"
+        },
+        {
+          "id": 1336,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "roblox.com"
+          ],
+          "name": "Roblox",
+          "updated_at": "2023-06-05T22:01:18.002431",
+          "created_at": "2019-01-06T17:19:32.401685",
+          "slug": "roblox",
+          "rating": "C"
+        },
+        {
+          "id": 860,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yandex.com",
+            "yandex.ru",
+            "yandex.ua",
+            "yandex.by",
+            "yandex.kz",
+            "yandex.uz",
+            "yandex.com.tr",
+            "alice.yandex.ru",
+            ""
+          ],
+          "name": "Yandex",
+          "updated_at": "2023-07-10T22:01:26.839101",
+          "created_at": "2018-12-19T03:25:44.602542",
+          "slug": "yandex",
+          "rating": "E"
+        },
+        {
+          "id": 1369,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "carfax.com"
+          ],
+          "name": "Carfax",
+          "updated_at": "2021-03-25T03:19:54.738251",
+          "created_at": "2019-02-04T00:20:08.896723",
+          "slug": "carfax",
+          "rating": "N/A"
+        },
+        {
+          "id": 2549,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "hbomax.com"
+          ],
+          "name": "HBO Max",
+          "updated_at": "2021-03-25T03:19:55.292297",
+          "created_at": "2021-01-18T17:34:21.257928",
+          "slug": "hbo_max",
+          "rating": "N/A"
+        },
+        {
+          "id": 4518,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "mobfox.com"
+          ],
+          "name": "Mobfox ",
+          "updated_at": "2021-07-06T22:00:45.528977",
+          "created_at": "2021-07-06T03:21:07.721709",
+          "slug": "mobfox",
+          "rating": "N/A"
+        },
+        {
+          "id": 4864,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "wazirx.com"
+          ],
+          "name": "WazirX",
+          "updated_at": "2021-08-16T22:01:10.256875",
+          "created_at": "2021-08-16T22:34:52.308859",
+          "slug": "wazirx",
+          "rating": "N/A"
+        },
+        {
+          "id": 6155,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "tagger.opecloud.com",
+            "opecloud.com",
+            "1plusx.com"
+          ],
+          "name": "1plusX ",
+          "updated_at": "2021-12-22T23:01:20.451316",
+          "created_at": "2021-12-22T06:47:30.766692",
+          "slug": "1plusx",
+          "rating": "N/A"
+        },
+        {
+          "id": 6326,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "robtex.com"
+          ],
+          "name": "Robtex",
+          "updated_at": "2022-01-16T23:01:15.644994",
+          "created_at": "2022-01-16T19:40:20.664944",
+          "slug": "robtex",
+          "rating": "N/A"
+        },
+        {
+          "id": 7513,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "swyftx.com"
+          ],
+          "name": "Swyftx",
+          "updated_at": "2023-03-29T19:26:45.129083",
+          "created_at": "2023-03-13T00:25:59.415971",
+          "slug": "swyftx",
+          "rating": "N/A"
+        },
+        {
+          "id": 8183,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "poptox.com"
+          ],
+          "name": "PopTox",
+          "updated_at": "2023-05-02T22:02:12.366362",
+          "created_at": "2023-05-02T19:32:03.221487",
+          "slug": "poptox",
+          "rating": "N/A"
+        },
+        {
+          "id": 3291,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "scjbrands.com",
+            "scjohnson.com",
+            "whatsinsidescjohnson.com",
+            "bonami.com",
+            "windex.com",
+            "kiwicare.com",
+            "glade.com",
+            "off.com.ar",
+            "pyrel.fr",
+            "autan.fr",
+            "raid.tm.fr",
+            "linharaid.com.br",
+            "ziploc.com.br",
+            "duck.co.uk",
+            "patopurific.uy",
+            "wceend.nl",
+            "duck.co.th",
+            "patowc.com",
+            "toilet-duck.co.za",
+            "duck.ru",
+            "toilet-duck.nz",
+            "patowc.pt",
+            "patopurific.cl",
+            "wcente.de",
+            "duck.co.il",
+            "wc-duck.it",
+            "patomexico.com",
+            "offaustralia.com.au",
+            "linhaoff.com.br",
+            "off.ca",
+            "autan.co",
+            "off.cr",
+            "off.com.ec",
+            "off.com.sv",
+            "off.com.gt",
+            "autan.de",
+            "off.hn",
+            "autan.id",
+            "autan.it",
+            "offmexico.com.mx",
+            "off.com.ni",
+            "off.com.pa",
+            "off.com.pe",
+            "off.com.ph",
+            "off.com.pl",
+            "off-russia.ru",
+            "autan.com.es",
+            "off.com",
+            "offuruguay.com.uy",
+            "toilet-duck.com.au",
+            "canardwc.fr",
+            "mrmuscleclean.com",
+            "linhagrandprix.com.br",
+            "linhabravo.com.br",
+            "ceramicol.com.ar",
+            "pledge.com",
+            "scrubbingbubbles.com",
+            "kabikiller.jp"
+          ],
+          "name": "SC Johnson",
+          "updated_at": "2023-07-10T22:02:51.010111",
+          "created_at": "2021-04-25T12:31:09.270220",
+          "slug": "scjbrands_",
+          "rating": "E"
+        },
+        {
+          "id": 8525,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "imgbox.com"
+          ],
+          "name": "imgbox",
+          "updated_at": "2023-06-27T22:02:17.687921",
+          "created_at": "2023-06-27T19:07:14.374464",
+          "slug": "imgbox",
+          "rating": "N/A"
+        },
+        {
+          "id": 8583,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "hbomax.com"
+          ],
+          "name": "HBOMax",
+          "updated_at": "2023-06-28T22:02:19.378233",
+          "created_at": "2023-06-28T19:14:23.724890",
+          "slug": "hbomax",
+          "rating": "N/A"
+        },
+        {
+          "id": 2369,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "vonage.com",
+            "vonage.mxvonage.co.uk",
+            "vonage.sg",
+            "vonage.com.my",
+            "vonage.com.au",
+            "vonage.com.ph",
+            "vonage.com.tw",
+            "vonage.id",
+            "vonage.hk",
+            "vonage.ca",
+            "vonagebusiness.jp",
+            "vonage.kr",
+            "vonagebusiness.cn",
+            "vonage.nz",
+            "vonage.ru",
+            "vonagebusiness.de",
+            "vonage.fr",
+            "vonage.cl",
+            "vonage.co",
+            "vonage.com.es",
+            "vonage.com.ar",
+            "tokbox.com"
+          ],
+          "name": "Vonage",
+          "updated_at": "2023-12-29T04:30:48.506488",
+          "created_at": "2020-10-15T19:54:12.904362",
+          "slug": "vonage",
+          "rating": "D"
+        },
+        {
+          "id": 10813,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "exolix.com"
+          ],
+          "name": "Exolix",
+          "updated_at": "2024-06-15T10:02:26.019712",
+          "created_at": "2024-06-15T01:05:02.438815",
+          "slug": "exolix",
+          "rating": "N/A"
+        },
+        {
+          "id": 10986,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "sbgi.net",
+            "local12.com",
+            "kunwtv.com",
+            "kimatv.com",
+            "keprtv.com",
+            "thecw38.com",
+            "thecw38.com",
+            "fox56.com",
+            "mytvwichita.com",
+            "foxkansas.com",
+            "wtov9.com",
+            "cbs12.com",
+            "azteca48.com",
+            "cw34.com",
+            "my15wtcn.com",
+            "wjla.com",
+            "ktul.com",
+            "wcyb.com",
+            "upnorthlive.com",
+            "nbc24.com",
+            "fox49.tv",
+            "wtwc40.com",
+            "cnycentral.com",
+            "abcstlouis.com",
+            "klewtv.com",
+            "wsbt.com",
+            "siouxlandnews.com",
+            "univisionseattle.com",
+            "komonews.com",
+            "fox28savannah.com",
+            "news4sanantonio.com",
+            "cw35.com",
+            "news4sanantonio.com",
+            "foxsanantonio.com",
+            "kmyu.tv",
+            "kutv.com",
+            "kutv.com",
+            "kjzz.com",
+            "foxrochester.com",
+            "cwrochester.com",
+            "13wham.com",
+            "wset.com",
+            "mytvrichmond.com",
+            "foxrichmond.com",
+            "mynews4.com",
+            "foxreno.com",
+            "nevadasportsnet.com",
+            "myrdctv.com",
+            "raleighcw.com",
+            "khqa.com",
+            "turnto10.com",
+            "kunptv.com",
+            "katu.com",
+            "fox23maine.com",
+            "wgme.com",
+            "22thepoint.com",
+            "wpgh53.com",
+            "ktvo.com",
+            "fox42kptm.com",
+            "cwomaha.tv",
+            "okcfox.com",
+            "kocb.com",
+            "cwokc.com",
+            "mytvz.com",
+            "mytv30web.com",
+            "cwnashville.tv",
+            "fox17.com",
+            "mynbc15.com",
+            "utv44.com",
+            "wfgxtv.com",
+            "weartv.com",
+            "nbcmontana.com",
+            "thecwtc.com",
+            "cw18milwaukee.com",
+            "my24milwaukee.com",
+            "southernoregoncw.com",
+            "ktvl.com",
+            "fox47.com",
+            "wgxa.tv",
+            "katv.com",
+            "nebraska.tv",
+            "foxnebraska.com",
+            "cwlasvegas.com",
+            "mylvtv.com",
+            "news3lv.com",
+            "news3lv.com",
+            "wjactv.com",
+            "local21news.com",
+            "cwcentralpa.com",
+            "wcti12.com",
+            "wlos.com",
+            "abc45.com",
+            "my48.tv",
+            "fox11online.com",
+            "cw14online.com",
+            "wwmt.com",
+            "arcwestmichigan.com",
+            "cw7michigan.com",
+            "mycbs4.com",
+            "kmph.com",
+            "wpde.com",
+            "midmichigannow.com",
+            "thecw46.com",
+            "kval.com",
+            "nbc16.com",
+            "kpic.com",
+            "kcby.com",
+            "kfoxtv.com",
+            "cbs4local.com",
+            "kdsm17.com",
+            "dayton247now.com",
+            "fox38corpuschristi.com",
+            "cwcolumbus.com",
+            "myfox28columbus.com",
+            "abc6onyourside.com",
+            "wach.com",
+            "krcgtv.com",
+            "star64.tv",
+            "cwcincinnati.com",
+            "newschannel9.com",
+            "foxchattanooga.com",
+            "chattanoogacw.com",
+            "abcnews4.com",
+            "mytvcharleston.com",
+            "wchstv.com",
+            "wvah.com",
+            "foxillinois.com",
+            "newschannel20.com",
+            "cw23tv.com",
+            "cbs2iowa.com",
+            "wutv29.com",
+            "mytvbuffalo.com",
+            "cwtreasurevalley.com",
+            "idahonews.com",
+            "abc3340.com",
+            "wtto21.com",
+            "wabm68.com",
+            "fox4beaumont.com",
+            "kfdm.com",
+            "cwbaltimore.com",
+            "mytvbaltimore.com",
+            "foxbaltimore.com",
+            "bakersfieldnow.com",
+            "cbsaustin.com",
+            "abc7amarillo.com",
+            "wfxl.com",
+            "cwalbany.com",
+            "cbs6albany.com",
+            "ktxs.com"
+          ],
+          "name": "Sinclair, Inc",
+          "updated_at": "2024-06-29T10:02:33.849400",
+          "created_at": "2024-06-28T23:09:44.971367",
+          "slug": "sinclair-inc",
+          "rating": "N/A"
+        },
+        {
+          "id": 3145,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "cinemax.com"
+          ],
+          "name": "Cinemax",
+          "updated_at": "2023-07-10T22:00:47.641845",
+          "created_at": "2021-04-14T09:23:55.417056",
+          "slug": "cinemax",
+          "rating": "D"
+        },
+        {
+          "id": 185,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "netflix.com"
+          ],
+          "name": "Netflix",
+          "updated_at": "2023-07-10T22:00:50.144980",
+          "created_at": "2018-01-16T15:26:05.583823",
+          "slug": "netflix",
+          "rating": "D"
+        },
+        {
+          "id": 1677,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "zenimax.com",
+            "zenimaxonline.com",
+            "bethesda.net",
+            "elderscrollsonline.com"
+          ],
+          "name": "ZeniMax Media Inc.",
+          "updated_at": "2022-12-18T06:25:15.435916",
+          "created_at": "2019-06-25T14:55:50.952691",
+          "slug": "zenimax_media_inc",
+          "rating": "N/A"
+        },
+        {
+          "id": 2533,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "oddlynx.com"
+          ],
+          "name": "Oddlynx",
+          "updated_at": "2021-03-25T03:19:43.089521",
+          "created_at": "2021-01-16T11:15:09.808587",
+          "slug": "oddlynx",
+          "rating": "N/A"
+        },
+        {
+          "id": 530,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mozilla.org",
+            "extensionworkshop.com",
+            "firefox.com"
+          ],
+          "name": "Mozilla.org",
+          "updated_at": "2024-01-27T19:09:03.645250",
+          "created_at": "2018-06-12T22:03:48.303997",
+          "slug": "mozillaorg",
+          "rating": "C"
+        },
+        {
+          "id": 270,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "dropbox.com",
+            "dropboxforum.com"
+          ],
+          "name": "Dropbox",
+          "updated_at": "2023-07-10T22:01:45.975098",
+          "created_at": "2018-01-16T15:26:07.195077",
+          "slug": "dropbox",
+          "rating": "D"
+        },
+        {
+          "id": 3698,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "sanebox.com"
+          ],
+          "name": "Sanebox Inc",
+          "updated_at": "2021-05-19T22:00:25.749566",
+          "created_at": "2021-05-19T14:05:02.803878",
+          "slug": "sanebox_inc",
+          "rating": "N/A"
+        },
+        {
+          "id": 3686,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "tryflux.com"
+          ],
+          "name": "Flux Systems Ltd",
+          "updated_at": "2021-05-18T22:00:23.142465",
+          "created_at": "2021-05-18T20:36:14.048784",
+          "slug": "flux_systems_ltd",
+          "rating": "N/A"
+        },
+        {
+          "id": 3858,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "proxmox.com"
+          ],
+          "name": "Proxmox",
+          "updated_at": "2021-05-30T22:00:24.880355",
+          "created_at": "2021-05-30T21:15:22.623206",
+          "slug": "proxmox",
+          "rating": "N/A"
+        },
+        {
+          "id": 4069,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "itemfix.com"
+          ],
+          "name": "ItemFix",
+          "updated_at": "2021-06-13T22:00:43.826887",
+          "created_at": "2021-06-13T03:05:49.258738",
+          "slug": "itemfix",
+          "rating": "N/A"
+        },
+        {
+          "id": 4168,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "wirewax.com"
+          ],
+          "name": "Wirewax ",
+          "updated_at": "2021-06-23T22:00:44.572403",
+          "created_at": "2021-06-23T02:16:10.503605",
+          "slug": "wirewax",
+          "rating": "N/A"
+        },
+        {
+          "id": 4258,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "showmax.com"
+          ],
+          "name": "Showmax",
+          "updated_at": "2021-06-30T22:00:41.500372",
+          "created_at": "2021-06-30T17:11:51.570451",
+          "slug": "showmax",
+          "rating": "N/A"
+        },
+        {
+          "id": 4768,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "terabox.com"
+          ],
+          "name": "TeraBox",
+          "updated_at": "2021-07-15T22:00:52.605300",
+          "created_at": "2021-07-15T19:31:55.933639",
+          "slug": "terabox",
+          "rating": "N/A"
+        },
+        {
+          "id": 4962,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "growtix.com"
+          ],
+          "name": "GrowTix",
+          "updated_at": "2021-09-02T22:01:08.292477",
+          "created_at": "2021-09-02T03:14:58.063906",
+          "slug": "growtix",
+          "rating": "N/A"
+        },
+        {
+          "id": 5789,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "gamepix.com"
+          ],
+          "name": "GAMEPIX ",
+          "updated_at": "2021-11-23T23:01:10.079763",
+          "created_at": "2021-11-23T20:35:53.940579",
+          "slug": "gamepix",
+          "rating": "N/A"
+        },
+        {
+          "id": 6088,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "limenex.com"
+          ],
+          "name": "Limenex",
+          "updated_at": "2021-12-17T23:01:17.135267",
+          "created_at": "2021-12-17T21:47:46.813209",
+          "slug": "limenex",
+          "rating": "N/A"
+        },
+        {
+          "id": 7058,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "editorx.com"
+          ],
+          "name": "Editor X",
+          "updated_at": "2022-12-02T23:01:09.103782",
+          "created_at": "2022-12-02T23:20:41.382778",
+          "slug": "editor-x",
+          "rating": "N/A"
+        },
+        {
+          "id": 7174,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "newsmax.com"
+          ],
+          "name": "Newsmax ",
+          "updated_at": "2023-01-22T17:00:13.982369",
+          "created_at": "2022-12-31T21:50:16.797377",
+          "slug": "newsmax",
+          "rating": "N/A"
+        },
+        {
+          "id": 7802,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "linguix.com"
+          ],
+          "name": "linguix",
+          "updated_at": "2023-03-29T19:26:55.472468",
+          "created_at": "2023-03-29T18:58:31.092894",
+          "slug": "linguix",
+          "rating": "N/A"
+        },
+        {
+          "id": 7993,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "icebox.com"
+          ],
+          "name": "icebox.com ",
+          "updated_at": "2023-04-22T11:50:41.023133",
+          "created_at": "2023-04-11T02:38:40.093201",
+          "slug": "icebox-com",
+          "rating": "N/A"
+        },
+        {
+          "id": 8386,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "payflex.com"
+          ],
+          "name": "PayFlex",
+          "updated_at": "2023-05-21T10:01:58.399412",
+          "created_at": "2023-05-21T01:28:33.253077",
+          "slug": "payflex",
+          "rating": "N/A"
+        },
+        {
+          "id": 8375,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "equifax.com"
+          ],
+          "name": "Equifax",
+          "updated_at": "2023-05-18T22:02:18.333542",
+          "created_at": "2023-05-18T17:32:23.249998",
+          "slug": "equifax",
+          "rating": "N/A"
+        },
+        {
+          "id": 8373,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "psyonix.com",
+            "rocketleague.com"
+          ],
+          "name": "Psyonix",
+          "updated_at": "2023-05-18T22:02:18.525653",
+          "created_at": "2023-05-18T16:01:51.391061",
+          "slug": "psyonix",
+          "rating": "N/A"
+        },
+        {
+          "id": 8933,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "optechx.com"
+          ],
+          "name": "OptechX",
+          "updated_at": "2023-07-08T22:02:31.894345",
+          "created_at": "2023-07-08T21:28:44.529545",
+          "slug": "optechx",
+          "rating": "N/A"
+        },
+        {
+          "id": 10134,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "liveupx.com"
+          ],
+          "name": "Liveupx Private Limited",
+          "updated_at": "2023-12-29T11:02:58.550393",
+          "created_at": "2023-12-29T03:39:49.172252",
+          "slug": "liveupx-private-limited",
+          "rating": "N/A"
+        },
+        {
+          "id": 10684,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "dnsflex.com"
+          ],
+          "name": "DNSFlex",
+          "updated_at": "2024-05-12T10:02:38.983723",
+          "created_at": "2024-05-11T23:40:14.016619",
+          "slug": "dnsflex",
+          "rating": "N/A"
+        },
+        {
+          "id": 11237,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "zerofox.com",
+            "idx.us"
+          ],
+          "name": "ZeroFox ",
+          "updated_at": "2024-07-17T08:54:36.206340",
+          "created_at": "2024-07-17T08:54:36.206340",
+          "slug": null,
+          "rating": "N/A"
+        },
+        {
+          "id": 3740,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "mangadex.com"
+          ],
+          "name": "Mangadex",
+          "updated_at": "2023-07-10T22:01:50.017454",
+          "created_at": "2021-05-22T21:37:56.015192",
+          "slug": "mangadex",
+          "rating": "C"
+        },
+        {
+          "id": 3991,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "drawabox.com"
+          ],
+          "name": "Drawabox",
+          "updated_at": "2021-06-09T22:00:45.124686",
+          "created_at": "2021-06-09T16:42:27.434340",
+          "slug": "drawabox",
+          "rating": "N/A"
+        },
+        {
+          "id": 4583,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "teleflex.com",
+            "urolift.com"
+          ],
+          "name": "Teleflex",
+          "updated_at": "2021-07-07T12:36:56.897925",
+          "created_at": "2021-07-06T17:58:34.198954",
+          "slug": "teleflex",
+          "rating": "N/A"
+        },
+        {
+          "id": 4745,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "evolucix.com"
+          ],
+          "name": "Evolucix",
+          "updated_at": "2021-07-15T22:00:52.024144",
+          "created_at": "2021-07-15T17:57:45.618310",
+          "slug": "evolucix",
+          "rating": "N/A"
+        },
+        {
+          "id": 5908,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "disktrix.com"
+          ],
+          "name": "disktrix.com",
+          "updated_at": "2021-11-27T23:01:09.282294",
+          "created_at": "2021-11-27T04:51:22.818646",
+          "slug": "disktrix-com",
+          "rating": "N/A"
+        },
+        {
+          "id": 6521,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "vukkybox.com"
+          ],
+          "name": "Vukkybox",
+          "updated_at": "2022-05-02T22:01:12.573847",
+          "created_at": "2022-05-02T01:46:06.163617",
+          "slug": "vukkybox",
+          "rating": "N/A"
+        },
+        {
+          "id": 8017,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "mineplex.com"
+          ],
+          "name": "Mineplex Forums",
+          "updated_at": "2023-04-22T11:50:42.055267",
+          "created_at": "2023-04-15T23:40:50.608834",
+          "slug": "mineplex-forums",
+          "rating": "N/A"
+        },
+        {
+          "id": 8488,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "news4jax.com"
+          ],
+          "name": "News4JAX",
+          "updated_at": "2023-06-27T10:02:07.104624",
+          "created_at": "2023-06-27T00:57:33.337931",
+          "slug": "news4jax",
+          "rating": "N/A"
+        },
+        {
+          "id": 9168,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "visiplex.com"
+          ],
+          "name": "Visiplex",
+          "updated_at": "2023-07-14T10:02:33.574227",
+          "created_at": "2023-07-14T00:46:37.344266",
+          "slug": "visiplex",
+          "rating": "N/A"
+        },
+        {
+          "id": 9353,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "improvmx.com"
+          ],
+          "name": "ImprovMX",
+          "updated_at": "2023-08-20T10:02:16.704634",
+          "created_at": "2023-08-20T05:25:13.391613",
+          "slug": "improvmx",
+          "rating": "N/A"
+        },
+        {
+          "id": 9678,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "sciencex.com",
+            "phys.org",
+            "medicalxpress.com",
+            "techxplore.com"
+          ],
+          "name": "Science X",
+          "updated_at": "2023-10-01T10:02:30.851436",
+          "created_at": "2023-10-01T03:52:56.795207",
+          "slug": "science-x",
+          "rating": "N/A"
+        },
+        {
+          "id": 11374,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "clickadu.com",
+            "lmgyjug31.com",
+            "falsifydusk.com",
+            "beestark.com",
+            "vebv8me7q.com",
+            "pettyboom.com",
+            "jfjle4g5l.com",
+            "ia4d7tn68.com",
+            "diffusedpassionquaking.com",
+            "sweetysluts.com",
+            "greenandhappiness.com",
+            "gullyending.com",
+            "endowmentoverhangutmost.com",
+            "gravenesswomanlesszestfully.com",
+            "simmeringsuitableunwoven.com",
+            "isolatedovercomepasted.com",
+            "riversideseizingtightness.com",
+            "earringsatisfiedsplice.com",
+            "holahupa.com",
+            "getmytralala.com",
+            "appointeeivyspongy.com",
+            "mobybill.com",
+            "dedicateimaginesoil.com",
+            "chaseherbalpasty.com",
+            "dreamlikefostergala.com",
+            "casinousagevacant.com",
+            "monetoys.com",
+            "setyourtape.com",
+            "brandvoom.com",
+            "kind-tan-reward-word.com",
+            "vacationmonday.com",
+            "buzzadex.com",
+            "pettyboost.com",
+            "aerationtidy.com",
+            "pettybooks.com",
+            "daisycorned.com",
+            "tarotaffirm.com",
+            "groutoozy.com",
+            "thawnappy.com",
+            "doozyblend.com",
+            "elderlykelp.com",
+            "12ezo5v60.com",
+            "fractionfridgejudiciary.com",
+            "blurbreimbursetrombone.com",
+            "1fkx796mw.com",
+            "pleasantinformation.com",
+            "contentmayinterest.com",
+            "astonishlandmassnervy.com",
+            "charitylingoreformer.com",
+            "gmxvmvptfm.com",
+            "clobberprocurertightwad.com",
+            "packsofgood.com",
+            "humoristshamrockzap.com",
+            "overcrowdsillyturret.com",
+            "monorailnailtributary.com",
+            "goodandsoundcontent.com",
+            "todopick.com",
+            "whywolveshowl.com",
+            "confusingepisodevest.com",
+            "ku42hjr2e.com",
+            "bustslicerstrongbox.com",
+            "engineexplicitfootrest.com",
+            "actscattydecode.com",
+            "5ivy3ikkt.com",
+            "easylummos.com",
+            "emergencyidiomjokingly.com",
+            "ascentlitigateunsaved.com",
+            "t7cp4fldl.com",
+            "familiarpyromaniasloping.com",
+            "citadelpathstatue.com",
+            "concedederaserskyline.com",
+            "aidsswaggertrimness.com",
+            "bullionglidingscuttle.com",
+            "drillingstarlightsupper.com",
+            "ebfwkiyif.com",
+            "fragrancenemesisprovolone.com",
+            "cobwebsituationstyling.com",
+            "letmetralala.com",
+            "bondingcloningribcage.com",
+            "confiningdrawshimmy.com",
+            "divisiondrearilyunfiled.com",
+            "shakingtacklingunpeeled.com",
+            "directionotterrecharger.com",
+            "letdownlyricallyquarry.com",
+            "constructpreachystopper.com",
+            "glazingretentionupcoming.com",
+            "studyunharmedupscale.com",
+            "banteroatresurface.com",
+            "dentiststockunsoiled.com",
+            "discovermustystarter.com",
+            "devaluequalmrelative.com",
+            "stackmultiple.com",
+            "glutenmuttsensuous.com",
+            "backspinreentryupright.com",
+            "61t2ll6yy.com",
+            "cdn.pncloudfl.com",
+            "pncloudfl.com"
+          ],
+          "name": "Clickadu",
+          "updated_at": "2024-08-07T22:03:31.768696",
+          "created_at": "2024-08-07T22:03:31.768696",
+          "slug": null,
+          "rating": "N/A"
+        },
+        {
+          "id": 3379,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "publish0x.com"
+          ],
+          "name": "Publish0x",
+          "updated_at": "2022-12-19T03:36:33.004016",
+          "created_at": "2021-05-01T19:12:13.262372",
+          "slug": "publish0x_",
+          "rating": "N/A"
+        },
+        {
+          "id": 2023,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "transifex.com"
+          ],
+          "name": "Transifex",
+          "updated_at": "2021-03-25T03:19:41.998295",
+          "created_at": "2019-11-28T16:46:53.984707",
+          "slug": "transifex",
+          "rating": "N/A"
+        },
+        {
+          "id": 1744,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "cattlefax.com"
+          ],
+          "name": "CattleFax",
+          "updated_at": "2021-03-25T03:19:46.106304",
+          "created_at": "2019-08-11T01:39:18.189658",
+          "slug": "cattlefax",
+          "rating": "N/A"
+        },
+        {
+          "id": 2016,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "buttonbox.com"
+          ],
+          "name": "The Button Box",
+          "updated_at": "2023-07-10T22:01:36.154920",
+          "created_at": "2019-11-22T14:26:59.446923",
+          "slug": "the_button_box",
+          "rating": "C"
+        },
+        {
+          "id": 3579,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "getsharex.com"
+          ],
+          "name": "ShareX",
+          "updated_at": "2023-07-10T22:01:43.895579",
+          "created_at": "2021-05-13T00:27:29.539234",
+          "slug": "sharex",
+          "rating": "C"
+        },
+        {
+          "id": 3929,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "drivermax.com"
+          ],
+          "name": "DriverMax ",
+          "updated_at": "2021-06-02T22:00:22.050923",
+          "created_at": "2021-06-02T17:26:33.098540",
+          "slug": "drivermax",
+          "rating": "N/A"
+        },
+        {
+          "id": 5599,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "modernatx.com"
+          ],
+          "name": "Moderna",
+          "updated_at": "2023-07-10T22:02:15.263258",
+          "created_at": "2021-11-13T21:07:37.927185",
+          "slug": "moderna",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

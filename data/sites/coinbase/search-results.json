@@ -1,0 +1,21 @@
+[
+  {
+    "url": "coinbase.com",
+    "data": {
+      "services": [
+        {
+          "id": 1588,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "coinbase.com"
+          ],
+          "name": "Coinbase",
+          "updated_at": "2023-07-10T22:01:01.543314",
+          "created_at": "2019-05-22T05:09:08.368014",
+          "slug": "coinbase",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

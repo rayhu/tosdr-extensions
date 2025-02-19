@@ -1,0 +1,42 @@
+[
+  {
+    "url": "notion.so",
+    "data": {
+      "services": [
+        {
+          "id": 1817,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "notion.so",
+            "notion.site"
+          ],
+          "name": "Notion",
+          "updated_at": "2023-07-10T22:01:54.408780",
+          "created_at": "2019-09-01T00:27:31.562828",
+          "slug": "notion",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "notion.site",
+    "data": {
+      "services": [
+        {
+          "id": 1817,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "notion.so",
+            "notion.site"
+          ],
+          "name": "Notion",
+          "updated_at": "2023-07-10T22:01:54.408780",
+          "created_at": "2019-09-01T00:27:31.562828",
+          "slug": "notion",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

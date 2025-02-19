@@ -1,0 +1,21 @@
+[
+  {
+    "url": "nextcloud.com",
+    "data": {
+      "services": [
+        {
+          "id": 707,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nextcloud.com"
+          ],
+          "name": "Nextcloud",
+          "updated_at": "2021-03-27T21:35:27.770325",
+          "created_at": "2018-09-13T21:37:57.064634",
+          "slug": "nextcloud",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

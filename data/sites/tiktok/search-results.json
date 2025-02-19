@@ -1,0 +1,21 @@
+[
+  {
+    "url": "tiktok.com",
+    "data": {
+      "services": [
+        {
+          "id": 1448,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "tiktok.com"
+          ],
+          "name": "TikTok",
+          "updated_at": "2023-07-10T22:01:53.361546",
+          "created_at": "2019-03-14T10:30:13.053753",
+          "slug": "tiktok",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "pussthecat.org",
+    "data": {
+      "services": [
+        {
+          "id": 6692,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "pussthecat.org"
+          ],
+          "name": "PussTheCat",
+          "updated_at": "2023-07-10T22:02:25.074899",
+          "created_at": "2022-06-20T20:26:02.102325",
+          "slug": "pussthecat",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

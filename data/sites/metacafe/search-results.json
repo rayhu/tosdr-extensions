@@ -1,0 +1,21 @@
+[
+  {
+    "url": "metacafe.com",
+    "data": {
+      "services": [
+        {
+          "id": 1936,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "metacafe.com"
+          ],
+          "name": "Metacafe",
+          "updated_at": "2023-07-10T22:01:16.925326",
+          "created_at": "2019-10-16T19:51:37.879063",
+          "slug": "metacafe",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

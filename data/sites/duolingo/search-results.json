@@ -1,0 +1,21 @@
+[
+  {
+    "url": "duolingo.com",
+    "data": {
+      "services": [
+        {
+          "id": 744,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "duolingo.com"
+          ],
+          "name": "Duolingo",
+          "updated_at": "2023-09-19T22:00:35.951241",
+          "created_at": "2018-10-12T14:11:52.044623",
+          "slug": "duolingo",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

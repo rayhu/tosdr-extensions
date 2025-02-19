@@ -1,0 +1,21 @@
+[
+  {
+    "url": "lightyearvpn.com",
+    "data": {
+      "services": [
+        {
+          "id": 2804,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "lightyearvpn.com"
+          ],
+          "name": "LightyearVPN",
+          "updated_at": "2023-07-10T22:01:32.961496",
+          "created_at": "2021-03-09T19:58:03.191500",
+          "slug": "lightyearvpn",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

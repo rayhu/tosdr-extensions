@@ -1,0 +1,21 @@
+[
+  {
+    "url": "protonvpn.com",
+    "data": {
+      "services": [
+        {
+          "id": 1745,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "protonvpn.com"
+          ],
+          "name": "ProtonVPN",
+          "updated_at": "2021-03-25T03:19:46.533300",
+          "created_at": "2019-08-11T05:31:59.859739",
+          "slug": "protonvpn",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

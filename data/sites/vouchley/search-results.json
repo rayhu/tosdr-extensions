@@ -1,0 +1,21 @@
+[
+  {
+    "url": "vouchley.com",
+    "data": {
+      "services": [
+        {
+          "id": 10665,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "vouchley.com"
+          ],
+          "name": "Vouchley",
+          "updated_at": "2024-10-16T10:15:26.707721",
+          "created_at": "2024-02-01T07:40:58.851995",
+          "slug": "vouchley",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

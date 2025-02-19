@@ -1,0 +1,484 @@
+[
+  {
+    "url": "ting.com",
+    "data": {
+      "services": [
+        {
+          "id": 1554,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ting.com"
+          ],
+          "name": "Ting Inc.",
+          "updated_at": "2023-07-10T22:01:15.244355",
+          "created_at": "2019-05-13T17:13:09.362511",
+          "slug": "ting_inc",
+          "rating": "D"
+        },
+        {
+          "id": 8692,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "writing.com"
+          ],
+          "name": "Writing.Com",
+          "updated_at": "2023-07-01T10:02:08.614569",
+          "created_at": "2023-07-01T02:27:33.485757",
+          "slug": "writing-com",
+          "rating": "N/A"
+        },
+        {
+          "id": 8962,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "chloeting.com"
+          ],
+          "name": "Chloe Ting",
+          "updated_at": "2023-07-09T22:02:40.936956",
+          "created_at": "2023-07-09T15:13:46.740677",
+          "slug": "chloe-ting",
+          "rating": "N/A"
+        },
+        {
+          "id": 608,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "setlisting.com"
+          ],
+          "name": "Setlisting",
+          "updated_at": "2023-07-10T22:01:00.285811",
+          "created_at": "2018-07-16T09:12:40.727450",
+          "slug": "setlisting",
+          "rating": "D"
+        },
+        {
+          "id": 1708,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "jonhosting.com",
+            "www.jonhosting.com"
+          ],
+          "name": "JonHosting",
+          "updated_at": "2023-07-10T22:01:18.908357",
+          "created_at": "2019-07-15T13:19:12.821057",
+          "slug": "jonhosting",
+          "rating": "C"
+        },
+        {
+          "id": 9679,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "lowhosting.com"
+          ],
+          "name": "Lowhosting ",
+          "updated_at": "2023-10-01T10:02:31.065750",
+          "created_at": "2023-10-01T03:54:32.287657",
+          "slug": "lowhosting",
+          "rating": "N/A"
+        },
+        {
+          "id": 3726,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "1984hosting.com"
+          ],
+          "name": "1984 hosting",
+          "updated_at": "2021-05-20T22:00:22.191734",
+          "created_at": "2021-05-20T22:30:00.736152",
+          "slug": "1984_hosting",
+          "rating": "N/A"
+        },
+        {
+          "id": 6068,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "coolhunting.com"
+          ],
+          "name": "coolhunting",
+          "updated_at": "2021-12-15T23:01:12.764185",
+          "created_at": "2021-12-15T23:37:05.850359",
+          "slug": "coolhunting",
+          "rating": "N/A"
+        },
+        {
+          "id": 8981,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "usertesting.com"
+          ],
+          "name": "UserTesting",
+          "updated_at": "2023-07-09T22:02:41.149037",
+          "created_at": "2023-07-09T20:58:43.449207",
+          "slug": "usertesting",
+          "rating": "N/A"
+        },
+        {
+          "id": 9790,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "zap-hosting.com"
+          ],
+          "name": "ZAP-Hosting  ",
+          "updated_at": "2023-10-16T22:02:41.100617",
+          "created_at": "2023-10-16T20:45:02.409575",
+          "slug": "zap-hosting",
+          "rating": "N/A"
+        },
+        {
+          "id": 2900,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "feralhosting.com"
+          ],
+          "name": "Feral Hosting",
+          "updated_at": "2021-03-30T00:01:57.360975",
+          "created_at": "2021-03-29T18:34:34.847254",
+          "slug": "feral_hosting",
+          "rating": "N/A"
+        },
+        {
+          "id": 2556,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "mcprohosting.com"
+          ],
+          "name": "MCProHosting",
+          "updated_at": "2023-06-05T22:01:39.679707",
+          "created_at": "2021-01-18T18:59:18.537566",
+          "slug": "mcprohosting",
+          "rating": "C"
+        },
+        {
+          "id": 7807,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "clickmeeting.com"
+          ],
+          "name": "ClickMeeting",
+          "updated_at": "2023-04-22T11:50:34.082220",
+          "created_at": "2023-03-29T21:02:52.103762",
+          "slug": "clickmeeting",
+          "rating": "N/A"
+        },
+        {
+          "id": 8851,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "zumalighting.com"
+          ],
+          "name": "Zuma Lighting ",
+          "updated_at": "2023-07-07T10:02:17.533859",
+          "created_at": "2023-07-07T02:25:09.541119",
+          "slug": "zuma-lighting",
+          "rating": "N/A"
+        },
+        {
+          "id": 11331,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "scalahosting.com"
+          ],
+          "name": "ScalaHosting",
+          "updated_at": "2024-07-21T03:09:14.596789",
+          "created_at": "2024-07-21T03:09:14.596789",
+          "slug": null,
+          "rating": "N/A"
+        },
+        {
+          "id": 2395,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "pricecharting.com"
+          ],
+          "name": "PriceCharting",
+          "updated_at": "2023-07-10T22:01:27.616321",
+          "created_at": "2020-11-08T07:13:33.234602",
+          "slug": "pricecharting",
+          "rating": "C"
+        },
+        {
+          "id": 4677,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "bisecthosting.com"
+          ],
+          "name": "BisectHosting ",
+          "updated_at": "2021-07-12T22:00:47.554136",
+          "created_at": "2021-07-12T05:05:09.930441",
+          "slug": "bisecthosting",
+          "rating": "N/A"
+        },
+        {
+          "id": 3179,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "headwayhosting.com"
+          ],
+          "name": "Headway Egypt",
+          "updated_at": "2021-04-17T00:01:11.004976",
+          "created_at": "2021-04-16T22:22:06.727662",
+          "slug": "headway_egypt",
+          "rating": "N/A"
+        },
+        {
+          "id": 8012,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "uni-accounting.com"
+          ],
+          "name": "ITExpress ",
+          "updated_at": "2023-04-22T11:50:41.890323",
+          "created_at": "2023-04-15T23:24:32.410648",
+          "slug": "itexpress",
+          "rating": "N/A"
+        },
+        {
+          "id": 9868,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "freepbxhosting.com"
+          ],
+          "name": "FreePBX Hosting ",
+          "updated_at": "2023-11-15T23:03:15.510816",
+          "created_at": "2023-11-15T19:04:39.661859",
+          "slug": "freepbx-hosting",
+          "rating": "N/A"
+        },
+        {
+          "id": 877,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "inmotionhosting.com"
+          ],
+          "name": "InMotion Hosting",
+          "updated_at": "2022-12-15T21:25:56.159894",
+          "created_at": "2018-12-19T04:58:19.154337",
+          "slug": "inmotion_hosting",
+          "rating": "N/A"
+        },
+        {
+          "id": 4742,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "mergerinvesting.com"
+          ],
+          "name": " Merger Investing",
+          "updated_at": "2021-07-15T22:00:51.630018",
+          "created_at": "2021-07-15T17:52:56.847181",
+          "slug": "merger-investing",
+          "rating": "N/A"
+        },
+        {
+          "id": 6074,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "campfirewriting.com"
+          ],
+          "name": "Campfire Writing",
+          "updated_at": "2023-07-10T22:02:19.434342",
+          "created_at": "2021-12-16T21:37:04.933606",
+          "slug": "campfire-writing",
+          "rating": "D"
+        },
+        {
+          "id": 8035,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "weeklybudgeting.com"
+          ],
+          "name": "Weekly",
+          "updated_at": "2023-04-22T11:50:42.727851",
+          "created_at": "2023-04-16T01:02:08.270895",
+          "slug": "weekly",
+          "rating": "N/A"
+        },
+        {
+          "id": 8246,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "nightwayhosting.com",
+            "clients.nightwayhosting.com"
+          ],
+          "name": "Nightway Hosting",
+          "updated_at": "2023-05-08T22:02:25.710719",
+          "created_at": "2023-05-08T19:16:36.427379",
+          "slug": "nightway-hosting",
+          "rating": "N/A"
+        },
+        {
+          "id": 8535,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "freedmanseating.com"
+          ],
+          "name": "Freedman Seating Compan",
+          "updated_at": "2023-06-27T22:02:17.427624",
+          "created_at": "2023-06-27T20:36:59.605609",
+          "slug": "freedman-seating-compan",
+          "rating": "N/A"
+        },
+        {
+          "id": 10850,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "neepscambaiting.com"
+          ],
+          "name": "NeeP Scambaiting ",
+          "updated_at": "2024-06-15T22:02:37.688180",
+          "created_at": "2024-06-15T19:24:30.631490",
+          "slug": "neep-scambaiting",
+          "rating": "N/A"
+        },
+        {
+          "id": 1545,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discoursehosting.com",
+            "communiteq.com"
+          ],
+          "name": "DiscourseHosting",
+          "updated_at": "2021-03-27T21:35:30.734175",
+          "created_at": "2019-05-12T00:47:23.067304",
+          "slug": "discoursehosting",
+          "rating": "B"
+        },
+        {
+          "id": 5704,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "usproducttesting.com"
+          ],
+          "name": "US Product Testing",
+          "updated_at": "2023-07-10T22:02:17.003116",
+          "created_at": "2021-11-20T06:59:20.868331",
+          "slug": "us-product-testing",
+          "rating": "D"
+        },
+        {
+          "id": 6888,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "dotcom-monitor.com",
+            "loadview-testing.com",
+            "wiki.dotcom-monitor.com",
+            "dotcom-tools.com"
+          ],
+          "name": "Dotcom-Monitor",
+          "updated_at": "2022-11-15T23:01:07.071758",
+          "created_at": "2022-11-15T17:48:03.765543",
+          "slug": "dotcom-monitor",
+          "rating": "N/A"
+        },
+        {
+          "id": 1566,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "intercom.com",
+            "intercom.io",
+            "intercomcdn.com",
+            "intercomcdn.eu",
+            "intercomusercontent.com",
+            "uploads.intercomusercontent.com",
+            "intercom.help",
+            "intercomassets.com",
+            "static.intercomassets.com",
+            "intercom-attachments-1.com",
+            "intercom-attachments.eu",
+            "intercom-attachments.com",
+            "intercom-attachments-2.com",
+            "intercom-attachments-3.com",
+            "intercom-attachments-4.com",
+            "intercom-attachments-5.com",
+            "intercom-attachments-6.com",
+            "intercom-attachments-7.com",
+            "intercom-attachments-8.com",
+            "intercom-attachments-9.com",
+            "intercomassets.eu",
+            "intercom-sheets.com",
+            "intercom-reporting.com"
+          ],
+          "name": "Intercom",
+          "updated_at": "2023-04-22T11:50:24.136743",
+          "created_at": "2019-05-17T02:09:19.968003",
+          "slug": "intercom",
+          "rating": "N/A"
+        },
+        {
+          "id": 8998,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "hubbardbroadcasting.com"
+          ],
+          "name": "Hubbard Broadcasting",
+          "updated_at": "2023-07-10T10:02:43.869047",
+          "created_at": "2023-07-10T01:46:43.799714",
+          "slug": "hubbard-broadcasting",
+          "rating": "N/A"
+        },
+        {
+          "id": 5099,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "kickirs.com",
+            "finishlinetaxsolutions.com",
+            "kritionlinemarketing.com"
+          ],
+          "name": "WSI ",
+          "updated_at": "2021-10-11T22:01:20.052456",
+          "created_at": "2021-10-11T14:43:20.930506",
+          "slug": "wsi",
+          "rating": "N/A"
+        },
+        {
+          "id": 6746,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "apexminecrafthosting.com"
+          ],
+          "name": " Apex Hosting",
+          "updated_at": "2022-08-02T22:01:05.375709",
+          "created_at": "2022-08-02T06:33:40.428242",
+          "slug": "apex-hosting",
+          "rating": "N/A"
+        },
+        {
+          "id": 8224,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "firedrumemailmarketing.com",
+            "fdsend.com"
+          ],
+          "name": "FireDrum",
+          "updated_at": "2023-05-06T10:02:00.027312",
+          "created_at": "2023-05-06T01:02:32.820729",
+          "slug": "firedrum-internet-marketing-llc",
+          "rating": "N/A"
+        },
+        {
+          "id": 10749,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "digitaltargetmarketing.com"
+          ],
+          "name": "Digital Target",
+          "updated_at": "2024-06-09T10:02:29.496679",
+          "created_at": "2024-06-09T00:52:54.571886",
+          "slug": "digital-target",
+          "rating": "N/A"
+        },
+        {
+          "id": 5335,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "nationalproducttesting.com"
+          ],
+          "name": "NationalProductTesting.com ",
+          "updated_at": "2021-10-29T22:01:08.835897",
+          "created_at": "2021-10-29T04:00:26.117543",
+          "slug": "nationalproducttesting-com",
+          "rating": "N/A"
+        }
+      ]
+    }
+  }
+]

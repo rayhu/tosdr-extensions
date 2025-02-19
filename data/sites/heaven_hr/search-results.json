@@ -1,0 +1,42 @@
+[
+  {
+    "url": "heavenhr.com",
+    "data": {
+      "services": [
+        {
+          "id": 444,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "heavenhr.com",
+            "heavenhr.de"
+          ],
+          "name": "Heaven HR",
+          "updated_at": "2023-07-10T22:00:52.436622",
+          "created_at": "2018-05-08T12:19:44.904260",
+          "slug": "heavenhr",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "heavenhr.de",
+    "data": {
+      "services": [
+        {
+          "id": 444,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "heavenhr.com",
+            "heavenhr.de"
+          ],
+          "name": "Heaven HR",
+          "updated_at": "2023-07-10T22:00:52.436622",
+          "created_at": "2018-05-08T12:19:44.904260",
+          "slug": "heavenhr",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

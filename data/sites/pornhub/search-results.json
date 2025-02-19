@@ -1,0 +1,42 @@
+[
+  {
+    "url": "pornhub.com",
+    "data": {
+      "services": [
+        {
+          "id": 616,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "pornhub.com",
+            "modelhub.com"
+          ],
+          "name": "Pornhub",
+          "updated_at": "2023-07-10T22:00:59.638726",
+          "created_at": "2018-07-16T11:18:03.897746",
+          "slug": "pornhub",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "modelhub.com",
+    "data": {
+      "services": [
+        {
+          "id": 616,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "pornhub.com",
+            "modelhub.com"
+          ],
+          "name": "Pornhub",
+          "updated_at": "2023-07-10T22:00:59.638726",
+          "created_at": "2018-07-16T11:18:03.897746",
+          "slug": "pornhub",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

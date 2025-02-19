@@ -1,0 +1,21 @@
+[
+  {
+    "url": "shortcutworld.com",
+    "data": {
+      "services": [
+        {
+          "id": 1522,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "shortcutworld.com"
+          ],
+          "name": "ShortcutWorld.com",
+          "updated_at": "2023-07-10T22:00:37.452613",
+          "created_at": "2019-05-02T16:01:35.049743",
+          "slug": "shortcutworldcom",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

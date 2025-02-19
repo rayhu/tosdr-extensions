@@ -1,0 +1,21 @@
+[
+  {
+    "url": "wikihow.com",
+    "data": {
+      "services": [
+        {
+          "id": 315,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "wikihow.com"
+          ],
+          "name": "WikiHow",
+          "updated_at": "2023-07-10T22:00:49.092714",
+          "created_at": "2018-01-16T22:02:07.532290",
+          "slug": "wikihow",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

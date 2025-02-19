@@ -1,0 +1,92 @@
+[
+  {
+    "url": "brainly.co",
+    "data": {
+      "services": [
+        {
+          "id": 1007,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "brainly.co",
+            "brainly.com.br",
+            "brainly.lat",
+            "brainly.com",
+            "znanija.com",
+            "nosdevoirs.fr",
+            "brainly.in",
+            "brainly.co.id",
+            "eodev.com",
+            "brainly.ph",
+            "brainly.pl",
+            "brainly.ro"
+          ],
+          "name": "Brainly",
+          "updated_at": "2023-07-10T22:01:33.274049",
+          "created_at": "2018-12-31T08:16:29.803102",
+          "slug": "brainly",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "brainly.com.br",
+    "data": {
+      "services": [
+        {
+          "id": 1007,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "brainly.co",
+            "brainly.com.br",
+            "brainly.lat",
+            "brainly.com",
+            "znanija.com",
+            "nosdevoirs.fr",
+            "brainly.in",
+            "brainly.co.id",
+            "eodev.com",
+            "brainly.ph",
+            "brainly.pl",
+            "brainly.ro"
+          ],
+          "name": "Brainly",
+          "updated_at": "2023-07-10T22:01:33.274049",
+          "created_at": "2018-12-31T08:16:29.803102",
+          "slug": "brainly",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "brainly.ro",
+    "data": {
+      "services": [
+        {
+          "id": 1007,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "brainly.co",
+            "brainly.com.br",
+            "brainly.lat",
+            "brainly.com",
+            "znanija.com",
+            "nosdevoirs.fr",
+            "brainly.in",
+            "brainly.co.id",
+            "eodev.com",
+            "brainly.ph",
+            "brainly.pl",
+            "brainly.ro"
+          ],
+          "name": "Brainly",
+          "updated_at": "2023-07-10T22:01:33.274049",
+          "created_at": "2018-12-31T08:16:29.803102",
+          "slug": "brainly",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

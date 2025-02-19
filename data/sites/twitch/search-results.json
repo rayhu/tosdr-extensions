@@ -1,0 +1,24 @@
+[
+  {
+    "url": "twitch.tv",
+    "data": {
+      "services": [
+        {
+          "id": 200,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "twitch.tv",
+            "twitch.com",
+            "twitchadvertising.tv",
+            "igdb.com"
+          ],
+          "name": "Twitch",
+          "updated_at": "2023-07-10T22:01:52.559544",
+          "created_at": "2018-01-16T15:26:05.813632",
+          "slug": "twitch",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

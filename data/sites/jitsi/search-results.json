@@ -1,0 +1,42 @@
+[
+  {
+    "url": "jitsi.org",
+    "data": {
+      "services": [
+        {
+          "id": 2201,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "jitsi.org",
+            "meet.jit.si"
+          ],
+          "name": "Jitsi",
+          "updated_at": "2021-03-25T03:19:48.913505",
+          "created_at": "2020-03-26T15:27:29.055056",
+          "slug": "jitsi",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "meet.jit.si",
+    "data": {
+      "services": [
+        {
+          "id": 2201,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "jitsi.org",
+            "meet.jit.si"
+          ],
+          "name": "Jitsi",
+          "updated_at": "2021-03-25T03:19:48.913505",
+          "created_at": "2020-03-26T15:27:29.055056",
+          "slug": "jitsi",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

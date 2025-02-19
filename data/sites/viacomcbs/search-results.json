@@ -1,0 +1,167 @@
+[
+  {
+    "url": "viacomcbs.com",
+    "data": {
+      "services": [
+        {
+          "id": 3255,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "viacomcbs.com",
+            "comicbook.com",
+            "viacomcbsprivacy.com",
+            "viacomcbs.legal",
+            "cbssports.com",
+            "cbsi.secure.force.com",
+            "findarticles.com",
+            "cbsinteractive.com",
+            "ca.privacy.cbs",
+            "viacbs.com",
+            "cbs.com",
+            "rachaelrayshow.com",
+            "startrek.com",
+            "insideedition.com",
+            "internetbuyer.com"
+          ],
+          "name": "ViacomCBS",
+          "updated_at": "2023-07-10T22:02:55.692015",
+          "created_at": "2021-04-23T19:41:35.998907",
+          "slug": "cbs_sports",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "comicbook.com",
+    "data": {
+      "services": [
+        {
+          "id": 3255,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "viacomcbs.com",
+            "comicbook.com",
+            "viacomcbsprivacy.com",
+            "viacomcbs.legal",
+            "cbssports.com",
+            "cbsi.secure.force.com",
+            "findarticles.com",
+            "cbsinteractive.com",
+            "ca.privacy.cbs",
+            "viacbs.com",
+            "cbs.com",
+            "rachaelrayshow.com",
+            "startrek.com",
+            "insideedition.com",
+            "internetbuyer.com"
+          ],
+          "name": "ViacomCBS",
+          "updated_at": "2023-07-10T22:02:55.692015",
+          "created_at": "2021-04-23T19:41:35.998907",
+          "slug": "cbs_sports",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "viacomcbsprivacy.com",
+    "data": {
+      "services": [
+        {
+          "id": 3255,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "viacomcbs.com",
+            "comicbook.com",
+            "viacomcbsprivacy.com",
+            "viacomcbs.legal",
+            "cbssports.com",
+            "cbsi.secure.force.com",
+            "findarticles.com",
+            "cbsinteractive.com",
+            "ca.privacy.cbs",
+            "viacbs.com",
+            "cbs.com",
+            "rachaelrayshow.com",
+            "startrek.com",
+            "insideedition.com",
+            "internetbuyer.com"
+          ],
+          "name": "ViacomCBS",
+          "updated_at": "2023-07-10T22:02:55.692015",
+          "created_at": "2021-04-23T19:41:35.998907",
+          "slug": "cbs_sports",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "viacomcbs.legal",
+    "data": {
+      "services": [
+        {
+          "id": 3255,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "viacomcbs.com",
+            "comicbook.com",
+            "viacomcbsprivacy.com",
+            "viacomcbs.legal",
+            "cbssports.com",
+            "cbsi.secure.force.com",
+            "findarticles.com",
+            "cbsinteractive.com",
+            "ca.privacy.cbs",
+            "viacbs.com",
+            "cbs.com",
+            "rachaelrayshow.com",
+            "startrek.com",
+            "insideedition.com",
+            "internetbuyer.com"
+          ],
+          "name": "ViacomCBS",
+          "updated_at": "2023-07-10T22:02:55.692015",
+          "created_at": "2021-04-23T19:41:35.998907",
+          "slug": "cbs_sports",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "cbssports.com",
+    "data": {
+      "services": [
+        {
+          "id": 3255,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "viacomcbs.com",
+            "comicbook.com",
+            "viacomcbsprivacy.com",
+            "viacomcbs.legal",
+            "cbssports.com",
+            "cbsi.secure.force.com",
+            "findarticles.com",
+            "cbsinteractive.com",
+            "ca.privacy.cbs",
+            "viacbs.com",
+            "cbs.com",
+            "rachaelrayshow.com",
+            "startrek.com",
+            "insideedition.com",
+            "internetbuyer.com"
+          ],
+          "name": "ViacomCBS",
+          "updated_at": "2023-07-10T22:02:55.692015",
+          "created_at": "2021-04-23T19:41:35.998907",
+          "slug": "cbs_sports",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

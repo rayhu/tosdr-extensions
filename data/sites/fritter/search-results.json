@@ -1,0 +1,21 @@
+[
+  {
+    "url": "fritter.cc",
+    "data": {
+      "services": [
+        {
+          "id": 4077,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fritter.cc"
+          ],
+          "name": "Fritter",
+          "updated_at": "2021-07-02T14:40:19.620072",
+          "created_at": "2021-06-14T14:30:00.818683",
+          "slug": "fritter",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

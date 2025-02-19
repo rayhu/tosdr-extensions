@@ -1,0 +1,90 @@
+[
+  {
+    "url": "bfmtv.fr",
+    "data": {
+      "services": [
+        {
+          "id": 8121,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "bfmtv.fr",
+            "tradingsat.com",
+            "zone-turf.fr",
+            "rmcbfmplay.com"
+          ],
+          "name": "BFM TV",
+          "updated_at": "2023-07-10T22:02:46.015393",
+          "created_at": "2023-04-30T19:10:58.954810",
+          "slug": "bfm-tv",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "tradingsat.com",
+    "data": {
+      "services": [
+        {
+          "id": 8121,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "bfmtv.fr",
+            "tradingsat.com",
+            "zone-turf.fr",
+            "rmcbfmplay.com"
+          ],
+          "name": "BFM TV",
+          "updated_at": "2023-07-10T22:02:46.015393",
+          "created_at": "2023-04-30T19:10:58.954810",
+          "slug": "bfm-tv",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "zone-turf.fr",
+    "data": {
+      "services": [
+        {
+          "id": 8121,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "bfmtv.fr",
+            "tradingsat.com",
+            "zone-turf.fr",
+            "rmcbfmplay.com"
+          ],
+          "name": "BFM TV",
+          "updated_at": "2023-07-10T22:02:46.015393",
+          "created_at": "2023-04-30T19:10:58.954810",
+          "slug": "bfm-tv",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "rmcbfmplay.com",
+    "data": {
+      "services": [
+        {
+          "id": 8121,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "bfmtv.fr",
+            "tradingsat.com",
+            "zone-turf.fr",
+            "rmcbfmplay.com"
+          ],
+          "name": "BFM TV",
+          "updated_at": "2023-07-10T22:02:46.015393",
+          "created_at": "2023-04-30T19:10:58.954810",
+          "slug": "bfm-tv",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

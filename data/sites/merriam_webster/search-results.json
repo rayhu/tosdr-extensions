@@ -1,0 +1,21 @@
+[
+  {
+    "url": "merriam-webster.com",
+    "data": {
+      "services": [
+        {
+          "id": 2461,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "merriam-webster.com"
+          ],
+          "name": "Merriam-Webster",
+          "updated_at": "2023-07-10T22:01:22.935546",
+          "created_at": "2020-12-19T17:40:41.776976",
+          "slug": "merriamwebster",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

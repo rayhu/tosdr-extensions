@@ -1,0 +1,134 @@
+[
+  {
+    "url": "atlassian.com",
+    "data": {
+      "services": [
+        {
+          "id": 576,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "atlassian.com",
+            "trello.com",
+            "bitbucket.org",
+            "atlassian.net",
+            "statuspage.io",
+            "stspg-customer.com"
+          ],
+          "name": "Atlassian",
+          "updated_at": "2023-07-10T22:02:44.728710",
+          "created_at": "2018-06-27T07:00:10.908207",
+          "slug": "atlassian_incl_trello_bitbucket",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "trello.com",
+    "data": {
+      "services": [
+        {
+          "id": 576,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "atlassian.com",
+            "trello.com",
+            "bitbucket.org",
+            "atlassian.net",
+            "statuspage.io",
+            "stspg-customer.com"
+          ],
+          "name": "Atlassian",
+          "updated_at": "2023-07-10T22:02:44.728710",
+          "created_at": "2018-06-27T07:00:10.908207",
+          "slug": "atlassian_incl_trello_bitbucket",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "bitbucket.org",
+    "data": {
+      "services": [
+        {
+          "id": 293,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "bitbucket.org"
+          ],
+          "name": "Bitbucket",
+          "updated_at": "2021-06-25T23:30:14.985589",
+          "created_at": "2018-01-16T15:26:07.551398",
+          "slug": "merged_into_service_576_by_user_6",
+          "rating": "N/A"
+        },
+        {
+          "id": 576,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "atlassian.com",
+            "trello.com",
+            "bitbucket.org",
+            "atlassian.net",
+            "statuspage.io",
+            "stspg-customer.com"
+          ],
+          "name": "Atlassian",
+          "updated_at": "2023-07-10T22:02:44.728710",
+          "created_at": "2018-06-27T07:00:10.908207",
+          "slug": "atlassian_incl_trello_bitbucket",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "atlassian.net",
+    "data": {
+      "services": [
+        {
+          "id": 576,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "atlassian.com",
+            "trello.com",
+            "bitbucket.org",
+            "atlassian.net",
+            "statuspage.io",
+            "stspg-customer.com"
+          ],
+          "name": "Atlassian",
+          "updated_at": "2023-07-10T22:02:44.728710",
+          "created_at": "2018-06-27T07:00:10.908207",
+          "slug": "atlassian_incl_trello_bitbucket",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "statuspage.io",
+    "data": {
+      "services": [
+        {
+          "id": 576,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "atlassian.com",
+            "trello.com",
+            "bitbucket.org",
+            "atlassian.net",
+            "statuspage.io",
+            "stspg-customer.com"
+          ],
+          "name": "Atlassian",
+          "updated_at": "2023-07-10T22:02:44.728710",
+          "created_at": "2018-06-27T07:00:10.908207",
+          "slug": "atlassian_incl_trello_bitbucket",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "url": "smartmessages.net",
+    "data": {
+      "services": [
+        {
+          "id": 2224,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "smartmessages.net",
+            "smm.im"
+          ],
+          "name": "Smartmessages",
+          "updated_at": "2021-03-25T03:19:49.174497",
+          "created_at": "2020-04-21T13:49:02.151088",
+          "slug": "smartmessages",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "smm.im",
+    "data": {
+      "services": [
+        {
+          "id": 2224,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "smartmessages.net",
+            "smm.im"
+          ],
+          "name": "Smartmessages",
+          "updated_at": "2021-03-25T03:19:49.174497",
+          "created_at": "2020-04-21T13:49:02.151088",
+          "slug": "smartmessages",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "url": "serverfault.com",
+    "data": {
+      "services": [
+        {
+          "id": 312,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "stackoverflow.com",
+            "stackexchange.com",
+            "stackapps.com",
+            "mathoverflow.net",
+            "superuser.com",
+            "askubuntu.com",
+            "serverfault.com"
+          ],
+          "name": "Stack Overflow",
+          "updated_at": "2023-12-30T03:35:42.027763",
+          "created_at": "2018-01-16T20:48:06.257098",
+          "slug": "stack_overflow",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "vpnhamster.com",
+    "data": {
+      "services": [
+        {
+          "id": 3710,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "vpnhamster.com"
+          ],
+          "name": "VPN Hamster",
+          "updated_at": "2023-07-10T22:01:46.997607",
+          "created_at": "2021-05-19T19:35:17.524576",
+          "slug": "vpn_hamster",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

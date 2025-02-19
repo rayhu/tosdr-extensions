@@ -1,0 +1,21 @@
+[
+  {
+    "url": "myanimelist.net",
+    "data": {
+      "services": [
+        {
+          "id": 511,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "myanimelist.net"
+          ],
+          "name": "MyAnimeList",
+          "updated_at": "2023-07-10T22:00:22.305577",
+          "created_at": "2018-06-03T04:08:35.289406",
+          "slug": "myanimelist",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

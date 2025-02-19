@@ -1,0 +1,474 @@
+[
+  {
+    "url": "meredith.com",
+    "data": {
+      "services": [
+        {
+          "id": 187,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meredith.com",
+            "meredithdirectmedia.com",
+            "people.com",
+            "peopleenespanol.com",
+            "allrecipes.com",
+            "shapehealthhalf.com",
+            "eatingwell.com",
+            "shape.com",
+            "health.com"
+          ],
+          "name": "Meredith",
+          "updated_at": "2023-07-10T22:02:55.339243",
+          "created_at": "2018-01-16T15:26:05.614415",
+          "slug": "allrecipes",
+          "rating": "E"
+        },
+        {
+          "id": 5467,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "dotdash.com",
+            "dotdashmeredith.com",
+            "thespruce.com"
+          ],
+          "name": "Dotdash",
+          "updated_at": "2024-06-26T19:07:18.165414",
+          "created_at": "2021-11-03T18:42:29.279314",
+          "slug": "dotdash",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "meredithdirectmedia.com",
+    "data": {
+      "services": [
+        {
+          "id": 187,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meredith.com",
+            "meredithdirectmedia.com",
+            "people.com",
+            "peopleenespanol.com",
+            "allrecipes.com",
+            "shapehealthhalf.com",
+            "eatingwell.com",
+            "shape.com",
+            "health.com"
+          ],
+          "name": "Meredith",
+          "updated_at": "2023-07-10T22:02:55.339243",
+          "created_at": "2018-01-16T15:26:05.614415",
+          "slug": "allrecipes",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "allrecipes.com",
+    "data": {
+      "services": [
+        {
+          "id": 187,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meredith.com",
+            "meredithdirectmedia.com",
+            "people.com",
+            "peopleenespanol.com",
+            "allrecipes.com",
+            "shapehealthhalf.com",
+            "eatingwell.com",
+            "shape.com",
+            "health.com"
+          ],
+          "name": "Meredith",
+          "updated_at": "2023-07-10T22:02:55.339243",
+          "created_at": "2018-01-16T15:26:05.614415",
+          "slug": "allrecipes",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "shapehealthhalf.com",
+    "data": {
+      "services": [
+        {
+          "id": 187,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meredith.com",
+            "meredithdirectmedia.com",
+            "people.com",
+            "peopleenespanol.com",
+            "allrecipes.com",
+            "shapehealthhalf.com",
+            "eatingwell.com",
+            "shape.com",
+            "health.com"
+          ],
+          "name": "Meredith",
+          "updated_at": "2023-07-10T22:02:55.339243",
+          "created_at": "2018-01-16T15:26:05.614415",
+          "slug": "allrecipes",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "eatingwell.com",
+    "data": {
+      "services": [
+        {
+          "id": 187,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meredith.com",
+            "meredithdirectmedia.com",
+            "people.com",
+            "peopleenespanol.com",
+            "allrecipes.com",
+            "shapehealthhalf.com",
+            "eatingwell.com",
+            "shape.com",
+            "health.com"
+          ],
+          "name": "Meredith",
+          "updated_at": "2023-07-10T22:02:55.339243",
+          "created_at": "2018-01-16T15:26:05.614415",
+          "slug": "allrecipes",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "shape.com",
+    "data": {
+      "services": [
+        {
+          "id": 187,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meredith.com",
+            "meredithdirectmedia.com",
+            "people.com",
+            "peopleenespanol.com",
+            "allrecipes.com",
+            "shapehealthhalf.com",
+            "eatingwell.com",
+            "shape.com",
+            "health.com"
+          ],
+          "name": "Meredith",
+          "updated_at": "2023-07-10T22:02:55.339243",
+          "created_at": "2018-01-16T15:26:05.614415",
+          "slug": "allrecipes",
+          "rating": "E"
+        },
+        {
+          "id": 10406,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "onshape.com",
+            "learn.onshape.com",
+            "cad.onshape.com"
+          ],
+          "name": "Onshape",
+          "updated_at": "2024-01-04T11:02:56.532042",
+          "created_at": "2024-01-04T02:56:47.688633",
+          "slug": "onshape",
+          "rating": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "health.com",
+    "data": {
+      "services": [
+        {
+          "id": 187,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meredith.com",
+            "meredithdirectmedia.com",
+            "people.com",
+            "peopleenespanol.com",
+            "allrecipes.com",
+            "shapehealthhalf.com",
+            "eatingwell.com",
+            "shape.com",
+            "health.com"
+          ],
+          "name": "Meredith",
+          "updated_at": "2023-07-10T22:02:55.339243",
+          "created_at": "2018-01-16T15:26:05.614415",
+          "slug": "allrecipes",
+          "rating": "E"
+        },
+        {
+          "id": 3934,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "herohealth.com"
+          ],
+          "name": "Hero",
+          "updated_at": "2023-07-10T22:01:54.675313",
+          "created_at": "2021-06-05T14:27:29.353231",
+          "slug": "hero",
+          "rating": "D"
+        },
+        {
+          "id": 8840,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "omaxhealth.com"
+          ],
+          "name": "Omax Health",
+          "updated_at": "2023-07-07T10:02:13.670937",
+          "created_at": "2023-07-06T22:52:56.991360",
+          "slug": "omax-health",
+          "rating": "N/A"
+        },
+        {
+          "id": 9130,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "zeamhealth.com"
+          ],
+          "name": "Zeam Health",
+          "updated_at": "2023-07-13T22:02:14.768159",
+          "created_at": "2023-07-13T21:28:11.856486",
+          "slug": "zeam-health",
+          "rating": "N/A"
+        },
+        {
+          "id": 8690,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "teamhealth.com",
+            "zenith.teamhealth.com"
+          ],
+          "name": "teamhealth ",
+          "updated_at": "2023-07-01T10:02:08.556731",
+          "created_at": "2023-07-01T02:15:57.885606",
+          "slug": "teamhealth",
+          "rating": "N/A"
+        },
+        {
+          "id": 10276,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "omadahealth.com"
+          ],
+          "name": "Omada Health",
+          "updated_at": "2023-12-30T11:03:01.006550",
+          "created_at": "2023-12-30T01:03:57.654667",
+          "slug": "omada-health",
+          "rating": "N/A"
+        },
+        {
+          "id": 11113,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "hingehealth.com"
+          ],
+          "name": "Hinge Health",
+          "updated_at": "2024-07-01T10:02:33.828552",
+          "created_at": "2024-07-01T04:20:01.662278",
+          "slug": "hinge-health",
+          "rating": "N/A"
+        },
+        {
+          "id": 7506,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "woebothealth.com"
+          ],
+          "name": "woebot",
+          "updated_at": "2023-03-29T19:26:44.898142",
+          "created_at": "2023-03-12T20:00:14.786130",
+          "slug": "woebot",
+          "rating": "N/A"
+        },
+        {
+          "id": 7869,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "sprucehealth.com"
+          ],
+          "name": "Spruce Health",
+          "updated_at": "2023-04-22T11:50:36.294306",
+          "created_at": "2023-04-03T17:47:25.890119",
+          "slug": "spruce-health",
+          "rating": "N/A"
+        },
+        {
+          "id": 9191,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "modernhealth.com"
+          ],
+          "name": "Modern Health",
+          "updated_at": "2023-07-15T10:02:16.385287",
+          "created_at": "2023-07-14T23:34:12.940625",
+          "slug": "modern-health",
+          "rating": "N/A"
+        },
+        {
+          "id": 3427,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "samsunghealth.com"
+          ],
+          "name": "Samsung Health",
+          "updated_at": "2021-05-04T00:00:35.231913",
+          "created_at": "2021-05-03T17:53:32.051404",
+          "slug": "samsung_health",
+          "rating": "N/A"
+        },
+        {
+          "id": 7034,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "acurianhealth.com"
+          ],
+          "name": "AcurianHealth",
+          "updated_at": "2022-11-30T23:01:07.794123",
+          "created_at": "2022-11-30T02:27:07.560973",
+          "slug": "acurianhealth",
+          "rating": "N/A"
+        },
+        {
+          "id": 1731,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "followmyhealth.com"
+          ],
+          "name": "Follow My Health",
+          "updated_at": "2023-07-10T22:00:35.348121",
+          "created_at": "2019-08-02T13:54:48.004294",
+          "slug": "follow_my_health",
+          "rating": "C"
+        },
+        {
+          "id": 3380,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "everydayhealth.com"
+          ],
+          "name": "Everyday Health Group",
+          "updated_at": "2022-12-17T04:15:44.006577",
+          "created_at": "2021-05-01T19:14:56.110129",
+          "slug": "everyday_health_group_",
+          "rating": "N/A"
+        },
+        {
+          "id": 6988,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "nativelyhealth.com"
+          ],
+          "name": "Natively Health",
+          "updated_at": "2022-11-22T23:01:10.097487",
+          "created_at": "2022-11-22T17:35:25.586448",
+          "slug": "natively-health",
+          "rating": "N/A"
+        },
+        {
+          "id": 11315,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "elevancehealth.com"
+          ],
+          "name": "Elevance Health",
+          "updated_at": "2024-07-21T02:13:43.954977",
+          "created_at": "2024-07-21T02:13:43.954977",
+          "slug": null,
+          "rating": "N/A"
+        },
+        {
+          "id": 5280,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "smartertips.net",
+            "tipglobalhealth.com"
+          ],
+          "name": "Smartertips",
+          "updated_at": "2021-10-27T22:01:12.714301",
+          "created_at": "2021-10-27T01:14:27.209304",
+          "slug": "smartertips",
+          "rating": "N/A"
+        },
+        {
+          "id": 5977,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "arrowheadhealth.com"
+          ],
+          "name": "Redirect Health Medical & Surgical Centers",
+          "updated_at": "2021-12-03T23:01:10.911753",
+          "created_at": "2021-12-03T00:13:21.567233",
+          "slug": "redirect-health-medical-surgical-centers",
+          "rating": "N/A"
+        },
+        {
+          "id": 11463,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "www.springhealth.com",
+            "care.springhealth.com"
+          ],
+          "name": "Spring Health",
+          "updated_at": "2025-01-02T22:10:21.817679",
+          "created_at": "2025-01-02T22:10:21.817679",
+          "slug": null,
+          "rating": "N/A"
+        },
+        {
+          "id": 7433,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "lifestanceshealth.com"
+          ],
+          "name": "life stance health ",
+          "updated_at": "2023-03-29T19:26:42.430364",
+          "created_at": "2023-03-09T05:14:33.762510",
+          "slug": "life-stance-health",
+          "rating": "N/A"
+        },
+        {
+          "id": 4918,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "childrensdentalhealth.com"
+          ],
+          "name": "Children’s Dental Health",
+          "updated_at": "2021-08-29T22:01:09.643904",
+          "created_at": "2021-08-29T22:09:47.503761",
+          "slug": "children-s-dental-health",
+          "rating": "N/A"
+        },
+        {
+          "id": 3076,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "myidealdoctortelehealth.com"
+          ],
+          "name": "My Ideal Doctor",
+          "updated_at": "2021-04-10T00:02:48.410023",
+          "created_at": "2021-04-09T22:29:35.276632",
+          "slug": "my_ideal_doctor",
+          "rating": "N/A"
+        }
+      ]
+    }
+  }
+]

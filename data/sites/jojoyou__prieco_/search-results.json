@@ -1,0 +1,42 @@
+[
+  {
+    "url": "jojoyou.org",
+    "data": {
+      "services": [
+        {
+          "id": 9994,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "jojoyou.org",
+            "priecovk7jsuh3tvkh62c6j4oep3l5bldigpzmay26rdpqz357t5dmad.onion"
+          ],
+          "name": "JojoYou (PriEco)",
+          "updated_at": "2024-02-23T17:30:25.454288",
+          "created_at": "2023-12-25T20:18:07.020737",
+          "slug": "prieco",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "priecovk7jsuh3tvkh62c6j4oep3l5bldigpzmay26rdpqz357t5dmad.onion",
+    "data": {
+      "services": [
+        {
+          "id": 9994,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "jojoyou.org",
+            "priecovk7jsuh3tvkh62c6j4oep3l5bldigpzmay26rdpqz357t5dmad.onion"
+          ],
+          "name": "JojoYou (PriEco)",
+          "updated_at": "2024-02-23T17:30:25.454288",
+          "created_at": "2023-12-25T20:18:07.020737",
+          "slug": "prieco",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

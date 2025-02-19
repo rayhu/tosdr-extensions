@@ -1,0 +1,21 @@
+[
+  {
+    "url": "strava.com",
+    "data": {
+      "services": [
+        {
+          "id": 1830,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "strava.com"
+          ],
+          "name": "Strava",
+          "updated_at": "2023-07-10T22:01:36.426035",
+          "created_at": "2019-09-08T23:23:58.643869",
+          "slug": "strava",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

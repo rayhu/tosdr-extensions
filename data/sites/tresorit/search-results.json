@@ -1,0 +1,21 @@
+[
+  {
+    "url": "tresorit.com",
+    "data": {
+      "services": [
+        {
+          "id": 1696,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "tresorit.com"
+          ],
+          "name": "Tresorit",
+          "updated_at": "2021-03-27T21:35:34.644802",
+          "created_at": "2019-07-09T21:57:56.621271",
+          "slug": "tresorit",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "url": "amazon.nl",
+    "data": {
+      "services": [
+        {
+          "id": 190,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "amazon.com",
+            "amazon.com.au",
+            "amazon.de",
+            "amazon.co.uk",
+            "amazon.nl",
+            "amazon.pl",
+            "amazon.sa",
+            "amazon.sg",
+            "amazon.se",
+            "amazon.com.tr",
+            "amazon.ae",
+            "amazon.co.jp",
+            "amazon.es",
+            "amazon.in",
+            "amazon.ca",
+            "amazon.fr",
+            "amazon.it",
+            "amazon.com.br",
+            "amazon.cn",
+            "amazon.com.mx",
+            "amzn.to",
+            "amazontrust.com",
+            "amazongames.com"
+          ],
+          "name": "Amazon",
+          "updated_at": "2023-11-17T17:20:04.532747",
+          "created_at": "2018-01-16T15:26:05.657605",
+          "slug": "amazon",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "amazon.pl",
+    "data": {
+      "services": [
+        {
+          "id": 190,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "amazon.com",
+            "amazon.com.au",
+            "amazon.de",
+            "amazon.co.uk",
+            "amazon.nl",
+            "amazon.pl",
+            "amazon.sa",
+            "amazon.sg",
+            "amazon.se",
+            "amazon.com.tr",
+            "amazon.ae",
+            "amazon.co.jp",
+            "amazon.es",
+            "amazon.in",
+            "amazon.ca",
+            "amazon.fr",
+            "amazon.it",
+            "amazon.com.br",
+            "amazon.cn",
+            "amazon.com.mx",
+            "amzn.to",
+            "amazontrust.com",
+            "amazongames.com"
+          ],
+          "name": "Amazon",
+          "updated_at": "2023-11-17T17:20:04.532747",
+          "created_at": "2018-01-16T15:26:05.657605",
+          "slug": "amazon",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "amazon.sa",
+    "data": {
+      "services": [
+        {
+          "id": 190,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "amazon.com",
+            "amazon.com.au",
+            "amazon.de",
+            "amazon.co.uk",
+            "amazon.nl",
+            "amazon.pl",
+            "amazon.sa",
+            "amazon.sg",
+            "amazon.se",
+            "amazon.com.tr",
+            "amazon.ae",
+            "amazon.co.jp",
+            "amazon.es",
+            "amazon.in",
+            "amazon.ca",
+            "amazon.fr",
+            "amazon.it",
+            "amazon.com.br",
+            "amazon.cn",
+            "amazon.com.mx",
+            "amzn.to",
+            "amazontrust.com",
+            "amazongames.com"
+          ],
+          "name": "Amazon",
+          "updated_at": "2023-11-17T17:20:04.532747",
+          "created_at": "2018-01-16T15:26:05.657605",
+          "slug": "amazon",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "amazon.sg",
+    "data": {
+      "services": [
+        {
+          "id": 190,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "amazon.com",
+            "amazon.com.au",
+            "amazon.de",
+            "amazon.co.uk",
+            "amazon.nl",
+            "amazon.pl",
+            "amazon.sa",
+            "amazon.sg",
+            "amazon.se",
+            "amazon.com.tr",
+            "amazon.ae",
+            "amazon.co.jp",
+            "amazon.es",
+            "amazon.in",
+            "amazon.ca",
+            "amazon.fr",
+            "amazon.it",
+            "amazon.com.br",
+            "amazon.cn",
+            "amazon.com.mx",
+            "amzn.to",
+            "amazontrust.com",
+            "amazongames.com"
+          ],
+          "name": "Amazon",
+          "updated_at": "2023-11-17T17:20:04.532747",
+          "created_at": "2018-01-16T15:26:05.657605",
+          "slug": "amazon",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "amazon.se",
+    "data": {
+      "services": [
+        {
+          "id": 190,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "amazon.com",
+            "amazon.com.au",
+            "amazon.de",
+            "amazon.co.uk",
+            "amazon.nl",
+            "amazon.pl",
+            "amazon.sa",
+            "amazon.sg",
+            "amazon.se",
+            "amazon.com.tr",
+            "amazon.ae",
+            "amazon.co.jp",
+            "amazon.es",
+            "amazon.in",
+            "amazon.ca",
+            "amazon.fr",
+            "amazon.it",
+            "amazon.com.br",
+            "amazon.cn",
+            "amazon.com.mx",
+            "amzn.to",
+            "amazontrust.com",
+            "amazongames.com"
+          ],
+          "name": "Amazon",
+          "updated_at": "2023-11-17T17:20:04.532747",
+          "created_at": "2018-01-16T15:26:05.657605",
+          "slug": "amazon",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "amazon.com.mx",
+    "data": {
+      "services": [
+        {
+          "id": 190,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "amazon.com",
+            "amazon.com.au",
+            "amazon.de",
+            "amazon.co.uk",
+            "amazon.nl",
+            "amazon.pl",
+            "amazon.sa",
+            "amazon.sg",
+            "amazon.se",
+            "amazon.com.tr",
+            "amazon.ae",
+            "amazon.co.jp",
+            "amazon.es",
+            "amazon.in",
+            "amazon.ca",
+            "amazon.fr",
+            "amazon.it",
+            "amazon.com.br",
+            "amazon.cn",
+            "amazon.com.mx",
+            "amzn.to",
+            "amazontrust.com",
+            "amazongames.com"
+          ],
+          "name": "Amazon",
+          "updated_at": "2023-11-17T17:20:04.532747",
+          "created_at": "2018-01-16T15:26:05.657605",
+          "slug": "amazon",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "amzn.to",
+    "data": {
+      "services": [
+        {
+          "id": 190,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "amazon.com",
+            "amazon.com.au",
+            "amazon.de",
+            "amazon.co.uk",
+            "amazon.nl",
+            "amazon.pl",
+            "amazon.sa",
+            "amazon.sg",
+            "amazon.se",
+            "amazon.com.tr",
+            "amazon.ae",
+            "amazon.co.jp",
+            "amazon.es",
+            "amazon.in",
+            "amazon.ca",
+            "amazon.fr",
+            "amazon.it",
+            "amazon.com.br",
+            "amazon.cn",
+            "amazon.com.mx",
+            "amzn.to",
+            "amazontrust.com",
+            "amazongames.com"
+          ],
+          "name": "Amazon",
+          "updated_at": "2023-11-17T17:20:04.532747",
+          "created_at": "2018-01-16T15:26:05.657605",
+          "slug": "amazon",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "amazontrust.com",
+    "data": {
+      "services": [
+        {
+          "id": 190,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "amazon.com",
+            "amazon.com.au",
+            "amazon.de",
+            "amazon.co.uk",
+            "amazon.nl",
+            "amazon.pl",
+            "amazon.sa",
+            "amazon.sg",
+            "amazon.se",
+            "amazon.com.tr",
+            "amazon.ae",
+            "amazon.co.jp",
+            "amazon.es",
+            "amazon.in",
+            "amazon.ca",
+            "amazon.fr",
+            "amazon.it",
+            "amazon.com.br",
+            "amazon.cn",
+            "amazon.com.mx",
+            "amzn.to",
+            "amazontrust.com",
+            "amazongames.com"
+          ],
+          "name": "Amazon",
+          "updated_at": "2023-11-17T17:20:04.532747",
+          "created_at": "2018-01-16T15:26:05.657605",
+          "slug": "amazon",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "amazongames.com",
+    "data": {
+      "services": [
+        {
+          "id": 190,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "amazon.com",
+            "amazon.com.au",
+            "amazon.de",
+            "amazon.co.uk",
+            "amazon.nl",
+            "amazon.pl",
+            "amazon.sa",
+            "amazon.sg",
+            "amazon.se",
+            "amazon.com.tr",
+            "amazon.ae",
+            "amazon.co.jp",
+            "amazon.es",
+            "amazon.in",
+            "amazon.ca",
+            "amazon.fr",
+            "amazon.it",
+            "amazon.com.br",
+            "amazon.cn",
+            "amazon.com.mx",
+            "amzn.to",
+            "amazontrust.com",
+            "amazongames.com"
+          ],
+          "name": "Amazon",
+          "updated_at": "2023-11-17T17:20:04.532747",
+          "created_at": "2018-01-16T15:26:05.657605",
+          "slug": "amazon",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

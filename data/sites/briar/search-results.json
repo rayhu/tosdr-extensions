@@ -1,0 +1,21 @@
+[
+  {
+    "url": "briarproject.org",
+    "data": {
+      "services": [
+        {
+          "id": 2559,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "briarproject.org"
+          ],
+          "name": "Briar",
+          "updated_at": "2021-06-30T17:16:42.195456",
+          "created_at": "2021-01-18T19:26:35.560273",
+          "slug": "briar",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

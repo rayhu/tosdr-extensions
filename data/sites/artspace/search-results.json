@@ -1,0 +1,21 @@
+[
+  {
+    "url": "artspace.com",
+    "data": {
+      "services": [
+        {
+          "id": 1892,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "artspace.com"
+          ],
+          "name": "Artspace",
+          "updated_at": "2023-07-10T22:01:11.459863",
+          "created_at": "2019-10-10T06:10:02.080550",
+          "slug": "artspace",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

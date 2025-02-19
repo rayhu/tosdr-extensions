@@ -1,0 +1,21 @@
+[
+  {
+    "url": "toggl.com",
+    "data": {
+      "services": [
+        {
+          "id": 3852,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "toggl.com"
+          ],
+          "name": "Toggl Track",
+          "updated_at": "2023-09-19T22:01:40.762344",
+          "created_at": "2021-05-30T20:58:12.912390",
+          "slug": "toggl-track",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "wishlist.com",
+    "data": {
+      "services": [
+        {
+          "id": 823,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "wishlist.com"
+          ],
+          "name": "Wishlist",
+          "updated_at": "2023-07-10T22:00:35.524217",
+          "created_at": "2018-11-17T16:10:36.913478",
+          "slug": "wishlist",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "url": "discoursehosting.com",
+    "data": {
+      "services": [
+        {
+          "id": 1545,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discoursehosting.com",
+            "communiteq.com"
+          ],
+          "name": "DiscourseHosting",
+          "updated_at": "2021-03-27T21:35:30.734175",
+          "created_at": "2019-05-12T00:47:23.067304",
+          "slug": "discoursehosting",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "communiteq.com",
+    "data": {
+      "services": [
+        {
+          "id": 1545,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discoursehosting.com",
+            "communiteq.com"
+          ],
+          "name": "DiscourseHosting",
+          "updated_at": "2021-03-27T21:35:30.734175",
+          "created_at": "2019-05-12T00:47:23.067304",
+          "slug": "discoursehosting",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

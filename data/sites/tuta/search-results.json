@@ -1,0 +1,42 @@
+[
+  {
+    "url": "tutanota.com",
+    "data": {
+      "services": [
+        {
+          "id": 157,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "tutanota.com",
+            "tuta.com"
+          ],
+          "name": "Tuta",
+          "updated_at": "2025-01-04T16:46:03.715910",
+          "created_at": "2018-01-16T15:26:04.947992",
+          "slug": "tutanota",
+          "rating": "A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "tuta.com",
+    "data": {
+      "services": [
+        {
+          "id": 157,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "tutanota.com",
+            "tuta.com"
+          ],
+          "name": "Tuta",
+          "updated_at": "2025-01-04T16:46:03.715910",
+          "created_at": "2018-01-16T15:26:04.947992",
+          "slug": "tutanota",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

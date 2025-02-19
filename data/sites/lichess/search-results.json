@@ -1,0 +1,21 @@
+[
+  {
+    "url": "lichess.org",
+    "data": {
+      "services": [
+        {
+          "id": 806,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "lichess.org"
+          ],
+          "name": "Lichess",
+          "updated_at": "2023-07-10T22:01:57.596783",
+          "created_at": "2018-10-31T10:19:13.241401",
+          "slug": "lichess",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

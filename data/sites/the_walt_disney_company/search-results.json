@@ -1,0 +1,1135 @@
+[
+  {
+    "url": "thewaltdisneycompany.com",
+    "data": {
+      "services": [
+        {
+          "id": 2454,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thewaltdisneycompany.com",
+            "disneytermsofuse.com",
+            "disneyprivacycenter.com",
+            "go.com",
+            "freeform.com",
+            "marvel.com",
+            "lucasfilm.com",
+            "disney.com",
+            "pixar.com",
+            "espn.com",
+            "espn.com.mx",
+            "oddsbyespn.com",
+            "espn.com.ar",
+            "espn.com.au",
+            "espncricinfo.com",
+            "espn.com.br",
+            "espn.com.cl",
+            "espn.com.co",
+            "espn.in",
+            "espn.com.ve",
+            "starwars.com",
+            "abc7chicago.com"
+          ],
+          "name": "The Walt Disney Company",
+          "updated_at": "2024-01-03T21:42:35.795432",
+          "created_at": "2020-12-15T19:55:04.399057",
+          "slug": "the_walt_disney_company_abc_news_espn_pixar_freeform_lucasfilm_marvel",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "disneytermsofuse.com",
+    "data": {
+      "services": [
+        {
+          "id": 2454,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thewaltdisneycompany.com",
+            "disneytermsofuse.com",
+            "disneyprivacycenter.com",
+            "go.com",
+            "freeform.com",
+            "marvel.com",
+            "lucasfilm.com",
+            "disney.com",
+            "pixar.com",
+            "espn.com",
+            "espn.com.mx",
+            "oddsbyespn.com",
+            "espn.com.ar",
+            "espn.com.au",
+            "espncricinfo.com",
+            "espn.com.br",
+            "espn.com.cl",
+            "espn.com.co",
+            "espn.in",
+            "espn.com.ve",
+            "starwars.com",
+            "abc7chicago.com"
+          ],
+          "name": "The Walt Disney Company",
+          "updated_at": "2024-01-03T21:42:35.795432",
+          "created_at": "2020-12-15T19:55:04.399057",
+          "slug": "the_walt_disney_company_abc_news_espn_pixar_freeform_lucasfilm_marvel",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "disneyprivacycenter.com",
+    "data": {
+      "services": [
+        {
+          "id": 2454,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thewaltdisneycompany.com",
+            "disneytermsofuse.com",
+            "disneyprivacycenter.com",
+            "go.com",
+            "freeform.com",
+            "marvel.com",
+            "lucasfilm.com",
+            "disney.com",
+            "pixar.com",
+            "espn.com",
+            "espn.com.mx",
+            "oddsbyespn.com",
+            "espn.com.ar",
+            "espn.com.au",
+            "espncricinfo.com",
+            "espn.com.br",
+            "espn.com.cl",
+            "espn.com.co",
+            "espn.in",
+            "espn.com.ve",
+            "starwars.com",
+            "abc7chicago.com"
+          ],
+          "name": "The Walt Disney Company",
+          "updated_at": "2024-01-03T21:42:35.795432",
+          "created_at": "2020-12-15T19:55:04.399057",
+          "slug": "the_walt_disney_company_abc_news_espn_pixar_freeform_lucasfilm_marvel",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "go.com",
+    "data": {
+      "services": [
+        {
+          "id": 2454,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thewaltdisneycompany.com",
+            "disneytermsofuse.com",
+            "disneyprivacycenter.com",
+            "go.com",
+            "freeform.com",
+            "marvel.com",
+            "lucasfilm.com",
+            "disney.com",
+            "pixar.com",
+            "espn.com",
+            "espn.com.mx",
+            "oddsbyespn.com",
+            "espn.com.ar",
+            "espn.com.au",
+            "espncricinfo.com",
+            "espn.com.br",
+            "espn.com.cl",
+            "espn.com.co",
+            "espn.in",
+            "espn.com.ve",
+            "starwars.com",
+            "abc7chicago.com"
+          ],
+          "name": "The Walt Disney Company",
+          "updated_at": "2024-01-03T21:42:35.795432",
+          "created_at": "2020-12-15T19:55:04.399057",
+          "slug": "the_walt_disney_company_abc_news_espn_pixar_freeform_lucasfilm_marvel",
+          "rating": "E"
+        },
+        {
+          "id": 4075,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "lego.com"
+          ],
+          "name": "LEGO.com",
+          "updated_at": "2021-06-14T22:00:42.555929",
+          "created_at": "2021-06-14T13:00:10.116143",
+          "slug": "lego-com",
+          "rating": "N/A"
+        },
+        {
+          "id": 2717,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "letgo.com"
+          ],
+          "name": "Letgo",
+          "updated_at": "2021-03-25T03:19:28.721044",
+          "created_at": "2021-02-05T16:54:50.615628",
+          "slug": "letgo",
+          "rating": "N/A"
+        },
+        {
+          "id": 3004,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "virtualtrips.io",
+            "heygo.com"
+          ],
+          "name": "Heygo",
+          "updated_at": "2021-04-07T00:02:10.666926",
+          "created_at": "2021-04-06T17:51:04.852756",
+          "slug": "heygo",
+          "rating": "N/A"
+        },
+        {
+          "id": 250,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "diigo.com"
+          ],
+          "name": "diigo",
+          "updated_at": "2021-06-25T15:03:41.248515",
+          "created_at": "2018-01-16T15:26:06.861766",
+          "slug": "diigo",
+          "rating": "N/A"
+        },
+        {
+          "id": 4304,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ouigo.com"
+          ],
+          "name": "Ouigo",
+          "updated_at": "2023-07-10T22:02:00.204874",
+          "created_at": "2021-07-01T13:46:41.927770",
+          "slug": "ouigo",
+          "rating": "D"
+        },
+        {
+          "id": 5558,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "veygo.com"
+          ],
+          "name": "Veygo",
+          "updated_at": "2021-11-08T23:01:09.155724",
+          "created_at": "2021-11-08T04:54:30.451485",
+          "slug": "veygo",
+          "rating": "N/A"
+        },
+        {
+          "id": 6556,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "eargo.com"
+          ],
+          "name": "Eargo",
+          "updated_at": "2022-05-07T22:01:18.384734",
+          "created_at": "2022-05-07T06:11:58.189027",
+          "slug": "eargo",
+          "rating": "N/A"
+        },
+        {
+          "id": 8025,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "mitgo.com",
+            "admitad.com",
+            "brandauditor.cc"
+          ],
+          "name": "Mitgo",
+          "updated_at": "2023-04-22T11:50:42.382591",
+          "created_at": "2023-04-16T00:26:50.411906",
+          "slug": "mitgo",
+          "rating": "N/A"
+        },
+        {
+          "id": 9380,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "dezgo.com"
+          ],
+          "name": "Dezgo",
+          "updated_at": "2023-08-21T10:02:21.943820",
+          "created_at": "2023-08-21T03:16:01.863818",
+          "slug": "dezgo",
+          "rating": "N/A"
+        },
+        {
+          "id": 263,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "boingo.com"
+          ],
+          "name": "Boingo",
+          "updated_at": "2023-09-19T22:00:27.092501",
+          "created_at": "2018-01-16T15:26:07.085070",
+          "slug": "boingo",
+          "rating": "N/A"
+        },
+        {
+          "id": 7588,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "quilgo.com"
+          ],
+          "name": "Quilgo",
+          "updated_at": "2023-03-29T19:26:47.721991",
+          "created_at": "2023-03-16T03:53:23.890388",
+          "slug": "quilgo",
+          "rating": "N/A"
+        },
+        {
+          "id": 8158,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "billgo.com"
+          ],
+          "name": "BillGO",
+          "updated_at": "2023-05-01T22:02:11.350943",
+          "created_at": "2023-05-01T20:30:26.793368",
+          "slug": "billgo",
+          "rating": "N/A"
+        },
+        {
+          "id": 10169,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "eatigo.com"
+          ],
+          "name": "Eatigo",
+          "updated_at": "2023-12-29T23:03:45.866834",
+          "created_at": "2023-12-29T18:25:01.982474",
+          "slug": "eatigo",
+          "rating": "N/A"
+        },
+        {
+          "id": 10968,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "gamygo.com"
+          ],
+          "name": "gamygo.com",
+          "updated_at": "2024-06-28T10:02:31.641547",
+          "created_at": "2024-06-28T02:06:40.130862",
+          "slug": "gamygo-com",
+          "rating": "N/A"
+        },
+        {
+          "id": 11340,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "innago.com"
+          ],
+          "name": "Innago",
+          "updated_at": "2024-07-21T03:37:46.596750",
+          "created_at": "2024-07-21T03:37:46.596750",
+          "slug": null,
+          "rating": "N/A"
+        },
+        {
+          "id": 5144,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "smurfgo.com"
+          ],
+          "name": "smurfgo",
+          "updated_at": "2021-10-18T22:01:08.448997",
+          "created_at": "2021-10-18T01:13:04.797315",
+          "slug": "smurfgo",
+          "rating": "N/A"
+        },
+        {
+          "id": 6218,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "perlego.com"
+          ],
+          "name": "Perlego",
+          "updated_at": "2022-01-01T23:01:21.726996",
+          "created_at": "2022-01-01T02:32:20.099851",
+          "slug": "perlego",
+          "rating": "N/A"
+        },
+        {
+          "id": 693,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "viagogo.at",
+            "viagogo.be",
+            "viagogo.ca",
+            "viagogo.ch",
+            "viagogo.com",
+            "viagogo.com.tr",
+            "viagogo.co.uk",
+            "viagogo.co.za",
+            "viagogo.de",
+            "viagogo.dk",
+            "viagogo.es",
+            "viagogo.fr",
+            "viagogo.gr",
+            "viagogo.ie",
+            "viagogo.it",
+            "viagogo.jp",
+            "viagogo.lu",
+            "viagogo.com.mx",
+            "viagogo.nl",
+            "viagogo.pl",
+            "viagogo.pt",
+            "viagogo.se"
+          ],
+          "name": "Viagogo",
+          "updated_at": "2023-07-10T22:02:55.111890",
+          "created_at": "2018-09-04T19:19:58.879897",
+          "slug": "viagogo",
+          "rating": "D"
+        },
+        {
+          "id": 10527,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "sectigo.com"
+          ],
+          "name": "Sectigo",
+          "updated_at": "2024-01-12T23:02:48.049870",
+          "created_at": "2024-01-12T19:41:45.694055",
+          "slug": "sectigo",
+          "rating": "N/A"
+        },
+        {
+          "id": 2315,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandango.com",
+            "fandangonow.com",
+            "vudu.com",
+            "rottentomatoes.com",
+            "flixster.com",
+            "movieclips.com",
+            "movies.com",
+            "activaterewards.com",
+            "movietickets.com"
+          ],
+          "name": "Fandango",
+          "updated_at": "2021-03-25T03:19:51.888128",
+          "created_at": "2020-08-28T07:31:40.270368",
+          "slug": "fandango",
+          "rating": "E"
+        },
+        {
+          "id": 6699,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "shopiago.com"
+          ],
+          "name": "Shopiago",
+          "updated_at": "2022-06-24T22:01:01.823075",
+          "created_at": "2022-06-24T19:26:15.511734",
+          "slug": "shopiago",
+          "rating": "N/A"
+        },
+        {
+          "id": 7583,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "seeklogo.com"
+          ],
+          "name": "Seeklogo",
+          "updated_at": "2023-03-29T19:26:47.547526",
+          "created_at": "2023-03-15T21:02:08.181488",
+          "slug": "seeklogo",
+          "rating": "N/A"
+        },
+        {
+          "id": 3156,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "savetzpublishing.com",
+            "terriblenerd.com",
+            "aviationweather.ws",
+            "aircraftprofile.com",
+            "howtocall.info",
+            "howtotype.net",
+            "xdaysago.com",
+            "daysfromtoday.com",
+            "whatistheph.com",
+            "whatgradeisit.com",
+            "simplifyfractions.com",
+            "asdecimal.com",
+            "asapercent.com",
+            "asafraction.com",
+            "mathematicalconstants.com",
+            "multiplicationtableworksheets.com",
+            "airportcoder.com",
+            "papersizereference.com",
+            "postofficeopen.com",
+            "faxtemplates.net",
+            "faxcoversheets.org",
+            "faxanswers.com",
+            "faxprices.com",
+            "faxtoy.net",
+            "faxzero.com",
+            "lettersofintent.co",
+            "rejectionletters.net",
+            "obituaryhelp.net",
+            "characterreferenceletters.com",
+            "letterofhardship.net",
+            "condolenceletters.net",
+            "goodbyeletters.net",
+            "apologyletters.net",
+            "complaintletter.net",
+            "lettersofrecommendation.net",
+            "thankyouletter.ws",
+            "coverletterexamples.net",
+            "resignationletters.biz",
+            "heroprintables.com",
+            "printpuzzles.net",
+            "printableconstitution.com",
+            "adultcoloringpages.net",
+            "reporttemplates.net",
+            "printablerulers.net",
+            "instantmonologues.com",
+            "printablegiftcards.net",
+            "freeprintableflags.com",
+            "swifttips.com",
+            "printableboardgames.net",
+            "openofficetemplates.com",
+            "libreofficetemplates.net",
+            "instantworksheets.net",
+            "writingtemplates.net",
+            "printablebabyplanner.com",
+            "exampletoasts.com",
+            "freewritingprompts.net",
+            "printablemasks.net",
+            "birthdaycardsprintable.com",
+            "thanksgivingprintables.net",
+            "halloweenprintables.net",
+            "freewordsearch.net",
+            "printableflashcards.net",
+            "printablepaperdolls.net",
+            "printableluggagetags.com",
+            "pressreleasetemplates.net",
+            "businessplantemplate.net",
+            "pageborders.net",
+            "printableflyertemplates.net",
+            "printableweddingplanner.com",
+            "printabletimecards.com",
+            "freenametags.net",
+            "printable2022calendars.com",
+            "printable2021calendars.com",
+            "rocketcalendar.com",
+            "printabletodolist.com",
+            "cvtemplates.net",
+            "printablemazes.net",
+            "toothfairyletter.net",
+            "printablecontracts.com",
+            "teachersprintables.net",
+            "certificadosimprimibles.com",
+            "freeprintablemedicalforms.com",
+            "printablelabels.net",
+            "printableworldmap.net",
+            "freeprintablebookmarks.net",
+            "printableplaymoney.net",
+            "printablebirthannouncements.net",
+            "printablejewishcalendar.com",
+            "printableplanners.net",
+            "printableplacecards.net",
+            "freeeasterprintables.com",
+            "freeprintablegreetingcards.net",
+            "printinvitations.net",
+            "businessformtemplate.com",
+            "printablebanners.net",
+            "familytreetemplates.net",
+            "chorecharts.net",
+            "freeprintablegrocerylist.com",
+            "freeletterheadtemplates.net",
+            "instantresumetemplates.com",
+            "printablepaper.net",
+            "printabletournamentbrackets.net",
+            "printableinvoicetemplates.net",
+            "dottodots.net",
+            "santaprintables.com",
+            "legalpleadingtemplate.com",
+            "printabletimesheets.net",
+            "printablesigns.net",
+            "printablecashreceipts.com",
+            "freeprintablevalentines.net",
+            "freecoloringsheets.net",
+            "horsecoloringpages.net",
+            "biblecoloringpages.org",
+            "dailyclipart.net",
+            "freeprintablecoloringpages.net",
+            "freeprintablerecipecards.net",
+            "freeprintablegreetingcards.org",
+            "freeprintablegifttags.net",
+            "freeprintablecertificates.net",
+            "freeprintablebusinesscards.net",
+            "freeprintablestationery.net",
+            "freefaxcoversheets.net",
+            "freeprintable.net"
+          ],
+          "name": "Savetz Publishing",
+          "updated_at": "2023-07-10T22:02:52.828070",
+          "created_at": "2021-04-16T19:55:02.203165",
+          "slug": "savetz_publishing",
+          "rating": "D"
+        },
+        {
+          "id": 744,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "duolingo.com"
+          ],
+          "name": "Duolingo",
+          "updated_at": "2023-09-19T22:00:35.951241",
+          "created_at": "2018-10-12T14:11:52.044623",
+          "slug": "duolingo",
+          "rating": "C"
+        },
+        {
+          "id": 516,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "warnerbros.com",
+            "warnerbroscareers.com",
+            "wbstudiotour.com",
+            "wbsl.com",
+            "watertower-music.com",
+            "dccomics.com",
+            "wbparents.com",
+            "wbkidsgo.com",
+            "dckids.com",
+            "warnertv.com",
+            "telepicturestv.com",
+            "telepicturesmusic.com",
+            "tmz.com",
+            "truecrimedaily.com",
+            "toofab.com",
+            "warnermediaprivacy.com",
+            "mortalkombat.com",
+            "wbgames.com",
+            "warnerbrosgames.com"
+          ],
+          "name": "Warner Bros",
+          "updated_at": "2023-11-17T20:18:45.407119",
+          "created_at": "2018-06-04T18:25:32.325558",
+          "slug": "warner_bros",
+          "rating": "N/A"
+        },
+        {
+          "id": 10463,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "teachngo.com"
+          ],
+          "name": "Teachn N Go",
+          "updated_at": "2024-01-07T23:03:18.221255",
+          "created_at": "2024-01-07T17:54:00.474111",
+          "slug": "teachn-n-go",
+          "rating": "N/A"
+        },
+        {
+          "id": 167,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "indiegogo.com"
+          ],
+          "name": "Indiegogo",
+          "updated_at": "2023-07-10T22:00:41.581860",
+          "created_at": "2018-01-16T15:26:05.186868",
+          "slug": "indiegogo",
+          "rating": "D"
+        },
+        {
+          "id": 3752,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "wellsfargo.com"
+          ],
+          "name": "Wells Fargo",
+          "updated_at": "2021-05-24T22:00:23.547487",
+          "created_at": "2021-05-24T19:40:40.553737",
+          "slug": "wells_fargo",
+          "rating": "N/A"
+        },
+        {
+          "id": 5856,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "cwbchicago.com"
+          ],
+          "name": "CWBChicago ",
+          "updated_at": "2021-11-26T23:01:10.686028",
+          "created_at": "2021-11-26T22:37:12.992802",
+          "slug": "cwbchicago",
+          "rating": "N/A"
+        },
+        {
+          "id": 222,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "duckduckgo.com",
+            "3g2upl4pq6kufc4m.onion",
+            "spreadprivacy.com",
+            "duckduckhack.com",
+            "donttrack.us",
+            "duck.co",
+            "duck.com"
+          ],
+          "name": "DuckDuckGo",
+          "updated_at": "2024-04-12T22:01:31.311206",
+          "created_at": "2018-01-16T15:26:06.270020",
+          "slug": "duckduckgo",
+          "rating": "B"
+        },
+        {
+          "id": 5213,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "toogoodtogo.com",
+            "toogoodtogo.ca"
+          ],
+          "name": "Too Good To Go",
+          "updated_at": "2023-07-10T22:02:12.054027",
+          "created_at": "2021-10-21T19:04:10.999120",
+          "slug": "too-good-to-go",
+          "rating": "D"
+        },
+        {
+          "id": 5418,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "metadata2go.com"
+          ],
+          "name": "metadata2go",
+          "updated_at": "2021-11-01T23:01:09.277913",
+          "created_at": "2021-11-01T21:04:05.783813",
+          "slug": "metadata2go",
+          "rating": "N/A"
+        },
+        {
+          "id": 5971,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "ideappeergo.com"
+          ],
+          "name": "ideappeergo",
+          "updated_at": "2021-12-02T23:01:10.629747",
+          "created_at": "2021-12-02T23:47:38.257418",
+          "slug": "ideappeergo",
+          "rating": "N/A"
+        },
+        {
+          "id": 9231,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "medbridgego.com"
+          ],
+          "name": "MedBridgeGo",
+          "updated_at": "2023-07-15T10:02:17.474226",
+          "created_at": "2023-07-15T02:09:26.436455",
+          "slug": "medbridgego",
+          "rating": "N/A"
+        },
+        {
+          "id": 2240,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "bygabyardigo.com"
+          ],
+          "name": "ByGabyArdigo",
+          "updated_at": "2023-06-05T22:01:29.584380",
+          "created_at": "2020-05-07T19:12:11.322791",
+          "slug": "bygabyardigo",
+          "rating": "C"
+        },
+        {
+          "id": 6992,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "nexstar.tv",
+            "nexstardigital.com",
+            "thehill.com",
+            "newsnationnow.com",
+            "rewindtv.com",
+            "antennatv.tv",
+            "wgntv.com",
+            "bestreviews.com",
+            "cbs42.com",
+            "wdhn.com",
+            "whnt.com",
+            "wkrg.com",
+            "nwahomepage.com",
+            "nwahomepage.com",
+            "kark.com",
+            "keepmystation.com",
+            "fox16.com",
+            "kget.com",
+            "yourcentralvalley.com",
+            "ktla.com",
+            "fox40.com",
+            "fox5sandiego.com",
+            "kron4.com",
+            "fox21news.com",
+            "kdvr.com",
+            "westernslopenow.com",
+            "wtnh.com",
+            "dcnewsnow.com",
+            "mypanhandle.com",
+            "wfla.com",
+            "wjbf.com",
+            "wrbl.com",
+            "wsav.com",
+            ".khon2.com",
+            "wcia.com",
+            "centralillinoisproud.com",
+            "mystateline.com",
+            "ourquadcities.com",
+            "tristatehomepage.com",
+            "wane.com",
+            "fox59.com",
+            "mywabashvalley.com",
+            "who13.com",
+            "siouxlandproud.com",
+            "ksnt.com",
+            "ksn.com",
+            "fox56news.com",
+            "brproud.com",
+            "klfy.com",
+            "myarklamiss.com",
+            "wgno.com",
+            "ktalnews.com",
+            "wwlp.com",
+            "upmatters.com",
+            "woodtv.com",
+            "wlns.com",
+            "wjtv.com",
+            "cenlanow.com",
+            "fourstateshomepage.com",
+            "fox4kc.com",
+            "fox2now.com",
+            "ozarksfirst.com",
+            "yourbigsky.com",
+            "8newsnow.com",
+            "krqe.com",
+            "news10.com",
+            "binghamtonhomepage.com",
+            "wivb.com",
+            "mytwintiers.com",
+            "rochesterfirst.com",
+            "qcnews.com",
+            "informnny.com",
+            "myfox8.com",
+            "wnct.com",
+            "cbs17.com",
+            "kxnet.com",
+            "nbc4i.com",
+            "wdtn.com",
+            "wkbn.com",
+            "kfor.com",
+            "koin.com",
+            "wtaj.com",
+            "yourerie.com",
+            "localsyr.com",
+            "cnyhomepage.com",
+            "abc27.com",
+            "phl17.com",
+            "pahomepage.com",
+            "wpri.com",
+            "counton2.com",
+            "wbtw.com",
+            "wspa.com",
+            "keloland.com",
+            "wjhl.com",
+            "wate.com",
+            "wreg.com",
+            "wkrn.com",
+            "bigcountryhomepage.com",
+            "myhighplains.com",
+            "kxan.com",
+            "valleycentral.com",
+            "cw33.com",
+            "ktsm.com",
+            "cw39.com",
+            "ketk.com",
+            "everythinglubbock.com",
+            "yourbasin.com",
+            "conchovalleyhomepage.com",
+            "fox44news.com",
+            "texomashomepage.com",
+            "abc4.com",
+            "mychamplainvalley.com",
+            "wavy.com",
+            "wric.com",
+            "wfxrtv.com",
+            "wboy.com",
+            "wowktv.com",
+            "wvnstv.com",
+            "wtrf.com",
+            "wearegreenbay.com",
+            "wiproud.com",
+            "wgnradio.com",
+            "pix11.com"
+          ],
+          "name": "Nexstar Media Group",
+          "updated_at": "2024-11-10T06:45:59.203076",
+          "created_at": "2022-11-23T21:45:09.221904",
+          "slug": "nexstar-media-group",
+          "rating": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "freeform.com",
+    "data": {
+      "services": [
+        {
+          "id": 2454,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thewaltdisneycompany.com",
+            "disneytermsofuse.com",
+            "disneyprivacycenter.com",
+            "go.com",
+            "freeform.com",
+            "marvel.com",
+            "lucasfilm.com",
+            "disney.com",
+            "pixar.com",
+            "espn.com",
+            "espn.com.mx",
+            "oddsbyespn.com",
+            "espn.com.ar",
+            "espn.com.au",
+            "espncricinfo.com",
+            "espn.com.br",
+            "espn.com.cl",
+            "espn.com.co",
+            "espn.in",
+            "espn.com.ve",
+            "starwars.com",
+            "abc7chicago.com"
+          ],
+          "name": "The Walt Disney Company",
+          "updated_at": "2024-01-03T21:42:35.795432",
+          "created_at": "2020-12-15T19:55:04.399057",
+          "slug": "the_walt_disney_company_abc_news_espn_pixar_freeform_lucasfilm_marvel",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "espn.com.br",
+    "data": {
+      "services": [
+        {
+          "id": 2454,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thewaltdisneycompany.com",
+            "disneytermsofuse.com",
+            "disneyprivacycenter.com",
+            "go.com",
+            "freeform.com",
+            "marvel.com",
+            "lucasfilm.com",
+            "disney.com",
+            "pixar.com",
+            "espn.com",
+            "espn.com.mx",
+            "oddsbyespn.com",
+            "espn.com.ar",
+            "espn.com.au",
+            "espncricinfo.com",
+            "espn.com.br",
+            "espn.com.cl",
+            "espn.com.co",
+            "espn.in",
+            "espn.com.ve",
+            "starwars.com",
+            "abc7chicago.com"
+          ],
+          "name": "The Walt Disney Company",
+          "updated_at": "2024-01-03T21:42:35.795432",
+          "created_at": "2020-12-15T19:55:04.399057",
+          "slug": "the_walt_disney_company_abc_news_espn_pixar_freeform_lucasfilm_marvel",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "espn.com.cl",
+    "data": {
+      "services": [
+        {
+          "id": 2454,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thewaltdisneycompany.com",
+            "disneytermsofuse.com",
+            "disneyprivacycenter.com",
+            "go.com",
+            "freeform.com",
+            "marvel.com",
+            "lucasfilm.com",
+            "disney.com",
+            "pixar.com",
+            "espn.com",
+            "espn.com.mx",
+            "oddsbyespn.com",
+            "espn.com.ar",
+            "espn.com.au",
+            "espncricinfo.com",
+            "espn.com.br",
+            "espn.com.cl",
+            "espn.com.co",
+            "espn.in",
+            "espn.com.ve",
+            "starwars.com",
+            "abc7chicago.com"
+          ],
+          "name": "The Walt Disney Company",
+          "updated_at": "2024-01-03T21:42:35.795432",
+          "created_at": "2020-12-15T19:55:04.399057",
+          "slug": "the_walt_disney_company_abc_news_espn_pixar_freeform_lucasfilm_marvel",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "espn.com.co",
+    "data": {
+      "services": [
+        {
+          "id": 2454,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thewaltdisneycompany.com",
+            "disneytermsofuse.com",
+            "disneyprivacycenter.com",
+            "go.com",
+            "freeform.com",
+            "marvel.com",
+            "lucasfilm.com",
+            "disney.com",
+            "pixar.com",
+            "espn.com",
+            "espn.com.mx",
+            "oddsbyespn.com",
+            "espn.com.ar",
+            "espn.com.au",
+            "espncricinfo.com",
+            "espn.com.br",
+            "espn.com.cl",
+            "espn.com.co",
+            "espn.in",
+            "espn.com.ve",
+            "starwars.com",
+            "abc7chicago.com"
+          ],
+          "name": "The Walt Disney Company",
+          "updated_at": "2024-01-03T21:42:35.795432",
+          "created_at": "2020-12-15T19:55:04.399057",
+          "slug": "the_walt_disney_company_abc_news_espn_pixar_freeform_lucasfilm_marvel",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "espn.in",
+    "data": {
+      "services": [
+        {
+          "id": 2454,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thewaltdisneycompany.com",
+            "disneytermsofuse.com",
+            "disneyprivacycenter.com",
+            "go.com",
+            "freeform.com",
+            "marvel.com",
+            "lucasfilm.com",
+            "disney.com",
+            "pixar.com",
+            "espn.com",
+            "espn.com.mx",
+            "oddsbyespn.com",
+            "espn.com.ar",
+            "espn.com.au",
+            "espncricinfo.com",
+            "espn.com.br",
+            "espn.com.cl",
+            "espn.com.co",
+            "espn.in",
+            "espn.com.ve",
+            "starwars.com",
+            "abc7chicago.com"
+          ],
+          "name": "The Walt Disney Company",
+          "updated_at": "2024-01-03T21:42:35.795432",
+          "created_at": "2020-12-15T19:55:04.399057",
+          "slug": "the_walt_disney_company_abc_news_espn_pixar_freeform_lucasfilm_marvel",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "espn.com.ve",
+    "data": {
+      "services": [
+        {
+          "id": 2454,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thewaltdisneycompany.com",
+            "disneytermsofuse.com",
+            "disneyprivacycenter.com",
+            "go.com",
+            "freeform.com",
+            "marvel.com",
+            "lucasfilm.com",
+            "disney.com",
+            "pixar.com",
+            "espn.com",
+            "espn.com.mx",
+            "oddsbyespn.com",
+            "espn.com.ar",
+            "espn.com.au",
+            "espncricinfo.com",
+            "espn.com.br",
+            "espn.com.cl",
+            "espn.com.co",
+            "espn.in",
+            "espn.com.ve",
+            "starwars.com",
+            "abc7chicago.com"
+          ],
+          "name": "The Walt Disney Company",
+          "updated_at": "2024-01-03T21:42:35.795432",
+          "created_at": "2020-12-15T19:55:04.399057",
+          "slug": "the_walt_disney_company_abc_news_espn_pixar_freeform_lucasfilm_marvel",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

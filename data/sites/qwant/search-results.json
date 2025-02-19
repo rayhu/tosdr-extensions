@@ -1,0 +1,42 @@
+[
+  {
+    "url": "qwant.com",
+    "data": {
+      "services": [
+        {
+          "id": 527,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "qwant.com",
+            "qwantjunior.com"
+          ],
+          "name": "Qwant",
+          "updated_at": "2021-03-25T03:19:36.108592",
+          "created_at": "2018-06-09T07:31:51.624829",
+          "slug": "qwant",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "qwantjunior.com",
+    "data": {
+      "services": [
+        {
+          "id": 527,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "qwant.com",
+            "qwantjunior.com"
+          ],
+          "name": "Qwant",
+          "updated_at": "2021-03-25T03:19:36.108592",
+          "created_at": "2018-06-09T07:31:51.624829",
+          "slug": "qwant",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

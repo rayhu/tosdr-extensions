@@ -1,0 +1,21 @@
+[
+  {
+    "url": "simplyearth.com",
+    "data": {
+      "services": [
+        {
+          "id": 3716,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "simplyearth.com"
+          ],
+          "name": "Simply Earth",
+          "updated_at": "2023-07-10T22:01:49.815763",
+          "created_at": "2021-05-20T21:36:24.467795",
+          "slug": "simply_earth",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

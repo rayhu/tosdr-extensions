@@ -1,0 +1,33 @@
+[
+  {
+    "url": "ebuddy.com",
+    "data": {
+      "services": [
+        {
+          "id": 305,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ebuddy.com"
+          ],
+          "name": "eBuddy",
+          "updated_at": "2023-07-10T22:01:47.144318",
+          "created_at": "2018-01-16T15:26:07.899626",
+          "slug": "ebuddy",
+          "rating": "D"
+        },
+        {
+          "id": 4418,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "tubebuddy.com"
+          ],
+          "name": "TubeBuddy",
+          "updated_at": "2023-07-10T22:02:00.817096",
+          "created_at": "2021-07-03T19:39:11.337923",
+          "slug": "tubebuddy",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

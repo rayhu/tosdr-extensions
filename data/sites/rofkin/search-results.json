@@ -1,0 +1,21 @@
+[
+  {
+    "url": "rokfin.com",
+    "data": {
+      "services": [
+        {
+          "id": 3160,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "rokfin.com"
+          ],
+          "name": "Rofkin",
+          "updated_at": "2021-06-13T22:00:12.970759",
+          "created_at": "2021-04-16T21:29:54.126356",
+          "slug": "rofkin",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

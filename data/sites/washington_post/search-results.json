@@ -1,0 +1,21 @@
+[
+  {
+    "url": "washingtonpost.com",
+    "data": {
+      "services": [
+        {
+          "id": 989,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "washingtonpost.com"
+          ],
+          "name": "Washington Post",
+          "updated_at": "2023-07-10T22:00:25.787634",
+          "created_at": "2018-12-21T19:32:18.374957",
+          "slug": "washington_post",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "bitchute.com",
+    "data": {
+      "services": [
+        {
+          "id": 513,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "bitchute.com"
+          ],
+          "name": "BitChute",
+          "updated_at": "2023-07-10T22:00:55.740333",
+          "created_at": "2018-06-03T20:06:43.548784",
+          "slug": "bitchute",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

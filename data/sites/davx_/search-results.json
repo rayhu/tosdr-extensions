@@ -1,0 +1,21 @@
+[
+  {
+    "url": "davx5.com",
+    "data": {
+      "services": [
+        {
+          "id": 3475,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "davx5.com"
+          ],
+          "name": "DAVx⁵",
+          "updated_at": "2021-08-11T22:25:02.105874",
+          "created_at": "2021-05-07T15:49:25.314111",
+          "slug": "davx_",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

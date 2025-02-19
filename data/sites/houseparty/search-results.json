@@ -1,0 +1,42 @@
+[
+  {
+    "url": "houseparty.com",
+    "data": {
+      "services": [
+        {
+          "id": 2196,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "houseparty.com",
+            "app.houseparty.com"
+          ],
+          "name": "Houseparty",
+          "updated_at": "2023-09-19T22:00:27.788291",
+          "created_at": "2020-03-21T13:53:33.681165",
+          "slug": "houseparty",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "app.houseparty.com",
+    "data": {
+      "services": [
+        {
+          "id": 2196,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "houseparty.com",
+            "app.houseparty.com"
+          ],
+          "name": "Houseparty",
+          "updated_at": "2023-09-19T22:00:27.788291",
+          "created_at": "2020-03-21T13:53:33.681165",
+          "slug": "houseparty",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

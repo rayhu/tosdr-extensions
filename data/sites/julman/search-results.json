@@ -1,0 +1,21 @@
+[
+  {
+    "url": "julman.fr",
+    "data": {
+      "services": [
+        {
+          "id": 4696,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "julman.fr"
+          ],
+          "name": "JulMan",
+          "updated_at": "2021-07-17T22:00:45.572594",
+          "created_at": "2021-07-13T20:48:21.031032",
+          "slug": "julman",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

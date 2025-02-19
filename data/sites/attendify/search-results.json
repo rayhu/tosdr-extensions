@@ -1,0 +1,42 @@
+[
+  {
+    "url": "attendify.co",
+    "data": {
+      "services": [
+        {
+          "id": 2361,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "attendify.co",
+            "attendify.com"
+          ],
+          "name": "Attendify",
+          "updated_at": "2023-07-10T22:01:28.084710",
+          "created_at": "2020-10-08T12:24:34.715616",
+          "slug": "attendify",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "attendify.com",
+    "data": {
+      "services": [
+        {
+          "id": 2361,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "attendify.co",
+            "attendify.com"
+          ],
+          "name": "Attendify",
+          "updated_at": "2023-07-10T22:01:28.084710",
+          "created_at": "2020-10-08T12:24:34.715616",
+          "slug": "attendify",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

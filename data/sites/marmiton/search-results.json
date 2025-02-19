@@ -1,0 +1,21 @@
+[
+  {
+    "url": "marmiton.org",
+    "data": {
+      "services": [
+        {
+          "id": 4781,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "marmiton.org"
+          ],
+          "name": "Marmiton",
+          "updated_at": "2023-07-10T22:02:07.460545",
+          "created_at": "2021-07-20T18:52:18.544057",
+          "slug": "marmiton",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

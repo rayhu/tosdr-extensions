@@ -1,0 +1,21 @@
+[
+  {
+    "url": "fairtec.io",
+    "data": {
+      "services": [
+        {
+          "id": 8420,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fairtec.io"
+          ],
+          "name": "FairTec",
+          "updated_at": "2023-09-12T22:02:28.647769",
+          "created_at": "2023-05-28T16:28:24.287391",
+          "slug": "fairtec",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

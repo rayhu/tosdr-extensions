@@ -1,0 +1,21 @@
+[
+  {
+    "url": "anonaddy.com",
+    "data": {
+      "services": [
+        {
+          "id": 2220,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "anonaddy.com"
+          ],
+          "name": "AnonAddy",
+          "updated_at": "2021-04-25T18:32:34.245814",
+          "created_at": "2020-04-11T13:44:14.638937",
+          "slug": "anonaddy",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "url": "ebay.com",
+    "data": {
+      "services": [
+        {
+          "id": 226,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ebay.com",
+            "ebay.co.uk",
+            "ebay.ca",
+            "ebay.fr",
+            "ebay.nl",
+            "ebay.co.jp",
+            "ebay.com.au",
+            "ebay.it",
+            "ebay.ie",
+            "ebay.de",
+            "ebay.ch"
+          ],
+          "name": "eBay",
+          "updated_at": "2023-07-10T22:00:37.201615",
+          "created_at": "2018-01-16T15:26:06.352226",
+          "slug": "ebay",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "ebay.co.uk",
+    "data": {
+      "services": [
+        {
+          "id": 226,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ebay.com",
+            "ebay.co.uk",
+            "ebay.ca",
+            "ebay.fr",
+            "ebay.nl",
+            "ebay.co.jp",
+            "ebay.com.au",
+            "ebay.it",
+            "ebay.ie",
+            "ebay.de",
+            "ebay.ch"
+          ],
+          "name": "eBay",
+          "updated_at": "2023-07-10T22:00:37.201615",
+          "created_at": "2018-01-16T15:26:06.352226",
+          "slug": "ebay",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "ebay.ca",
+    "data": {
+      "services": [
+        {
+          "id": 226,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ebay.com",
+            "ebay.co.uk",
+            "ebay.ca",
+            "ebay.fr",
+            "ebay.nl",
+            "ebay.co.jp",
+            "ebay.com.au",
+            "ebay.it",
+            "ebay.ie",
+            "ebay.de",
+            "ebay.ch"
+          ],
+          "name": "eBay",
+          "updated_at": "2023-07-10T22:00:37.201615",
+          "created_at": "2018-01-16T15:26:06.352226",
+          "slug": "ebay",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "ebay.fr",
+    "data": {
+      "services": [
+        {
+          "id": 226,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ebay.com",
+            "ebay.co.uk",
+            "ebay.ca",
+            "ebay.fr",
+            "ebay.nl",
+            "ebay.co.jp",
+            "ebay.com.au",
+            "ebay.it",
+            "ebay.ie",
+            "ebay.de",
+            "ebay.ch"
+          ],
+          "name": "eBay",
+          "updated_at": "2023-07-10T22:00:37.201615",
+          "created_at": "2018-01-16T15:26:06.352226",
+          "slug": "ebay",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "ebay.nl",
+    "data": {
+      "services": [
+        {
+          "id": 226,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ebay.com",
+            "ebay.co.uk",
+            "ebay.ca",
+            "ebay.fr",
+            "ebay.nl",
+            "ebay.co.jp",
+            "ebay.com.au",
+            "ebay.it",
+            "ebay.ie",
+            "ebay.de",
+            "ebay.ch"
+          ],
+          "name": "eBay",
+          "updated_at": "2023-07-10T22:00:37.201615",
+          "created_at": "2018-01-16T15:26:06.352226",
+          "slug": "ebay",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "ebay.ch",
+    "data": {
+      "services": [
+        {
+          "id": 226,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ebay.com",
+            "ebay.co.uk",
+            "ebay.ca",
+            "ebay.fr",
+            "ebay.nl",
+            "ebay.co.jp",
+            "ebay.com.au",
+            "ebay.it",
+            "ebay.ie",
+            "ebay.de",
+            "ebay.ch"
+          ],
+          "name": "eBay",
+          "updated_at": "2023-07-10T22:00:37.201615",
+          "created_at": "2018-01-16T15:26:06.352226",
+          "slug": "ebay",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

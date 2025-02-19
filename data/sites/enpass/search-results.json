@@ -1,0 +1,21 @@
+[
+  {
+    "url": "enpass.io",
+    "data": {
+      "services": [
+        {
+          "id": 1575,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "enpass.io"
+          ],
+          "name": "Enpass",
+          "updated_at": "2023-09-19T22:01:04.252119",
+          "created_at": "2019-05-18T20:52:07.841298",
+          "slug": "enpass",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

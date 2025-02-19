@@ -1,0 +1,205 @@
+[
+  {
+    "url": "meteofrance.com",
+    "data": {
+      "services": [
+        {
+          "id": 3153,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meteofrance.com",
+            "vigilance.meteofrance.fr",
+            "meteofrance.fr",
+            "donneespubliques.meteofrance.fr",
+            "meteofrance.gp",
+            "meteo.pf",
+            "meteofrance.pm",
+            "education.meteofrance.fr",
+            "services.meteofrance.com",
+            "professionnel.meteofrance.com",
+            "particulier.meteofrance.com"
+          ],
+          "name": "Météo France",
+          "updated_at": "2023-07-10T22:02:05.004236",
+          "created_at": "2021-04-15T10:32:25.385008",
+          "slug": "mto_france",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "vigilance.meteofrance.fr",
+    "data": {
+      "services": [
+        {
+          "id": 3153,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meteofrance.com",
+            "vigilance.meteofrance.fr",
+            "meteofrance.fr",
+            "donneespubliques.meteofrance.fr",
+            "meteofrance.gp",
+            "meteo.pf",
+            "meteofrance.pm",
+            "education.meteofrance.fr",
+            "services.meteofrance.com",
+            "professionnel.meteofrance.com",
+            "particulier.meteofrance.com"
+          ],
+          "name": "Météo France",
+          "updated_at": "2023-07-10T22:02:05.004236",
+          "created_at": "2021-04-15T10:32:25.385008",
+          "slug": "mto_france",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "meteofrance.fr",
+    "data": {
+      "services": [
+        {
+          "id": 3153,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meteofrance.com",
+            "vigilance.meteofrance.fr",
+            "meteofrance.fr",
+            "donneespubliques.meteofrance.fr",
+            "meteofrance.gp",
+            "meteo.pf",
+            "meteofrance.pm",
+            "education.meteofrance.fr",
+            "services.meteofrance.com",
+            "professionnel.meteofrance.com",
+            "particulier.meteofrance.com"
+          ],
+          "name": "Météo France",
+          "updated_at": "2023-07-10T22:02:05.004236",
+          "created_at": "2021-04-15T10:32:25.385008",
+          "slug": "mto_france",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "education.meteofrance.fr",
+    "data": {
+      "services": [
+        {
+          "id": 3153,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meteofrance.com",
+            "vigilance.meteofrance.fr",
+            "meteofrance.fr",
+            "donneespubliques.meteofrance.fr",
+            "meteofrance.gp",
+            "meteo.pf",
+            "meteofrance.pm",
+            "education.meteofrance.fr",
+            "services.meteofrance.com",
+            "professionnel.meteofrance.com",
+            "particulier.meteofrance.com"
+          ],
+          "name": "Météo France",
+          "updated_at": "2023-07-10T22:02:05.004236",
+          "created_at": "2021-04-15T10:32:25.385008",
+          "slug": "mto_france",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "services.meteofrance.com",
+    "data": {
+      "services": [
+        {
+          "id": 3153,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meteofrance.com",
+            "vigilance.meteofrance.fr",
+            "meteofrance.fr",
+            "donneespubliques.meteofrance.fr",
+            "meteofrance.gp",
+            "meteo.pf",
+            "meteofrance.pm",
+            "education.meteofrance.fr",
+            "services.meteofrance.com",
+            "professionnel.meteofrance.com",
+            "particulier.meteofrance.com"
+          ],
+          "name": "Météo France",
+          "updated_at": "2023-07-10T22:02:05.004236",
+          "created_at": "2021-04-15T10:32:25.385008",
+          "slug": "mto_france",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "professionnel.meteofrance.com",
+    "data": {
+      "services": [
+        {
+          "id": 3153,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meteofrance.com",
+            "vigilance.meteofrance.fr",
+            "meteofrance.fr",
+            "donneespubliques.meteofrance.fr",
+            "meteofrance.gp",
+            "meteo.pf",
+            "meteofrance.pm",
+            "education.meteofrance.fr",
+            "services.meteofrance.com",
+            "professionnel.meteofrance.com",
+            "particulier.meteofrance.com"
+          ],
+          "name": "Météo France",
+          "updated_at": "2023-07-10T22:02:05.004236",
+          "created_at": "2021-04-15T10:32:25.385008",
+          "slug": "mto_france",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "particulier.meteofrance.com",
+    "data": {
+      "services": [
+        {
+          "id": 3153,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meteofrance.com",
+            "vigilance.meteofrance.fr",
+            "meteofrance.fr",
+            "donneespubliques.meteofrance.fr",
+            "meteofrance.gp",
+            "meteo.pf",
+            "meteofrance.pm",
+            "education.meteofrance.fr",
+            "services.meteofrance.com",
+            "professionnel.meteofrance.com",
+            "particulier.meteofrance.com"
+          ],
+          "name": "Météo France",
+          "updated_at": "2023-07-10T22:02:05.004236",
+          "created_at": "2021-04-15T10:32:25.385008",
+          "slug": "mto_france",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

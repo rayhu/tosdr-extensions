@@ -1,0 +1,21 @@
+[
+  {
+    "url": "usseek.com",
+    "data": {
+      "services": [
+        {
+          "id": 2870,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "usseek.com"
+          ],
+          "name": "USSeek",
+          "updated_at": "2023-07-10T22:00:34.729199",
+          "created_at": "2021-03-27T09:51:08.874440",
+          "slug": "usseek",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

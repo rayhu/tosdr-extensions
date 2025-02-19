@@ -1,0 +1,21 @@
+[
+  {
+    "url": "webmail.co.za",
+    "data": {
+      "services": [
+        {
+          "id": 3682,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "webmail.co.za"
+          ],
+          "name": "webmail",
+          "updated_at": "2023-07-10T22:01:48.416024",
+          "created_at": "2021-05-18T19:41:11.461691",
+          "slug": "webmail",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

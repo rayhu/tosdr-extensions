@@ -1,0 +1,21 @@
+[
+  {
+    "url": "nationalgeographic.org",
+    "data": {
+      "services": [
+        {
+          "id": 1742,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nationalgeographic.org"
+          ],
+          "name": "National Geographic",
+          "updated_at": "2023-07-10T22:01:46.558172",
+          "created_at": "2019-08-08T06:52:39.460917",
+          "slug": "national_geographic",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

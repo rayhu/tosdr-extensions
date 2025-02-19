@@ -1,0 +1,21 @@
+[
+  {
+    "url": "23andme.com",
+    "data": {
+      "services": [
+        {
+          "id": 1557,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "23andme.com"
+          ],
+          "name": "23andMe",
+          "updated_at": "2023-07-10T22:01:05.988455",
+          "created_at": "2019-05-14T22:38:22.491725",
+          "slug": "23andme",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

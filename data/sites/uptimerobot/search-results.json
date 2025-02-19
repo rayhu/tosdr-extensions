@@ -1,0 +1,21 @@
+[
+  {
+    "url": "uptimerobot.com",
+    "data": {
+      "services": [
+        {
+          "id": 5846,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "uptimerobot.com"
+          ],
+          "name": "UptimeRobot",
+          "updated_at": "2023-07-10T22:02:40.585463",
+          "created_at": "2021-11-26T22:02:21.942971",
+          "slug": "uptimerobot",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

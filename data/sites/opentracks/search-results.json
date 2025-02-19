@@ -1,0 +1,21 @@
+[
+  {
+    "url": "opentracksapp.com",
+    "data": {
+      "services": [
+        {
+          "id": 3387,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "opentracksapp.com"
+          ],
+          "name": "OpenTracks",
+          "updated_at": "2023-07-10T22:01:27.704492",
+          "created_at": "2021-05-01T20:35:38.803910",
+          "slug": "opentracks_",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

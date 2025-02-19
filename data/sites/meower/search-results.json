@@ -1,0 +1,21 @@
+[
+  {
+    "url": "meower.org",
+    "data": {
+      "services": [
+        {
+          "id": 7344,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "meower.org"
+          ],
+          "name": "Meower",
+          "updated_at": "2023-12-19T23:02:34.941729",
+          "created_at": "2023-01-28T13:02:33.587510",
+          "slug": "meower",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

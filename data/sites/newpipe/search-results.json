@@ -1,0 +1,21 @@
+[
+  {
+    "url": "newpipe.net",
+    "data": {
+      "services": [
+        {
+          "id": 2568,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "newpipe.net"
+          ],
+          "name": "NewPipe",
+          "updated_at": "2021-03-27T21:35:37.404239",
+          "created_at": "2021-01-19T10:32:34.820809",
+          "slug": "newpipe",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

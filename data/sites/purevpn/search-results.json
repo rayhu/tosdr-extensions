@@ -1,0 +1,21 @@
+[
+  {
+    "url": "purevpn.com",
+    "data": {
+      "services": [
+        {
+          "id": 2674,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "purevpn.com"
+          ],
+          "name": "PureVPN",
+          "updated_at": "2023-07-10T22:01:34.447733",
+          "created_at": "2021-01-29T20:59:50.916015",
+          "slug": "purevpn",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

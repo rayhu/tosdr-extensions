@@ -1,0 +1,21 @@
+[
+  {
+    "url": "lefigaro.fr",
+    "data": {
+      "services": [
+        {
+          "id": 8119,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "lefigaro.fr"
+          ],
+          "name": "Le Figaro",
+          "updated_at": "2023-07-10T22:02:45.816802",
+          "created_at": "2023-04-30T18:00:20.517364",
+          "slug": "le-figaro",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

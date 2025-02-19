@@ -1,0 +1,21 @@
+[
+  {
+    "url": "forbes.com",
+    "data": {
+      "services": [
+        {
+          "id": 1577,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "forbes.com"
+          ],
+          "name": "Forbes",
+          "updated_at": "2023-07-10T22:00:42.722323",
+          "created_at": "2019-05-18T22:22:10.978443",
+          "slug": "forbes",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

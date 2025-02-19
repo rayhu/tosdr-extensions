@@ -1,0 +1,21 @@
+[
+  {
+    "url": "ok.ru",
+    "data": {
+      "services": [
+        {
+          "id": 2535,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "ok.ru"
+          ],
+          "name": "Однокла́ссники (Ok.ru)",
+          "updated_at": "2023-07-10T22:01:46.302353",
+          "created_at": "2021-01-16T13:27:03.325972",
+          "slug": "_okru",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

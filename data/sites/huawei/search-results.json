@@ -1,0 +1,42 @@
+[
+  {
+    "url": "huawei.com",
+    "data": {
+      "services": [
+        {
+          "id": 1597,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "huawei.com",
+            "huaweimobileservices.com"
+          ],
+          "name": "Huawei",
+          "updated_at": "2023-07-10T22:00:27.298563",
+          "created_at": "2019-05-29T15:01:25.857267",
+          "slug": "huawei",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "huaweimobileservices.com",
+    "data": {
+      "services": [
+        {
+          "id": 1597,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "huawei.com",
+            "huaweimobileservices.com"
+          ],
+          "name": "Huawei",
+          "updated_at": "2023-07-10T22:00:27.298563",
+          "created_at": "2019-05-29T15:01:25.857267",
+          "slug": "huawei",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

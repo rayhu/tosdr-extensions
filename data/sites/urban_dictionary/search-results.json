@@ -1,0 +1,65 @@
+[
+  {
+    "url": "urbandictionary.com",
+    "data": {
+      "services": [
+        {
+          "id": 324,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "urbandictionary.com",
+            "urbandictionary.blog",
+            "urbandictionary.store"
+          ],
+          "name": "Urban Dictionary",
+          "updated_at": "2023-07-10T22:00:40.249980",
+          "created_at": "2018-01-20T14:00:01.033740",
+          "slug": "urban_dictionary",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "urbandictionary.blog",
+    "data": {
+      "services": [
+        {
+          "id": 324,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "urbandictionary.com",
+            "urbandictionary.blog",
+            "urbandictionary.store"
+          ],
+          "name": "Urban Dictionary",
+          "updated_at": "2023-07-10T22:00:40.249980",
+          "created_at": "2018-01-20T14:00:01.033740",
+          "slug": "urban_dictionary",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "urbandictionary.store",
+    "data": {
+      "services": [
+        {
+          "id": 324,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "urbandictionary.com",
+            "urbandictionary.blog",
+            "urbandictionary.store"
+          ],
+          "name": "Urban Dictionary",
+          "updated_at": "2023-07-10T22:00:40.249980",
+          "created_at": "2018-01-20T14:00:01.033740",
+          "slug": "urban_dictionary",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

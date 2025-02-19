@@ -1,0 +1,21 @@
+[
+  {
+    "url": "tickets-plus.techttgames.dev",
+    "data": {
+      "services": [
+        {
+          "id": 9853,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "tickets-plus.techttgames.dev"
+          ],
+          "name": "Tickets Plus",
+          "updated_at": "2023-11-15T23:03:14.840953",
+          "created_at": "2023-11-08T17:23:40.996075",
+          "slug": "tickets-plus",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

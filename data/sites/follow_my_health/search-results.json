@@ -1,0 +1,21 @@
+[
+  {
+    "url": "followmyhealth.com",
+    "data": {
+      "services": [
+        {
+          "id": 1731,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "followmyhealth.com"
+          ],
+          "name": "Follow My Health",
+          "updated_at": "2023-07-10T22:00:35.348121",
+          "created_at": "2019-08-02T13:54:48.004294",
+          "slug": "follow_my_health",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

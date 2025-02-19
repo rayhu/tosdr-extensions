@@ -1,0 +1,21 @@
+[
+  {
+    "url": "spigotmc.org",
+    "data": {
+      "services": [
+        {
+          "id": 628,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "spigotmc.org"
+          ],
+          "name": "SpigotMC",
+          "updated_at": "2021-11-05T14:10:05.774293",
+          "created_at": "2018-07-25T16:47:37.436568",
+          "slug": "spigotmc",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

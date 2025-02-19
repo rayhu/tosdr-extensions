@@ -1,0 +1,42 @@
+[
+  {
+    "url": "roadtripnation.com",
+    "data": {
+      "services": [
+        {
+          "id": 5059,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "roadtripnation.com",
+            "roadtripnation.org"
+          ],
+          "name": "Roadtrip Nation",
+          "updated_at": "2023-07-10T22:02:10.502278",
+          "created_at": "2021-09-21T18:29:33.073517",
+          "slug": "roadtrip-nation",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "roadtripnation.org",
+    "data": {
+      "services": [
+        {
+          "id": 5059,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "roadtripnation.com",
+            "roadtripnation.org"
+          ],
+          "name": "Roadtrip Nation",
+          "updated_at": "2023-07-10T22:02:10.502278",
+          "created_at": "2021-09-21T18:29:33.073517",
+          "slug": "roadtrip-nation",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

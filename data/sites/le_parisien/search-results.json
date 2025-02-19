@@ -1,0 +1,42 @@
+[
+  {
+    "url": "leparisien.fr",
+    "data": {
+      "services": [
+        {
+          "id": 2543,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "leparisien.fr",
+            "aujourdhuienfrance.fr"
+          ],
+          "name": "Le Parisien",
+          "updated_at": "2023-07-10T22:00:31.919129",
+          "created_at": "2021-01-16T16:05:30.513254",
+          "slug": "le_parisien",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "aujourdhuienfrance.fr",
+    "data": {
+      "services": [
+        {
+          "id": 2543,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "leparisien.fr",
+            "aujourdhuienfrance.fr"
+          ],
+          "name": "Le Parisien",
+          "updated_at": "2023-07-10T22:00:31.919129",
+          "created_at": "2021-01-16T16:05:30.513254",
+          "slug": "le_parisien",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

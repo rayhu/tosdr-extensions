@@ -1,0 +1,21 @@
+[
+  {
+    "url": "bumble.com",
+    "data": {
+      "services": [
+        {
+          "id": 634,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "bumble.com"
+          ],
+          "name": "Bumble",
+          "updated_at": "2023-07-10T22:01:00.229107",
+          "created_at": "2018-07-31T05:36:17.680069",
+          "slug": "bumble",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

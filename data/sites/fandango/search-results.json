@@ -1,0 +1,176 @@
+[
+  {
+    "url": "fandango.com",
+    "data": {
+      "services": [
+        {
+          "id": 2315,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandango.com",
+            "fandangonow.com",
+            "vudu.com",
+            "rottentomatoes.com",
+            "flixster.com",
+            "movieclips.com",
+            "movies.com",
+            "activaterewards.com",
+            "movietickets.com"
+          ],
+          "name": "Fandango",
+          "updated_at": "2021-03-25T03:19:51.888128",
+          "created_at": "2020-08-28T07:31:40.270368",
+          "slug": "fandango",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "flixster.com",
+    "data": {
+      "services": [
+        {
+          "id": 2315,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandango.com",
+            "fandangonow.com",
+            "vudu.com",
+            "rottentomatoes.com",
+            "flixster.com",
+            "movieclips.com",
+            "movies.com",
+            "activaterewards.com",
+            "movietickets.com"
+          ],
+          "name": "Fandango",
+          "updated_at": "2021-03-25T03:19:51.888128",
+          "created_at": "2020-08-28T07:31:40.270368",
+          "slug": "fandango",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "movieclips.com",
+    "data": {
+      "services": [
+        {
+          "id": 2315,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandango.com",
+            "fandangonow.com",
+            "vudu.com",
+            "rottentomatoes.com",
+            "flixster.com",
+            "movieclips.com",
+            "movies.com",
+            "activaterewards.com",
+            "movietickets.com"
+          ],
+          "name": "Fandango",
+          "updated_at": "2021-03-25T03:19:51.888128",
+          "created_at": "2020-08-28T07:31:40.270368",
+          "slug": "fandango",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "movies.com",
+    "data": {
+      "services": [
+        {
+          "id": 2315,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandango.com",
+            "fandangonow.com",
+            "vudu.com",
+            "rottentomatoes.com",
+            "flixster.com",
+            "movieclips.com",
+            "movies.com",
+            "activaterewards.com",
+            "movietickets.com"
+          ],
+          "name": "Fandango",
+          "updated_at": "2021-03-25T03:19:51.888128",
+          "created_at": "2020-08-28T07:31:40.270368",
+          "slug": "fandango",
+          "rating": "E"
+        },
+        {
+          "id": 11120,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "regmovies.com"
+          ],
+          "name": "Regal Cinemas",
+          "updated_at": "2024-07-01T10:02:34.098092",
+          "created_at": "2024-07-01T04:51:42.440300",
+          "slug": "regal-cinemas",
+          "rating": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "activaterewards.com",
+    "data": {
+      "services": [
+        {
+          "id": 2315,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandango.com",
+            "fandangonow.com",
+            "vudu.com",
+            "rottentomatoes.com",
+            "flixster.com",
+            "movieclips.com",
+            "movies.com",
+            "activaterewards.com",
+            "movietickets.com"
+          ],
+          "name": "Fandango",
+          "updated_at": "2021-03-25T03:19:51.888128",
+          "created_at": "2020-08-28T07:31:40.270368",
+          "slug": "fandango",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "movietickets.com",
+    "data": {
+      "services": [
+        {
+          "id": 2315,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandango.com",
+            "fandangonow.com",
+            "vudu.com",
+            "rottentomatoes.com",
+            "flixster.com",
+            "movieclips.com",
+            "movies.com",
+            "activaterewards.com",
+            "movietickets.com"
+          ],
+          "name": "Fandango",
+          "updated_at": "2021-03-25T03:19:51.888128",
+          "created_at": "2020-08-28T07:31:40.270368",
+          "slug": "fandango",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

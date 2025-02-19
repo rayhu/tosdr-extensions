@@ -1,0 +1,21 @@
+[
+  {
+    "url": "simitless.com",
+    "data": {
+      "services": [
+        {
+          "id": 4774,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "simitless.com"
+          ],
+          "name": "Simitless",
+          "updated_at": "2021-11-03T23:01:02.780992",
+          "created_at": "2021-07-15T20:25:05.009483",
+          "slug": "simitless",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

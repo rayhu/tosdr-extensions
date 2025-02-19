@@ -1,0 +1,102 @@
+[
+  {
+    "url": "nvidia.com",
+    "data": {
+      "services": [
+        {
+          "id": 705,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nvidia.com",
+            "nvidia.de",
+            "geforce.com",
+            "nvidia.cn"
+          ],
+          "name": "Nvidia",
+          "updated_at": "2023-07-10T22:01:01.151224",
+          "created_at": "2018-09-10T19:32:35.934721",
+          "slug": "nvidia",
+          "rating": "D"
+        },
+        {
+          "id": 4711,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "nvidia.com"
+          ],
+          "name": "GeForce NOW",
+          "updated_at": "2024-03-07T11:02:21.896712",
+          "created_at": "2021-07-13T21:12:46.470136",
+          "slug": "geforce-now",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "nvidia.de",
+    "data": {
+      "services": [
+        {
+          "id": 705,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nvidia.com",
+            "nvidia.de",
+            "geforce.com",
+            "nvidia.cn"
+          ],
+          "name": "Nvidia",
+          "updated_at": "2023-07-10T22:01:01.151224",
+          "created_at": "2018-09-10T19:32:35.934721",
+          "slug": "nvidia",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "geforce.com",
+    "data": {
+      "services": [
+        {
+          "id": 705,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nvidia.com",
+            "nvidia.de",
+            "geforce.com",
+            "nvidia.cn"
+          ],
+          "name": "Nvidia",
+          "updated_at": "2023-07-10T22:01:01.151224",
+          "created_at": "2018-09-10T19:32:35.934721",
+          "slug": "nvidia",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "nvidia.cn",
+    "data": {
+      "services": [
+        {
+          "id": 705,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nvidia.com",
+            "nvidia.de",
+            "geforce.com",
+            "nvidia.cn"
+          ],
+          "name": "Nvidia",
+          "updated_at": "2023-07-10T22:01:01.151224",
+          "created_at": "2018-09-10T19:32:35.934721",
+          "slug": "nvidia",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

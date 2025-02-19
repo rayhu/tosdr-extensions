@@ -1,0 +1,21 @@
+[
+  {
+    "url": "scratch.mit.edu",
+    "data": {
+      "services": [
+        {
+          "id": 836,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "scratch.mit.edu"
+          ],
+          "name": "Scratch",
+          "updated_at": "2023-07-10T22:01:05.141629",
+          "created_at": "2018-11-22T23:19:18.699785",
+          "slug": "scratch",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

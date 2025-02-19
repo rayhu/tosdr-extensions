@@ -1,0 +1,23 @@
+[
+  {
+    "url": "fsf.org",
+    "data": {
+      "services": [
+        {
+          "id": 2911,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fsf.org",
+            "libreplanet.org",
+            "gnu.org"
+          ],
+          "name": "Free Software Foundation",
+          "updated_at": "2024-07-19T00:37:49.786171",
+          "created_at": "2021-03-31T11:30:13.813405",
+          "slug": "free_software_foundation",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

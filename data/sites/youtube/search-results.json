@@ -1,0 +1,33 @@
+[
+  {
+    "url": "youtube.com",
+    "data": {
+      "services": [
+        {
+          "id": 274,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "youtube.com"
+          ],
+          "name": "YouTube",
+          "updated_at": "2023-07-10T22:01:29.270244",
+          "created_at": "2018-01-16T15:26:07.265487",
+          "slug": "youtube",
+          "rating": "E"
+        },
+        {
+          "id": 8229,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "nsfwyoutube.com"
+          ],
+          "name": "NSFW Youtube",
+          "updated_at": "2023-05-06T10:02:00.215593",
+          "created_at": "2023-05-06T02:20:47.879940",
+          "slug": "nsfw-youtube",
+          "rating": "N/A"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "global.id",
+    "data": {
+      "services": [
+        {
+          "id": 3259,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "global.id"
+          ],
+          "name": "GlobaliD",
+          "updated_at": "2023-07-10T22:01:14.454945",
+          "created_at": "2021-04-23T19:48:09.816218",
+          "slug": "globalid",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

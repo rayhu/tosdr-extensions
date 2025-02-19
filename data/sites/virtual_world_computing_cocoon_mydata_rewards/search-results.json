@@ -1,0 +1,42 @@
+[
+  {
+    "url": "trycocoon.com",
+    "data": {
+      "services": [
+        {
+          "id": 2039,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "trycocoon.com",
+            "vworldc.com"
+          ],
+          "name": "Virtual World Computing Cocoon MyData Rewards",
+          "updated_at": "2023-07-10T22:02:49.255953",
+          "created_at": "2019-12-12T08:10:43.272326",
+          "slug": "virtual_world_computing_cocoon_mydata_rewards",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "vworldc.com",
+    "data": {
+      "services": [
+        {
+          "id": 2039,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "trycocoon.com",
+            "vworldc.com"
+          ],
+          "name": "Virtual World Computing Cocoon MyData Rewards",
+          "updated_at": "2023-07-10T22:02:49.255953",
+          "created_at": "2019-12-12T08:10:43.272326",
+          "slug": "virtual_world_computing_cocoon_mydata_rewards",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

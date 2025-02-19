@@ -1,0 +1,134 @@
+[
+  {
+    "url": "fandom.com",
+    "data": {
+      "services": [
+        {
+          "id": 2256,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandom.com",
+            "fandom.co.uk",
+            "wikia.com",
+            "gamepedia.com",
+            "dndbeyond.com",
+            "muthead.com",
+            "futhead.com",
+            "playbook.gg",
+            "strawpoll.me"
+          ],
+          "name": "Fandom",
+          "updated_at": "2023-07-10T22:00:27.834317",
+          "created_at": "2020-05-25T17:16:51.261789",
+          "slug": "fandom",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "fandom.co.uk",
+    "data": {
+      "services": [
+        {
+          "id": 2256,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandom.com",
+            "fandom.co.uk",
+            "wikia.com",
+            "gamepedia.com",
+            "dndbeyond.com",
+            "muthead.com",
+            "futhead.com",
+            "playbook.gg",
+            "strawpoll.me"
+          ],
+          "name": "Fandom",
+          "updated_at": "2023-07-10T22:00:27.834317",
+          "created_at": "2020-05-25T17:16:51.261789",
+          "slug": "fandom",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "wikia.com",
+    "data": {
+      "services": [
+        {
+          "id": 2256,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandom.com",
+            "fandom.co.uk",
+            "wikia.com",
+            "gamepedia.com",
+            "dndbeyond.com",
+            "muthead.com",
+            "futhead.com",
+            "playbook.gg",
+            "strawpoll.me"
+          ],
+          "name": "Fandom",
+          "updated_at": "2023-07-10T22:00:27.834317",
+          "created_at": "2020-05-25T17:16:51.261789",
+          "slug": "fandom",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "gamepedia.com",
+    "data": {
+      "services": [
+        {
+          "id": 2256,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "fandom.com",
+            "fandom.co.uk",
+            "wikia.com",
+            "gamepedia.com",
+            "dndbeyond.com",
+            "muthead.com",
+            "futhead.com",
+            "playbook.gg",
+            "strawpoll.me"
+          ],
+          "name": "Fandom",
+          "updated_at": "2023-07-10T22:00:27.834317",
+          "created_at": "2020-05-25T17:16:51.261789",
+          "slug": "fandom",
+          "rating": "E"
+        },
+        {
+          "id": 1550,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "gamepedia.com"
+          ],
+          "name": "Gamepedia",
+          "updated_at": "2023-07-10T22:01:11.556991",
+          "created_at": "2019-05-12T23:35:19.361601",
+          "slug": "gamepedia",
+          "rating": "D"
+        },
+        {
+          "id": 1551,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "https://calamitymod.gamepedia.com/Calamity_Mod_Wiki"
+          ],
+          "name": "Calamity Mod Wiki",
+          "updated_at": "2021-03-25T03:19:46.581932",
+          "created_at": "2019-05-12T23:40:10.148979",
+          "slug": "calamity_mod_wiki",
+          "rating": "N/A"
+        }
+      ]
+    }
+  }
+]

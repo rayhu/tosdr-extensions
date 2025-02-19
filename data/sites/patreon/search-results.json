@@ -1,0 +1,42 @@
+[
+  {
+    "url": "patreon.com",
+    "data": {
+      "services": [
+        {
+          "id": 1010,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "patreon.com",
+            "patreonusercontent.com"
+          ],
+          "name": "Patreon",
+          "updated_at": "2023-06-05T22:01:14.587339",
+          "created_at": "2019-01-01T05:11:22.506098",
+          "slug": "patreon",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "patreonusercontent.com",
+    "data": {
+      "services": [
+        {
+          "id": 1010,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "patreon.com",
+            "patreonusercontent.com"
+          ],
+          "name": "Patreon",
+          "updated_at": "2023-06-05T22:01:14.587339",
+          "created_at": "2019-01-01T05:11:22.506098",
+          "slug": "patreon",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

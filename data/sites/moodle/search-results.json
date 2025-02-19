@@ -1,0 +1,21 @@
+[
+  {
+    "url": "moodle.com",
+    "data": {
+      "services": [
+        {
+          "id": 5516,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "moodle.com"
+          ],
+          "name": "Moodle",
+          "updated_at": "2022-12-03T17:10:09.088182",
+          "created_at": "2021-11-05T02:35:46.037819",
+          "slug": "moodle",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

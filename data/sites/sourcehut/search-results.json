@@ -1,0 +1,22 @@
+[
+  {
+    "url": "sourcehut.org",
+    "data": {
+      "services": [
+        {
+          "id": 1607,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "sourcehut.org",
+            "sr.ht"
+          ],
+          "name": "SourceHut",
+          "updated_at": "2021-06-26T22:00:32.130408",
+          "created_at": "2019-06-01T17:44:11.260625",
+          "slug": "sourcehut",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

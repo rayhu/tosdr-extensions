@@ -1,0 +1,21 @@
+[
+  {
+    "url": "yuka.io",
+    "data": {
+      "services": [
+        {
+          "id": 3614,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yuka.io"
+          ],
+          "name": "Yuka",
+          "updated_at": "2023-07-10T22:01:46.103197",
+          "created_at": "2021-05-14T11:21:19.204394",
+          "slug": "yuka",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

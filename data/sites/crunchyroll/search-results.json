@@ -1,0 +1,42 @@
+[
+  {
+    "url": "crunchyroll.com",
+    "data": {
+      "services": [
+        {
+          "id": 846,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "crunchyroll.com",
+            "crunchyrollexpo.com"
+          ],
+          "name": "Crunchyroll",
+          "updated_at": "2023-07-10T22:01:04.802108",
+          "created_at": "2018-12-01T13:47:34.761632",
+          "slug": "crunchyroll",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "crunchyrollexpo.com",
+    "data": {
+      "services": [
+        {
+          "id": 846,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "crunchyroll.com",
+            "crunchyrollexpo.com"
+          ],
+          "name": "Crunchyroll",
+          "updated_at": "2023-07-10T22:01:04.802108",
+          "created_at": "2018-12-01T13:47:34.761632",
+          "slug": "crunchyroll",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "url": "waterfox.net",
+    "data": {
+      "services": [
+        {
+          "id": 3802,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "waterfox.net",
+            "waterfoxproject.org"
+          ],
+          "name": "Waterfox",
+          "updated_at": "2021-06-25T22:00:47.103820",
+          "created_at": "2021-05-28T19:08:17.361703",
+          "slug": "waterfox",
+          "rating": "A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "waterfoxproject.org",
+    "data": {
+      "services": [
+        {
+          "id": 3802,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "waterfox.net",
+            "waterfoxproject.org"
+          ],
+          "name": "Waterfox",
+          "updated_at": "2021-06-25T22:00:47.103820",
+          "created_at": "2021-05-28T19:08:17.361703",
+          "slug": "waterfox",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

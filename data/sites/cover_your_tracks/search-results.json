@@ -1,0 +1,22 @@
+[
+  {
+    "url": "panopticlick.eff.org",
+    "data": {
+      "services": [
+        {
+          "id": 1488,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "panopticlick.eff.org",
+            "coveryourtracks.eff.org"
+          ],
+          "name": "Cover your Tracks",
+          "updated_at": "2023-03-30T19:16:29.614137",
+          "created_at": "2019-04-10T19:40:24.014543",
+          "slug": "panopticlick",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

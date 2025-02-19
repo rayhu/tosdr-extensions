@@ -1,0 +1,21 @@
+[
+  {
+    "url": "adventurerscodex.com",
+    "data": {
+      "services": [
+        {
+          "id": 2205,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adventurerscodex.com"
+          ],
+          "name": "Adventurer's Codex",
+          "updated_at": "2023-07-10T22:01:20.820457",
+          "created_at": "2020-04-04T16:15:46.177573",
+          "slug": "adventurers_codex",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "nulled.to",
+    "data": {
+      "services": [
+        {
+          "id": 3684,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "nulled.to"
+          ],
+          "name": "Nulled",
+          "updated_at": "2023-07-10T22:01:49.261930",
+          "created_at": "2021-05-18T20:28:25.783363",
+          "slug": "nulled",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

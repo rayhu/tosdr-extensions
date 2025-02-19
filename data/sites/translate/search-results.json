@@ -1,0 +1,33 @@
+[
+  {
+    "url": "translate.com",
+    "data": {
+      "services": [
+        {
+          "id": 4769,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "translate.com"
+          ],
+          "name": "Translate",
+          "updated_at": "2023-07-10T22:02:07.735002",
+          "created_at": "2021-07-15T19:36:45.536902",
+          "slug": "translate",
+          "rating": "D"
+        },
+        {
+          "id": 9212,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "lyricstranslate.com"
+          ],
+          "name": "Lyricstranslate",
+          "updated_at": "2023-07-15T10:02:17.076582",
+          "created_at": "2023-07-15T00:36:17.655155",
+          "slug": "lyricstranslate",
+          "rating": "N/A"
+        }
+      ]
+    }
+  }
+]

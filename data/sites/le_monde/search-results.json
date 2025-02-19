@@ -1,0 +1,21 @@
+[
+  {
+    "url": "lemonde.fr",
+    "data": {
+      "services": [
+        {
+          "id": 2542,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "lemonde.fr"
+          ],
+          "name": "Le Monde",
+          "updated_at": "2023-07-10T22:01:37.582292",
+          "created_at": "2021-01-16T16:01:28.985144",
+          "slug": "le_monde",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

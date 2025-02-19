@@ -1,0 +1,169 @@
+[
+  {
+    "url": "adobe.com",
+    "data": {
+      "services": [
+        {
+          "id": 417,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adobe.com",
+            "photoshop.com",
+            "omniture.com",
+            "omtrdc.net",
+            "auditude.com",
+            "marketo.com",
+            "marketo.net",
+            "mktoedge.com",
+            "mktossl.com",
+            "mktorest.com",
+            "macromedia.com",
+            "adobetag.com",
+            "behance.net"
+          ],
+          "name": "Adobe Services",
+          "updated_at": "2024-08-25T00:36:10.351055",
+          "created_at": "2018-05-08T12:19:44.482966",
+          "slug": "adobe",
+          "rating": "E"
+        },
+        {
+          "id": 1033,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "www.adobe.com"
+          ],
+          "name": "Adobe services",
+          "updated_at": "2021-03-25T03:19:42.969485",
+          "created_at": "2019-01-02T18:24:00.244079",
+          "slug": "adobe_services",
+          "rating": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "photoshop.com",
+    "data": {
+      "services": [
+        {
+          "id": 417,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adobe.com",
+            "photoshop.com",
+            "omniture.com",
+            "omtrdc.net",
+            "auditude.com",
+            "marketo.com",
+            "marketo.net",
+            "mktoedge.com",
+            "mktossl.com",
+            "mktorest.com",
+            "macromedia.com",
+            "adobetag.com",
+            "behance.net"
+          ],
+          "name": "Adobe Services",
+          "updated_at": "2024-08-25T00:36:10.351055",
+          "created_at": "2018-05-08T12:19:44.482966",
+          "slug": "adobe",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "omniture.com",
+    "data": {
+      "services": [
+        {
+          "id": 417,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adobe.com",
+            "photoshop.com",
+            "omniture.com",
+            "omtrdc.net",
+            "auditude.com",
+            "marketo.com",
+            "marketo.net",
+            "mktoedge.com",
+            "mktossl.com",
+            "mktorest.com",
+            "macromedia.com",
+            "adobetag.com",
+            "behance.net"
+          ],
+          "name": "Adobe Services",
+          "updated_at": "2024-08-25T00:36:10.351055",
+          "created_at": "2018-05-08T12:19:44.482966",
+          "slug": "adobe",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "omtrdc.net",
+    "data": {
+      "services": [
+        {
+          "id": 417,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adobe.com",
+            "photoshop.com",
+            "omniture.com",
+            "omtrdc.net",
+            "auditude.com",
+            "marketo.com",
+            "marketo.net",
+            "mktoedge.com",
+            "mktossl.com",
+            "mktorest.com",
+            "macromedia.com",
+            "adobetag.com",
+            "behance.net"
+          ],
+          "name": "Adobe Services",
+          "updated_at": "2024-08-25T00:36:10.351055",
+          "created_at": "2018-05-08T12:19:44.482966",
+          "slug": "adobe",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "behance.net",
+    "data": {
+      "services": [
+        {
+          "id": 417,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "adobe.com",
+            "photoshop.com",
+            "omniture.com",
+            "omtrdc.net",
+            "auditude.com",
+            "marketo.com",
+            "marketo.net",
+            "mktoedge.com",
+            "mktossl.com",
+            "mktorest.com",
+            "macromedia.com",
+            "adobetag.com",
+            "behance.net"
+          ],
+          "name": "Adobe Services",
+          "updated_at": "2024-08-25T00:36:10.351055",
+          "created_at": "2018-05-08T12:19:44.482966",
+          "slug": "adobe",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

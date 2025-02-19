@@ -1,0 +1,33 @@
+[
+  {
+    "url": "edit.tosdr.org",
+    "data": {
+      "services": [
+        {
+          "id": 969,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "edit.tosdr.org"
+          ],
+          "name": "ToS;DR Phoenix",
+          "updated_at": "2021-05-14T14:37:48.921336",
+          "created_at": "2018-12-21T00:57:18.464734",
+          "slug": "tosdr_phoenix",
+          "rating": "A"
+        },
+        {
+          "id": 879,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "see.fandango"
+          ],
+          "name": "Rotten Tomatoes -> see Fandango https://edit.tosdr.org/services/2315",
+          "updated_at": "2021-03-25T03:19:40.315138",
+          "created_at": "2018-12-19T04:59:34.995893",
+          "slug": "rotten_tomatoes_see_fandango_httpsedittosdrorgservices2315",
+          "rating": "N/A"
+        }
+      ]
+    }
+  }
+]

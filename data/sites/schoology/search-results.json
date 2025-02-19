@@ -1,0 +1,21 @@
+[
+  {
+    "url": "schoology.com",
+    "data": {
+      "services": [
+        {
+          "id": 2618,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "schoology.com"
+          ],
+          "name": "Schoology",
+          "updated_at": "2023-07-10T22:01:34.593230",
+          "created_at": "2021-01-21T10:57:00.521571",
+          "slug": "schoology",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

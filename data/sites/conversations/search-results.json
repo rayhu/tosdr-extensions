@@ -1,0 +1,21 @@
+[
+  {
+    "url": "conversations.im",
+    "data": {
+      "services": [
+        {
+          "id": 3422,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "conversations.im"
+          ],
+          "name": "Conversations",
+          "updated_at": "2021-05-03T00:02:09.540590",
+          "created_at": "2021-05-02T16:46:58.739994",
+          "slug": "conversations",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

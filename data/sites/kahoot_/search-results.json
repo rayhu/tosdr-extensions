@@ -1,0 +1,42 @@
+[
+  {
+    "url": "kahoot.com",
+    "data": {
+      "services": [
+        {
+          "id": 534,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "kahoot.com",
+            "kahoot.it"
+          ],
+          "name": "Kahoot!",
+          "updated_at": "2023-06-05T22:01:03.777361",
+          "created_at": "2018-06-19T09:07:22.749756",
+          "slug": "kahoot",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "kahoot.it",
+    "data": {
+      "services": [
+        {
+          "id": 534,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "kahoot.com",
+            "kahoot.it"
+          ],
+          "name": "Kahoot!",
+          "updated_at": "2023-06-05T22:01:03.777361",
+          "created_at": "2018-06-19T09:07:22.749756",
+          "slug": "kahoot",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

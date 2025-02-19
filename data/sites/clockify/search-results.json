@@ -1,0 +1,21 @@
+[
+  {
+    "url": "clockify.me",
+    "data": {
+      "services": [
+        {
+          "id": 831,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "clockify.me"
+          ],
+          "name": "Clockify",
+          "updated_at": "2023-07-10T22:01:01.290269",
+          "created_at": "2018-11-19T19:30:23.246714",
+          "slug": "clockify",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

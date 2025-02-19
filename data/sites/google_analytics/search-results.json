@@ -1,0 +1,65 @@
+[
+  {
+    "url": "google-analytics.com",
+    "data": {
+      "services": [
+        {
+          "id": 3536,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "google-analytics.com",
+            "analytics.withgoogle.com",
+            "marketingplatform.google.com"
+          ],
+          "name": "Google Analytics",
+          "updated_at": "2023-07-10T22:01:45.801544",
+          "created_at": "2021-05-07T19:11:56.494770",
+          "slug": "google_analytics",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "analytics.withgoogle.com",
+    "data": {
+      "services": [
+        {
+          "id": 3536,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "google-analytics.com",
+            "analytics.withgoogle.com",
+            "marketingplatform.google.com"
+          ],
+          "name": "Google Analytics",
+          "updated_at": "2023-07-10T22:01:45.801544",
+          "created_at": "2021-05-07T19:11:56.494770",
+          "slug": "google_analytics",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "marketingplatform.google.com",
+    "data": {
+      "services": [
+        {
+          "id": 3536,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "google-analytics.com",
+            "analytics.withgoogle.com",
+            "marketingplatform.google.com"
+          ],
+          "name": "Google Analytics",
+          "updated_at": "2023-07-10T22:01:45.801544",
+          "created_at": "2021-05-07T19:11:56.494770",
+          "slug": "google_analytics",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

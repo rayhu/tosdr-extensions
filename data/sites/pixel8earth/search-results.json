@@ -1,0 +1,21 @@
+[
+  {
+    "url": "pixel8.earth",
+    "data": {
+      "services": [
+        {
+          "id": 2412,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "pixel8.earth"
+          ],
+          "name": "Pixel8Earth",
+          "updated_at": "2023-07-10T22:01:26.683191",
+          "created_at": "2020-11-20T06:05:48.921989",
+          "slug": "pixel8earth",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "url": "vinylhub.com",
+    "data": {
+      "services": [
+        {
+          "id": 603,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discogs.com",
+            "comicogs.com",
+            "filmo.gs",
+            "gearogs.com",
+            "vinylhub.com",
+            "bookogs.com",
+            "posterogs.com"
+          ],
+          "name": "Discogs",
+          "updated_at": "2023-07-10T22:01:02.208596",
+          "created_at": "2018-07-16T08:33:15.286172",
+          "slug": "discogs",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "bookogs.com",
+    "data": {
+      "services": [
+        {
+          "id": 603,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discogs.com",
+            "comicogs.com",
+            "filmo.gs",
+            "gearogs.com",
+            "vinylhub.com",
+            "bookogs.com",
+            "posterogs.com"
+          ],
+          "name": "Discogs",
+          "updated_at": "2023-07-10T22:01:02.208596",
+          "created_at": "2018-07-16T08:33:15.286172",
+          "slug": "discogs",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "posterogs.com",
+    "data": {
+      "services": [
+        {
+          "id": 603,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "discogs.com",
+            "comicogs.com",
+            "filmo.gs",
+            "gearogs.com",
+            "vinylhub.com",
+            "bookogs.com",
+            "posterogs.com"
+          ],
+          "name": "Discogs",
+          "updated_at": "2023-07-10T22:01:02.208596",
+          "created_at": "2018-07-16T08:33:15.286172",
+          "slug": "discogs",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

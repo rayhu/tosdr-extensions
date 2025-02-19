@@ -1,0 +1,21 @@
+[
+  {
+    "url": "rumble.com",
+    "data": {
+      "services": [
+        {
+          "id": 2645,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "rumble.com"
+          ],
+          "name": "Rumble",
+          "updated_at": "2023-07-10T22:01:37.232617",
+          "created_at": "2021-01-23T11:37:14.998333",
+          "slug": "rumble",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

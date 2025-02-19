@@ -1,0 +1,65 @@
+[
+  {
+    "url": "avast.com",
+    "data": {
+      "services": [
+        {
+          "id": 2141,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "avast.com",
+            "avcdn.net",
+            "avastbrowser.com"
+          ],
+          "name": "Avast",
+          "updated_at": "2024-06-28T21:15:24.609517",
+          "created_at": "2020-01-30T15:04:00.928839",
+          "slug": "avast",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "avcdn.net",
+    "data": {
+      "services": [
+        {
+          "id": 2141,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "avast.com",
+            "avcdn.net",
+            "avastbrowser.com"
+          ],
+          "name": "Avast",
+          "updated_at": "2024-06-28T21:15:24.609517",
+          "created_at": "2020-01-30T15:04:00.928839",
+          "slug": "avast",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "avastbrowser.com",
+    "data": {
+      "services": [
+        {
+          "id": 2141,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "avast.com",
+            "avcdn.net",
+            "avastbrowser.com"
+          ],
+          "name": "Avast",
+          "updated_at": "2024-06-28T21:15:24.609517",
+          "created_at": "2020-01-30T15:04:00.928839",
+          "slug": "avast",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "url": "mega.nz",
+    "data": {
+      "services": [
+        {
+          "id": 306,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mega.nz",
+            "mega.io",
+            "g.api.mega.co.nz",
+            "mega.co.nz"
+          ],
+          "name": "Mega",
+          "updated_at": "2023-07-10T22:00:23.870959",
+          "created_at": "2018-01-16T15:26:07.925050",
+          "slug": "mega",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "mega.io",
+    "data": {
+      "services": [
+        {
+          "id": 306,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mega.nz",
+            "mega.io",
+            "g.api.mega.co.nz",
+            "mega.co.nz"
+          ],
+          "name": "Mega",
+          "updated_at": "2023-07-10T22:00:23.870959",
+          "created_at": "2018-01-16T15:26:07.925050",
+          "slug": "mega",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "g.api.mega.co.nz",
+    "data": {
+      "services": [
+        {
+          "id": 306,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mega.nz",
+            "mega.io",
+            "g.api.mega.co.nz",
+            "mega.co.nz"
+          ],
+          "name": "Mega",
+          "updated_at": "2023-07-10T22:00:23.870959",
+          "created_at": "2018-01-16T15:26:07.925050",
+          "slug": "mega",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "mega.co.nz",
+    "data": {
+      "services": [
+        {
+          "id": 306,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mega.nz",
+            "mega.io",
+            "g.api.mega.co.nz",
+            "mega.co.nz"
+          ],
+          "name": "Mega",
+          "updated_at": "2023-07-10T22:00:23.870959",
+          "created_at": "2018-01-16T15:26:07.925050",
+          "slug": "mega",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

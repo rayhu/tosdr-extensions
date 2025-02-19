@@ -1,0 +1,21 @@
+[
+  {
+    "url": "gapcreekmedia.com",
+    "data": {
+      "services": [
+        {
+          "id": 6429,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "gapcreekmedia.com"
+          ],
+          "name": "Gap Creek Media",
+          "updated_at": "2022-09-22T22:10:10.105853",
+          "created_at": "2022-03-20T12:03:07.241189",
+          "slug": "gap-creek-media",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

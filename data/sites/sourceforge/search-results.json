@@ -1,0 +1,21 @@
+[
+  {
+    "url": "sourceforge.net",
+    "data": {
+      "services": [
+        {
+          "id": 356,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "sourceforge.net"
+          ],
+          "name": "SourceForge",
+          "updated_at": "2023-09-19T22:00:27.622421",
+          "created_at": "2018-05-08T12:19:43.188038",
+          "slug": "sourceforge",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

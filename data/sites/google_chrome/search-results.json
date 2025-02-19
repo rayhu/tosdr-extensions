@@ -1,0 +1,21 @@
+[
+  {
+    "url": "google.com/chrome",
+    "data": {
+      "services": [
+        {
+          "id": 2844,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "google.com/chrome"
+          ],
+          "name": "Google Chrome",
+          "updated_at": "2023-07-10T22:01:46.401985",
+          "created_at": "2021-03-18T19:57:27.075351",
+          "slug": "chrome_browser",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

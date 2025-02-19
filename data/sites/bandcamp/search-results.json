@@ -1,0 +1,21 @@
+[
+  {
+    "url": "bandcamp.com",
+    "data": {
+      "services": [
+        {
+          "id": 609,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "bandcamp.com"
+          ],
+          "name": "Bandcamp",
+          "updated_at": "2023-07-10T22:01:00.481741",
+          "created_at": "2018-07-16T09:16:12.537927",
+          "slug": "bandcamp",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

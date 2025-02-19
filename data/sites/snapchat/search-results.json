@@ -1,0 +1,210 @@
+[
+  {
+    "url": "snapchat.com",
+    "data": {
+      "services": [
+        {
+          "id": 311,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "snapchat.com",
+            "sc-cdn.net",
+            "sc-corp.net",
+            "sc-gw.com",
+            "sc-jpl.com",
+            "sc-prod.net",
+            "sc-static.net",
+            "snapads.com",
+            "snap-dev.net",
+            "snapkit.com"
+          ],
+          "name": "Snapchat",
+          "updated_at": "2023-07-10T22:02:56.684383",
+          "created_at": "2018-01-16T15:26:08.019500",
+          "slug": "snapchat",
+          "rating": "E"
+        },
+        {
+          "id": 4317,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "snapcamera.snapchat.com"
+          ],
+          "name": "Snap Camera",
+          "updated_at": "2021-07-01T22:00:44.692723",
+          "created_at": "2021-07-01T22:05:47.498611",
+          "slug": "snap-camera",
+          "rating": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "sc-cdn.net",
+    "data": {
+      "services": [
+        {
+          "id": 311,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "snapchat.com",
+            "sc-cdn.net",
+            "sc-corp.net",
+            "sc-gw.com",
+            "sc-jpl.com",
+            "sc-prod.net",
+            "sc-static.net",
+            "snapads.com",
+            "snap-dev.net",
+            "snapkit.com"
+          ],
+          "name": "Snapchat",
+          "updated_at": "2023-07-10T22:02:56.684383",
+          "created_at": "2018-01-16T15:26:08.019500",
+          "slug": "snapchat",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "sc-prod.net",
+    "data": {
+      "services": [
+        {
+          "id": 311,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "snapchat.com",
+            "sc-cdn.net",
+            "sc-corp.net",
+            "sc-gw.com",
+            "sc-jpl.com",
+            "sc-prod.net",
+            "sc-static.net",
+            "snapads.com",
+            "snap-dev.net",
+            "snapkit.com"
+          ],
+          "name": "Snapchat",
+          "updated_at": "2023-07-10T22:02:56.684383",
+          "created_at": "2018-01-16T15:26:08.019500",
+          "slug": "snapchat",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "sc-static.net",
+    "data": {
+      "services": [
+        {
+          "id": 311,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "snapchat.com",
+            "sc-cdn.net",
+            "sc-corp.net",
+            "sc-gw.com",
+            "sc-jpl.com",
+            "sc-prod.net",
+            "sc-static.net",
+            "snapads.com",
+            "snap-dev.net",
+            "snapkit.com"
+          ],
+          "name": "Snapchat",
+          "updated_at": "2023-07-10T22:02:56.684383",
+          "created_at": "2018-01-16T15:26:08.019500",
+          "slug": "snapchat",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "snapads.com",
+    "data": {
+      "services": [
+        {
+          "id": 311,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "snapchat.com",
+            "sc-cdn.net",
+            "sc-corp.net",
+            "sc-gw.com",
+            "sc-jpl.com",
+            "sc-prod.net",
+            "sc-static.net",
+            "snapads.com",
+            "snap-dev.net",
+            "snapkit.com"
+          ],
+          "name": "Snapchat",
+          "updated_at": "2023-07-10T22:02:56.684383",
+          "created_at": "2018-01-16T15:26:08.019500",
+          "slug": "snapchat",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "snap-dev.net",
+    "data": {
+      "services": [
+        {
+          "id": 311,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "snapchat.com",
+            "sc-cdn.net",
+            "sc-corp.net",
+            "sc-gw.com",
+            "sc-jpl.com",
+            "sc-prod.net",
+            "sc-static.net",
+            "snapads.com",
+            "snap-dev.net",
+            "snapkit.com"
+          ],
+          "name": "Snapchat",
+          "updated_at": "2023-07-10T22:02:56.684383",
+          "created_at": "2018-01-16T15:26:08.019500",
+          "slug": "snapchat",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "snapkit.com",
+    "data": {
+      "services": [
+        {
+          "id": 311,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "snapchat.com",
+            "sc-cdn.net",
+            "sc-corp.net",
+            "sc-gw.com",
+            "sc-jpl.com",
+            "sc-prod.net",
+            "sc-static.net",
+            "snapads.com",
+            "snap-dev.net",
+            "snapkit.com"
+          ],
+          "name": "Snapchat",
+          "updated_at": "2023-07-10T22:02:56.684383",
+          "created_at": "2018-01-16T15:26:08.019500",
+          "slug": "snapchat",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

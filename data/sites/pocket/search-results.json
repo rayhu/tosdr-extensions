@@ -1,0 +1,21 @@
+[
+  {
+    "url": "getpocket.com",
+    "data": {
+      "services": [
+        {
+          "id": 384,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "getpocket.com"
+          ],
+          "name": "Pocket",
+          "updated_at": "2023-07-10T22:00:33.295105",
+          "created_at": "2018-05-08T12:19:43.743729",
+          "slug": "pocket",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

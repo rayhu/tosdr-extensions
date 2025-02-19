@@ -1,0 +1,21 @@
+[
+  {
+    "url": "lineageos.org",
+    "data": {
+      "services": [
+        {
+          "id": 7188,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "lineageos.org"
+          ],
+          "name": "LineageOS",
+          "updated_at": "2023-07-10T22:02:32.678181",
+          "created_at": "2022-12-31T22:53:05.108543",
+          "slug": "lineageos",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

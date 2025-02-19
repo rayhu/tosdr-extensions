@@ -1,0 +1,21 @@
+[
+  {
+    "url": "flatmates.com.au",
+    "data": {
+      "services": [
+        {
+          "id": 4617,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "flatmates.com.au"
+          ],
+          "name": "Flatmates",
+          "updated_at": "2023-07-10T22:02:04.861662",
+          "created_at": "2021-07-08T14:17:04.112827",
+          "slug": "flatmates",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

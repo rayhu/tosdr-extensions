@@ -1,0 +1,23 @@
+[
+  {
+    "url": "xfinity.com",
+    "data": {
+      "services": [
+        {
+          "id": 489,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "xfinity.com",
+            "xfinityoncampus.com",
+            "internetessentials.com"
+          ],
+          "name": "Xfinity",
+          "updated_at": "2023-07-10T22:02:06.068644",
+          "created_at": "2018-05-08T12:19:45.675818",
+          "slug": "xfinity",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

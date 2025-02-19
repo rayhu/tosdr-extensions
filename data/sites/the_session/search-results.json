@@ -1,0 +1,21 @@
+[
+  {
+    "url": "thesession.org",
+    "data": {
+      "services": [
+        {
+          "id": 2059,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "thesession.org"
+          ],
+          "name": "The Session",
+          "updated_at": "2021-03-25T03:19:47.174775",
+          "created_at": "2019-12-24T17:50:02.936319",
+          "slug": "the_session",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

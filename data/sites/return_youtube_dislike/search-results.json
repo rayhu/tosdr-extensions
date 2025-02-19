@@ -1,0 +1,42 @@
+[
+  {
+    "url": "returnyoutubedislike.com",
+    "data": {
+      "services": [
+        {
+          "id": 6710,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "returnyoutubedislike.com",
+            "returnyoutubedislikeapi.com"
+          ],
+          "name": "Return YouTube Dislike",
+          "updated_at": "2023-07-10T22:02:33.255380",
+          "created_at": "2022-06-26T23:40:39.289605",
+          "slug": "return-youtube-dislike",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "returnyoutubedislikeapi.com",
+    "data": {
+      "services": [
+        {
+          "id": 6710,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "returnyoutubedislike.com",
+            "returnyoutubedislikeapi.com"
+          ],
+          "name": "Return YouTube Dislike",
+          "updated_at": "2023-07-10T22:02:33.255380",
+          "created_at": "2022-06-26T23:40:39.289605",
+          "slug": "return-youtube-dislike",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "truthsocial.com",
+    "data": {
+      "services": [
+        {
+          "id": 5211,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "truthsocial.com"
+          ],
+          "name": "Truth Social",
+          "updated_at": "2023-06-05T22:02:17.372707",
+          "created_at": "2021-10-21T18:40:59.458893",
+          "slug": "truth-social",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

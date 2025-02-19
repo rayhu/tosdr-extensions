@@ -1,0 +1,21 @@
+[
+  {
+    "url": "movistar.es",
+    "data": {
+      "services": [
+        {
+          "id": 3522,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "movistar.es"
+          ],
+          "name": "Movistar",
+          "updated_at": "2023-07-10T22:00:33.924883",
+          "created_at": "2021-05-07T16:48:17.684890",
+          "slug": "sbnation",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

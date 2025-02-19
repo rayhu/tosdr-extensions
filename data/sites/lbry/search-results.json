@@ -1,0 +1,42 @@
+[
+  {
+    "url": "lbry.com",
+    "data": {
+      "services": [
+        {
+          "id": 2391,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "lbry.com",
+            "lbry.tv"
+          ],
+          "name": "LBRY",
+          "updated_at": "2023-07-10T22:01:28.574280",
+          "created_at": "2020-11-03T20:09:24.673955",
+          "slug": "odysee_lbry",
+          "rating": "D"
+        }
+      ]
+    }
+  },
+  {
+    "url": "lbry.tv",
+    "data": {
+      "services": [
+        {
+          "id": 2391,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "lbry.com",
+            "lbry.tv"
+          ],
+          "name": "LBRY",
+          "updated_at": "2023-07-10T22:01:28.574280",
+          "created_at": "2020-11-03T20:09:24.673955",
+          "slug": "odysee_lbry",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

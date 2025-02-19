@@ -1,0 +1,21 @@
+[
+  {
+    "url": "getsharex.com",
+    "data": {
+      "services": [
+        {
+          "id": 3579,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "getsharex.com"
+          ],
+          "name": "ShareX",
+          "updated_at": "2023-07-10T22:01:43.895579",
+          "created_at": "2021-05-13T00:27:29.539234",
+          "slug": "sharex",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

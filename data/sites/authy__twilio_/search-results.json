@@ -1,0 +1,42 @@
+[
+  {
+    "url": "twilio.com",
+    "data": {
+      "services": [
+        {
+          "id": 2532,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "twilio.com",
+            "authy.com"
+          ],
+          "name": "Authy (Twilio)",
+          "updated_at": "2021-03-27T21:35:36.794310",
+          "created_at": "2021-01-16T11:03:26.335449",
+          "slug": "authy_twilio",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "authy.com",
+    "data": {
+      "services": [
+        {
+          "id": 2532,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "twilio.com",
+            "authy.com"
+          ],
+          "name": "Authy (Twilio)",
+          "updated_at": "2021-03-27T21:35:36.794310",
+          "created_at": "2021-01-16T11:03:26.335449",
+          "slug": "authy_twilio",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

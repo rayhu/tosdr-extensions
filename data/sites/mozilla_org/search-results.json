@@ -1,0 +1,61 @@
+[
+  {
+    "url": "firefox.com",
+    "data": {
+      "services": [
+        {
+          "id": 530,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mozilla.org",
+            "extensionworkshop.com",
+            "firefox.com"
+          ],
+          "name": "Mozilla.org",
+          "updated_at": "2024-01-27T19:09:03.645250",
+          "created_at": "2018-06-12T22:03:48.303997",
+          "slug": "mozillaorg",
+          "rating": "C"
+        },
+        {
+          "id": 4158,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "relay.firefox.com"
+          ],
+          "name": "Firefox Relay",
+          "updated_at": "2023-07-10T22:01:57.487127",
+          "created_at": "2021-06-21T00:41:56.370508",
+          "slug": "firefox-relay",
+          "rating": "C"
+        },
+        {
+          "id": 4157,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "monitor.firefox.com"
+          ],
+          "name": "Firefox Monitor",
+          "updated_at": "2021-06-21T22:00:45.852630",
+          "created_at": "2021-06-21T00:22:39.232705",
+          "slug": "firefox-monitor",
+          "rating": "N/A"
+        },
+        {
+          "id": 188,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "accounts.firefox.com",
+            "lockwise.firefox.com",
+            "screenshots.firefox.com"
+          ],
+          "name": "Firefox Cloud Services",
+          "updated_at": "2021-08-02T09:04:46.092965",
+          "created_at": "2018-01-16T15:26:05.626429",
+          "slug": "firefoxaccounts",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

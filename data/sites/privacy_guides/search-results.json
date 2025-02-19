@@ -1,0 +1,42 @@
+[
+  {
+    "url": "privacyguides.org",
+    "data": {
+      "services": [
+        {
+          "id": 5070,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "privacyguides.org",
+            "privacyguides.net"
+          ],
+          "name": "Privacy Guides",
+          "updated_at": "2022-10-27T21:10:09.993187",
+          "created_at": "2021-10-01T00:28:49.576108",
+          "slug": "privacy-guides",
+          "rating": "A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "privacyguides.net",
+    "data": {
+      "services": [
+        {
+          "id": 5070,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "privacyguides.org",
+            "privacyguides.net"
+          ],
+          "name": "Privacy Guides",
+          "updated_at": "2022-10-27T21:10:09.993187",
+          "created_at": "2021-10-01T00:28:49.576108",
+          "slug": "privacy-guides",
+          "rating": "A"
+        }
+      ]
+    }
+  }
+]

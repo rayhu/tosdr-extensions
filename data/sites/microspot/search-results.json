@@ -1,0 +1,21 @@
+[
+  {
+    "url": "microspot.ch",
+    "data": {
+      "services": [
+        {
+          "id": 2856,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "microspot.ch"
+          ],
+          "name": "Microspot",
+          "updated_at": "2023-07-10T22:01:41.809033",
+          "created_at": "2021-03-24T16:52:21.172986",
+          "slug": "microspot",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "furaffinity.net",
+    "data": {
+      "services": [
+        {
+          "id": 403,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "furaffinity.net"
+          ],
+          "name": "Fur Affinity",
+          "updated_at": "2023-07-10T22:00:48.520639",
+          "created_at": "2018-05-08T12:19:44.174735",
+          "slug": "fur_affinity",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

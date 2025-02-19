@@ -1,0 +1,45 @@
+[
+  {
+    "url": "genius.com",
+    "data": {
+      "services": [
+        {
+          "id": 618,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "genius.com"
+          ],
+          "name": "Genius",
+          "updated_at": "2023-07-10T22:01:50.269554",
+          "created_at": "2018-07-18T11:13:11.588559",
+          "slug": "genius",
+          "rating": "D"
+        },
+        {
+          "id": 7314,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "policygenius.com"
+          ],
+          "name": "Policygenius ",
+          "updated_at": "2023-01-22T17:00:22.032454",
+          "created_at": "2023-01-18T23:10:09.011532",
+          "slug": "policygenius",
+          "rating": "N/A"
+        },
+        {
+          "id": 8985,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "resumegenius.com"
+          ],
+          "name": "Resume Genius",
+          "updated_at": "2023-07-09T22:02:41.266516",
+          "created_at": "2023-07-09T21:46:16.050705",
+          "slug": "resume-genius",
+          "rating": "N/A"
+        }
+      ]
+    }
+  }
+]

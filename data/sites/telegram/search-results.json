@@ -1,0 +1,44 @@
+[
+  {
+    "url": "telegram.org",
+    "data": {
+      "services": [
+        {
+          "id": 1946,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "telegram.org",
+            "telegram.dog",
+            "t.me"
+          ],
+          "name": "Telegram",
+          "updated_at": "2021-07-10T12:33:34.512851",
+          "created_at": "2019-10-28T13:27:25.649600",
+          "slug": "telegram",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "telegram.dog",
+    "data": {
+      "services": [
+        {
+          "id": 1946,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "telegram.org",
+            "telegram.dog",
+            "t.me"
+          ],
+          "name": "Telegram",
+          "updated_at": "2021-07-10T12:33:34.512851",
+          "created_at": "2019-10-28T13:27:25.649600",
+          "slug": "telegram",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "laurakalbag.com",
+    "data": {
+      "services": [
+        {
+          "id": 2140,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "laurakalbag.com"
+          ],
+          "name": "LauraKalbag",
+          "updated_at": "2023-07-10T22:00:31.183461",
+          "created_at": "2020-01-30T14:39:53.059095",
+          "slug": "laurakalbag",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "osmand.net",
+    "data": {
+      "services": [
+        {
+          "id": 635,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "osmand.net"
+          ],
+          "name": "OsmAnd",
+          "updated_at": "2023-07-10T22:00:59.473143",
+          "created_at": "2018-08-01T11:51:21.239827",
+          "slug": "osmand",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

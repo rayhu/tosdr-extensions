@@ -1,0 +1,21 @@
+[
+  {
+    "url": "vk.com",
+    "data": {
+      "services": [
+        {
+          "id": 264,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "vk.com"
+          ],
+          "name": "VKontakte",
+          "updated_at": "2023-07-10T22:00:39.467359",
+          "created_at": "2018-01-16T15:26:07.103598",
+          "slug": "vk",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

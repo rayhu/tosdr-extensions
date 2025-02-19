@@ -1,0 +1,42 @@
+[
+  {
+    "url": "foxnews.com",
+    "data": {
+      "services": [
+        {
+          "id": 317,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "foxnews.com",
+            "foxnewsrundown.com"
+          ],
+          "name": "Fox News",
+          "updated_at": "2023-11-17T19:04:34.479188",
+          "created_at": "2018-01-20T13:56:43.874868",
+          "slug": "fox_news",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "foxnewsrundown.com",
+    "data": {
+      "services": [
+        {
+          "id": 317,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "foxnews.com",
+            "foxnewsrundown.com"
+          ],
+          "name": "Fox News",
+          "updated_at": "2023-11-17T19:04:34.479188",
+          "created_at": "2018-01-20T13:56:43.874868",
+          "slug": "fox_news",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

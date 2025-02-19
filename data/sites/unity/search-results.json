@@ -1,0 +1,99 @@
+[
+  {
+    "url": "unity.com",
+    "data": {
+      "services": [
+        {
+          "id": 2768,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "unity.com",
+            "unity3d.com"
+          ],
+          "name": "Unity",
+          "updated_at": "2023-09-26T08:15:43.291699",
+          "created_at": "2021-02-10T10:48:20.605631",
+          "slug": "unity",
+          "rating": "D"
+        },
+        {
+          "id": 3249,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "community.com"
+          ],
+          "name": "Community",
+          "updated_at": "2021-04-24T00:01:28.609292",
+          "created_at": "2021-04-23T18:52:15.184291",
+          "slug": "community",
+          "rating": "N/A"
+        },
+        {
+          "id": 344,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "fotocommunity.de",
+            "fotocommunity.com",
+            "fotocommunity.net",
+            "fotocommunity.fr",
+            "fotocommunity.es",
+            "fotocommunity.it"
+          ],
+          "name": "Fotocommunity",
+          "updated_at": "2023-07-10T22:01:58.130398",
+          "created_at": "2018-05-08T11:38:33.563826",
+          "slug": "fotocommunity",
+          "rating": "C"
+        },
+        {
+          "id": 180,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "steampowered.com",
+            "steamcommunity.com",
+            "steamdeck.com",
+            "s.team",
+            "steamgames.com"
+          ],
+          "name": "Steam",
+          "updated_at": "2023-08-09T06:44:28.206474",
+          "created_at": "2018-01-16T15:26:05.510613",
+          "slug": "steam",
+          "rating": "D"
+        },
+        {
+          "id": 8259,
+          "is_comprehensively_reviewed": false,
+          "urls": [
+            "zcashcommunity.com"
+          ],
+          "name": "Zcash Community Forum",
+          "updated_at": "2023-05-12T10:01:55.779348",
+          "created_at": "2023-05-12T02:08:12.223229",
+          "slug": "zcash-community-forum",
+          "rating": "N/A"
+        }
+      ]
+    }
+  },
+  {
+    "url": "unity3d.com",
+    "data": {
+      "services": [
+        {
+          "id": 2768,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "unity.com",
+            "unity3d.com"
+          ],
+          "name": "Unity",
+          "updated_at": "2023-09-26T08:15:43.291699",
+          "created_at": "2021-02-10T10:48:20.605631",
+          "slug": "unity",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

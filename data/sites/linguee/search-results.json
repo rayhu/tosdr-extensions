@@ -1,0 +1,392 @@
+[
+  {
+    "url": "linguee.com",
+    "data": {
+      "services": [
+        {
+          "id": 4447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linguee.com",
+            "linguee.com.br",
+            "linguee.es",
+            "linguee.fr",
+            "linguee.de",
+            "linguee.nl",
+            "linguee.it",
+            "linguee.co",
+            "linguee.cl",
+            "linguee.cz",
+            "linguee.dk",
+            "linguee.gr",
+            "linguee.jp",
+            "linguee.mx",
+            "linguee.pe",
+            "linguee.pl",
+            "linguee.pt",
+            "linguee.ru",
+            "linguee.hu",
+            "linguee.com.ar",
+            "linguee.se"
+          ],
+          "name": "Linguee",
+          "updated_at": "2023-07-10T22:02:55.565829",
+          "created_at": "2021-07-03T21:50:27.184760",
+          "slug": "linguee",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "linguee.com.br",
+    "data": {
+      "services": [
+        {
+          "id": 4447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linguee.com",
+            "linguee.com.br",
+            "linguee.es",
+            "linguee.fr",
+            "linguee.de",
+            "linguee.nl",
+            "linguee.it",
+            "linguee.co",
+            "linguee.cl",
+            "linguee.cz",
+            "linguee.dk",
+            "linguee.gr",
+            "linguee.jp",
+            "linguee.mx",
+            "linguee.pe",
+            "linguee.pl",
+            "linguee.pt",
+            "linguee.ru",
+            "linguee.hu",
+            "linguee.com.ar",
+            "linguee.se"
+          ],
+          "name": "Linguee",
+          "updated_at": "2023-07-10T22:02:55.565829",
+          "created_at": "2021-07-03T21:50:27.184760",
+          "slug": "linguee",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "linguee.es",
+    "data": {
+      "services": [
+        {
+          "id": 4447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linguee.com",
+            "linguee.com.br",
+            "linguee.es",
+            "linguee.fr",
+            "linguee.de",
+            "linguee.nl",
+            "linguee.it",
+            "linguee.co",
+            "linguee.cl",
+            "linguee.cz",
+            "linguee.dk",
+            "linguee.gr",
+            "linguee.jp",
+            "linguee.mx",
+            "linguee.pe",
+            "linguee.pl",
+            "linguee.pt",
+            "linguee.ru",
+            "linguee.hu",
+            "linguee.com.ar",
+            "linguee.se"
+          ],
+          "name": "Linguee",
+          "updated_at": "2023-07-10T22:02:55.565829",
+          "created_at": "2021-07-03T21:50:27.184760",
+          "slug": "linguee",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "linguee.fr",
+    "data": {
+      "services": [
+        {
+          "id": 4447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linguee.com",
+            "linguee.com.br",
+            "linguee.es",
+            "linguee.fr",
+            "linguee.de",
+            "linguee.nl",
+            "linguee.it",
+            "linguee.co",
+            "linguee.cl",
+            "linguee.cz",
+            "linguee.dk",
+            "linguee.gr",
+            "linguee.jp",
+            "linguee.mx",
+            "linguee.pe",
+            "linguee.pl",
+            "linguee.pt",
+            "linguee.ru",
+            "linguee.hu",
+            "linguee.com.ar",
+            "linguee.se"
+          ],
+          "name": "Linguee",
+          "updated_at": "2023-07-10T22:02:55.565829",
+          "created_at": "2021-07-03T21:50:27.184760",
+          "slug": "linguee",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "linguee.de",
+    "data": {
+      "services": [
+        {
+          "id": 4447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linguee.com",
+            "linguee.com.br",
+            "linguee.es",
+            "linguee.fr",
+            "linguee.de",
+            "linguee.nl",
+            "linguee.it",
+            "linguee.co",
+            "linguee.cl",
+            "linguee.cz",
+            "linguee.dk",
+            "linguee.gr",
+            "linguee.jp",
+            "linguee.mx",
+            "linguee.pe",
+            "linguee.pl",
+            "linguee.pt",
+            "linguee.ru",
+            "linguee.hu",
+            "linguee.com.ar",
+            "linguee.se"
+          ],
+          "name": "Linguee",
+          "updated_at": "2023-07-10T22:02:55.565829",
+          "created_at": "2021-07-03T21:50:27.184760",
+          "slug": "linguee",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "linguee.pl",
+    "data": {
+      "services": [
+        {
+          "id": 4447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linguee.com",
+            "linguee.com.br",
+            "linguee.es",
+            "linguee.fr",
+            "linguee.de",
+            "linguee.nl",
+            "linguee.it",
+            "linguee.co",
+            "linguee.cl",
+            "linguee.cz",
+            "linguee.dk",
+            "linguee.gr",
+            "linguee.jp",
+            "linguee.mx",
+            "linguee.pe",
+            "linguee.pl",
+            "linguee.pt",
+            "linguee.ru",
+            "linguee.hu",
+            "linguee.com.ar",
+            "linguee.se"
+          ],
+          "name": "Linguee",
+          "updated_at": "2023-07-10T22:02:55.565829",
+          "created_at": "2021-07-03T21:50:27.184760",
+          "slug": "linguee",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "linguee.pt",
+    "data": {
+      "services": [
+        {
+          "id": 4447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linguee.com",
+            "linguee.com.br",
+            "linguee.es",
+            "linguee.fr",
+            "linguee.de",
+            "linguee.nl",
+            "linguee.it",
+            "linguee.co",
+            "linguee.cl",
+            "linguee.cz",
+            "linguee.dk",
+            "linguee.gr",
+            "linguee.jp",
+            "linguee.mx",
+            "linguee.pe",
+            "linguee.pl",
+            "linguee.pt",
+            "linguee.ru",
+            "linguee.hu",
+            "linguee.com.ar",
+            "linguee.se"
+          ],
+          "name": "Linguee",
+          "updated_at": "2023-07-10T22:02:55.565829",
+          "created_at": "2021-07-03T21:50:27.184760",
+          "slug": "linguee",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "linguee.ru",
+    "data": {
+      "services": [
+        {
+          "id": 4447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linguee.com",
+            "linguee.com.br",
+            "linguee.es",
+            "linguee.fr",
+            "linguee.de",
+            "linguee.nl",
+            "linguee.it",
+            "linguee.co",
+            "linguee.cl",
+            "linguee.cz",
+            "linguee.dk",
+            "linguee.gr",
+            "linguee.jp",
+            "linguee.mx",
+            "linguee.pe",
+            "linguee.pl",
+            "linguee.pt",
+            "linguee.ru",
+            "linguee.hu",
+            "linguee.com.ar",
+            "linguee.se"
+          ],
+          "name": "Linguee",
+          "updated_at": "2023-07-10T22:02:55.565829",
+          "created_at": "2021-07-03T21:50:27.184760",
+          "slug": "linguee",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "linguee.hu",
+    "data": {
+      "services": [
+        {
+          "id": 4447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linguee.com",
+            "linguee.com.br",
+            "linguee.es",
+            "linguee.fr",
+            "linguee.de",
+            "linguee.nl",
+            "linguee.it",
+            "linguee.co",
+            "linguee.cl",
+            "linguee.cz",
+            "linguee.dk",
+            "linguee.gr",
+            "linguee.jp",
+            "linguee.mx",
+            "linguee.pe",
+            "linguee.pl",
+            "linguee.pt",
+            "linguee.ru",
+            "linguee.hu",
+            "linguee.com.ar",
+            "linguee.se"
+          ],
+          "name": "Linguee",
+          "updated_at": "2023-07-10T22:02:55.565829",
+          "created_at": "2021-07-03T21:50:27.184760",
+          "slug": "linguee",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "linguee.com.ar",
+    "data": {
+      "services": [
+        {
+          "id": 4447,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linguee.com",
+            "linguee.com.br",
+            "linguee.es",
+            "linguee.fr",
+            "linguee.de",
+            "linguee.nl",
+            "linguee.it",
+            "linguee.co",
+            "linguee.cl",
+            "linguee.cz",
+            "linguee.dk",
+            "linguee.gr",
+            "linguee.jp",
+            "linguee.mx",
+            "linguee.pe",
+            "linguee.pl",
+            "linguee.pt",
+            "linguee.ru",
+            "linguee.hu",
+            "linguee.com.ar",
+            "linguee.se"
+          ],
+          "name": "Linguee",
+          "updated_at": "2023-07-10T22:02:55.565829",
+          "created_at": "2021-07-03T21:50:27.184760",
+          "slug": "linguee",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

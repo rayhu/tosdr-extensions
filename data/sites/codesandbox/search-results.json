@@ -1,0 +1,42 @@
+[
+  {
+    "url": "codesandbox.io",
+    "data": {
+      "services": [
+        {
+          "id": 4813,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "codesandbox.io",
+            "csb.app"
+          ],
+          "name": "CodeSandbox",
+          "updated_at": "2021-08-12T00:44:16.382943",
+          "created_at": "2021-08-10T03:02:39.613456",
+          "slug": "codesandbox",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "csb.app",
+    "data": {
+      "services": [
+        {
+          "id": 4813,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "codesandbox.io",
+            "csb.app"
+          ],
+          "name": "CodeSandbox",
+          "updated_at": "2021-08-12T00:44:16.382943",
+          "created_at": "2021-08-10T03:02:39.613456",
+          "slug": "codesandbox",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

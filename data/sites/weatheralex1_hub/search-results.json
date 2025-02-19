@@ -1,0 +1,21 @@
+[
+  {
+    "url": "weatheralex1.com",
+    "data": {
+      "services": [
+        {
+          "id": 2705,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "weatheralex1.com"
+          ],
+          "name": "Weatheralex1 Hub",
+          "updated_at": "2023-07-10T22:01:44.164873",
+          "created_at": "2021-02-05T00:43:41.807369",
+          "slug": "weatheralex1_hub",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

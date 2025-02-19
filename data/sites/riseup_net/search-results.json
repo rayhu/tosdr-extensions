@@ -1,0 +1,23 @@
+[
+  {
+    "url": "riseup.net",
+    "data": {
+      "services": [
+        {
+          "id": 327,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "riseup.net",
+            "nzh3fv6jc6jskki3.onion",
+            "vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion"
+          ],
+          "name": "RiseUp.net",
+          "updated_at": "2022-12-13T17:44:43.336136",
+          "created_at": "2018-01-24T09:26:59.541151",
+          "slug": "riseupnet",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

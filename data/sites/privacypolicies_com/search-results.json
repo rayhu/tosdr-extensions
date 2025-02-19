@@ -1,0 +1,21 @@
+[
+  {
+    "url": "privacypolicies.com",
+    "data": {
+      "services": [
+        {
+          "id": 5272,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "privacypolicies.com"
+          ],
+          "name": "privacypolicies.com",
+          "updated_at": "2023-07-10T22:02:48.312486",
+          "created_at": "2021-10-26T00:50:24.417843",
+          "slug": "privacypolicies-com",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "url": "paypal.com",
+    "data": {
+      "services": [
+        {
+          "id": 230,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "paypal.com",
+            "paypal-corp.com",
+            "paypal.me",
+            "paypalobjects.com",
+            "paypal-gifts.com",
+            "paypal-communication.com",
+            "epl.paypal-communication.com"
+          ],
+          "name": "PayPal",
+          "updated_at": "2023-07-10T22:00:22.632768",
+          "created_at": "2018-01-16T15:26:06.469533",
+          "slug": "paypal",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "paypal-corp.com",
+    "data": {
+      "services": [
+        {
+          "id": 230,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "paypal.com",
+            "paypal-corp.com",
+            "paypal.me",
+            "paypalobjects.com",
+            "paypal-gifts.com",
+            "paypal-communication.com",
+            "epl.paypal-communication.com"
+          ],
+          "name": "PayPal",
+          "updated_at": "2023-07-10T22:00:22.632768",
+          "created_at": "2018-01-16T15:26:06.469533",
+          "slug": "paypal",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "paypal.me",
+    "data": {
+      "services": [
+        {
+          "id": 230,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "paypal.com",
+            "paypal-corp.com",
+            "paypal.me",
+            "paypalobjects.com",
+            "paypal-gifts.com",
+            "paypal-communication.com",
+            "epl.paypal-communication.com"
+          ],
+          "name": "PayPal",
+          "updated_at": "2023-07-10T22:00:22.632768",
+          "created_at": "2018-01-16T15:26:06.469533",
+          "slug": "paypal",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "paypalobjects.com",
+    "data": {
+      "services": [
+        {
+          "id": 230,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "paypal.com",
+            "paypal-corp.com",
+            "paypal.me",
+            "paypalobjects.com",
+            "paypal-gifts.com",
+            "paypal-communication.com",
+            "epl.paypal-communication.com"
+          ],
+          "name": "PayPal",
+          "updated_at": "2023-07-10T22:00:22.632768",
+          "created_at": "2018-01-16T15:26:06.469533",
+          "slug": "paypal",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "paypal-gifts.com",
+    "data": {
+      "services": [
+        {
+          "id": 230,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "paypal.com",
+            "paypal-corp.com",
+            "paypal.me",
+            "paypalobjects.com",
+            "paypal-gifts.com",
+            "paypal-communication.com",
+            "epl.paypal-communication.com"
+          ],
+          "name": "PayPal",
+          "updated_at": "2023-07-10T22:00:22.632768",
+          "created_at": "2018-01-16T15:26:06.469533",
+          "slug": "paypal",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

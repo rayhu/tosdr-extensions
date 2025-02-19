@@ -1,0 +1,42 @@
+[
+  {
+    "url": "linecorp.com",
+    "data": {
+      "services": [
+        {
+          "id": 2895,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linecorp.com",
+            "line.me"
+          ],
+          "name": "Line Corporation",
+          "updated_at": "2023-07-10T22:00:26.009017",
+          "created_at": "2021-03-29T17:52:03.165625",
+          "slug": "line_corporation",
+          "rating": "E"
+        }
+      ]
+    }
+  },
+  {
+    "url": "line.me",
+    "data": {
+      "services": [
+        {
+          "id": 2895,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "linecorp.com",
+            "line.me"
+          ],
+          "name": "Line Corporation",
+          "updated_at": "2023-07-10T22:00:26.009017",
+          "created_at": "2021-03-29T17:52:03.165625",
+          "slug": "line_corporation",
+          "rating": "E"
+        }
+      ]
+    }
+  }
+]

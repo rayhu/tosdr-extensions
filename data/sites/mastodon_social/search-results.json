@@ -1,0 +1,65 @@
+[
+  {
+    "url": "mastodon.social",
+    "data": {
+      "services": [
+        {
+          "id": 639,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mastodon.social",
+            "joinmastodon.org",
+            "mastodon.online"
+          ],
+          "name": "mastodon.social",
+          "updated_at": "2023-07-10T22:02:35.501271",
+          "created_at": "2018-08-07T13:08:49.660641",
+          "slug": "mastodonsocial",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "joinmastodon.org",
+    "data": {
+      "services": [
+        {
+          "id": 639,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mastodon.social",
+            "joinmastodon.org",
+            "mastodon.online"
+          ],
+          "name": "mastodon.social",
+          "updated_at": "2023-07-10T22:02:35.501271",
+          "created_at": "2018-08-07T13:08:49.660641",
+          "slug": "mastodonsocial",
+          "rating": "C"
+        }
+      ]
+    }
+  },
+  {
+    "url": "mastodon.online",
+    "data": {
+      "services": [
+        {
+          "id": 639,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "mastodon.social",
+            "joinmastodon.org",
+            "mastodon.online"
+          ],
+          "name": "mastodon.social",
+          "updated_at": "2023-07-10T22:02:35.501271",
+          "created_at": "2018-08-07T13:08:49.660641",
+          "slug": "mastodonsocial",
+          "rating": "C"
+        }
+      ]
+    }
+  }
+]

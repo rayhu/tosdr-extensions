@@ -1,0 +1,127 @@
+[
+  {
+    "url": "duckduckgo.com",
+    "data": {
+      "services": [
+        {
+          "id": 222,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "duckduckgo.com",
+            "3g2upl4pq6kufc4m.onion",
+            "spreadprivacy.com",
+            "duckduckhack.com",
+            "donttrack.us",
+            "duck.co",
+            "duck.com"
+          ],
+          "name": "DuckDuckGo",
+          "updated_at": "2024-04-12T22:01:31.311206",
+          "created_at": "2018-01-16T15:26:06.270020",
+          "slug": "duckduckgo",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "3g2upl4pq6kufc4m.onion",
+    "data": {
+      "services": [
+        {
+          "id": 222,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "duckduckgo.com",
+            "3g2upl4pq6kufc4m.onion",
+            "spreadprivacy.com",
+            "duckduckhack.com",
+            "donttrack.us",
+            "duck.co",
+            "duck.com"
+          ],
+          "name": "DuckDuckGo",
+          "updated_at": "2024-04-12T22:01:31.311206",
+          "created_at": "2018-01-16T15:26:06.270020",
+          "slug": "duckduckgo",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "spreadprivacy.com",
+    "data": {
+      "services": [
+        {
+          "id": 222,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "duckduckgo.com",
+            "3g2upl4pq6kufc4m.onion",
+            "spreadprivacy.com",
+            "duckduckhack.com",
+            "donttrack.us",
+            "duck.co",
+            "duck.com"
+          ],
+          "name": "DuckDuckGo",
+          "updated_at": "2024-04-12T22:01:31.311206",
+          "created_at": "2018-01-16T15:26:06.270020",
+          "slug": "duckduckgo",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "duckduckhack.com",
+    "data": {
+      "services": [
+        {
+          "id": 222,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "duckduckgo.com",
+            "3g2upl4pq6kufc4m.onion",
+            "spreadprivacy.com",
+            "duckduckhack.com",
+            "donttrack.us",
+            "duck.co",
+            "duck.com"
+          ],
+          "name": "DuckDuckGo",
+          "updated_at": "2024-04-12T22:01:31.311206",
+          "created_at": "2018-01-16T15:26:06.270020",
+          "slug": "duckduckgo",
+          "rating": "B"
+        }
+      ]
+    }
+  },
+  {
+    "url": "donttrack.us",
+    "data": {
+      "services": [
+        {
+          "id": 222,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "duckduckgo.com",
+            "3g2upl4pq6kufc4m.onion",
+            "spreadprivacy.com",
+            "duckduckhack.com",
+            "donttrack.us",
+            "duck.co",
+            "duck.com"
+          ],
+          "name": "DuckDuckGo",
+          "updated_at": "2024-04-12T22:01:31.311206",
+          "created_at": "2018-01-16T15:26:06.270020",
+          "slug": "duckduckgo",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

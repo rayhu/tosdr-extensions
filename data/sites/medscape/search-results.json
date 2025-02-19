@@ -1,0 +1,21 @@
+[
+  {
+    "url": "medscape.com",
+    "data": {
+      "services": [
+        {
+          "id": 2718,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "medscape.com"
+          ],
+          "name": "Medscape",
+          "updated_at": "2023-07-10T22:00:47.063240",
+          "created_at": "2021-02-05T17:27:01.641418",
+          "slug": "medscape",
+          "rating": "D"
+        }
+      ]
+    }
+  }
+]

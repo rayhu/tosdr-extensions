@@ -1,0 +1,21 @@
+[
+  {
+    "url": "yle.fi",
+    "data": {
+      "services": [
+        {
+          "id": 3580,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "yle.fi"
+          ],
+          "name": "Yleisradio",
+          "updated_at": "2023-04-24T18:40:03.697566",
+          "created_at": "2021-05-13T00:34:04.965097",
+          "slug": "yleisradio",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "url": "hidemyass.com.hmavpn.com",
+    "data": {
+      "services": [
+        {
+          "id": 1581,
+          "is_comprehensively_reviewed": true,
+          "urls": [
+            "hidemyass.com.hmavpn.com"
+          ],
+          "name": "HideMyAss!",
+          "updated_at": "2022-10-13T04:54:41.811622",
+          "created_at": "2019-05-20T06:00:25.881246",
+          "slug": "hidemyass",
+          "rating": "B"
+        }
+      ]
+    }
+  }
+]
