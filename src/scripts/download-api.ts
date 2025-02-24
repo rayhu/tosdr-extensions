@@ -2,16 +2,18 @@ const fs = require('fs');
 const path = require('path');
 const nodeFetch = require('node-fetch');
 
-const API_URL = 'api.tosdr.org';
+const DOMAIN_URL = 'tosdr.org';
+const API_ENDPOINT = `https://api.${DOMAIN_URL}`;
+const WEBSITE_ENDPOINT = `https://${DOMAIN_URL}`;
 const API_KEY = 'Y29uZ3JhdHMgb24gZ2V0dGluZyB0aGUga2V5IDpQ';
 
-// 获取当前脚本的目录路径
+// Get the current script directory path
 const currentDir = process.cwd();
 
-// 检查是否是完整下载模式
+// Check if it's full download mode
 const isFullDownload = process.argv.includes('--all');
 
-// 接口定义
+// Interface definitions
 interface ServiceData {
     id: number;
     name: string;
@@ -59,29 +61,25 @@ interface ServiceDetails {
     }[];
 }
 
-async function downloadFile(url: string, filePath: string) {
+async function downloadFile(url: string, filePath: string, isBinary: boolean = false) {
     try {
         console.log(`Attempting to download: ${url}`);
-        const response = await nodeFetch(url);
-        if (response.ok) {
-            const content = await response.text();
-            // 检查内容是否为空
-            if (!content.trim()) {
-                console.log(`Warning: Empty content from ${url}`);
-                return false;
-            }
-            // 确保目录存在
-            const dir = path.dirname(filePath);
-            if (!fs.existsSync(dir)) {
-                fs.mkdirSync(dir, { recursive: true });
-            }
-            fs.writeFileSync(filePath, content);
-            console.log(`Successfully downloaded: ${url} -> ${filePath}`);
-            return true;
-        } else {
-            console.log(`Failed to download ${url}, status: ${response.status}`);
+        const response = await fetchWithRetry(url);
+        const content = isBinary ? await response.buffer() : await response.text();
+        
+        const dir = path.dirname(filePath);
+        if (!fs.existsSync(dir)) {
+            fs.mkdirSync(dir, { recursive: true });
+        }
+        
+        if (!isBinary && !content.trim()) {
+            console.log(`Warning: Empty content from ${url}`);
             return false;
         }
+        
+        fs.writeFileSync(filePath, content);
+        console.log(`Successfully downloaded: ${url} -> ${filePath}`);
+        return true;
     } catch (error) {
         console.error(`Error downloading ${url}:`, error);
         return false;
@@ -92,16 +90,55 @@ async function sleep(ms: number) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+async function fetchWithRetry(url: string, options: any = {}, retries = 3) {
+    for (let i = 0; i < retries; i++) {
+        try {
+            const response = await nodeFetch(url, options);
+            if (response.ok) {
+                return response;
+            }
+            console.log(`Attempt ${i + 1} failed for ${url}, status: ${response.status}`);
+        } catch (error) {
+            console.error(`Attempt ${i + 1} failed for ${url}:`, error);
+        }
+        if (i < retries - 1) {
+            const delay = Math.pow(2, i) * 1000; // 指数退避
+            await sleep(delay);
+        }
+    }
+    throw new Error(`Failed to fetch ${url} after ${retries} attempts`);
+}
+
 async function downloadDatabase() {
     try {
+        // Create main data directory
+        const dataDir = path.join(currentDir, 'data');
+        if (!fs.existsSync(dataDir)) {
+            fs.mkdirSync(dataDir, { recursive: true });
+        }
+
+        // 1. Download HTML files
+        console.log('\nDownloading HTML files...');
+        await downloadHtmlFiles();
+
+        // 2. Download icons
+        console.log('\nDownloading icons...');
+        await downloadIcons();
+
+        // 3. Download localization files
+        console.log('\nDownloading locales...');
+        await downloadLocales();
+
+        // 4. Download service data
+        console.log('\nDownloading service data...');
         const baseDir = path.join(currentDir, 'data/services');
         if (!fs.existsSync(baseDir)) {
             fs.mkdirSync(baseDir, { recursive: true });
         }
 
-        // 1. 下载主数据库
+        // Download main database
         console.log('Downloading main database...');
-        const dbResponse = await nodeFetch(`https://${API_URL}/appdb/version/v2`, {
+        const dbResponse = await nodeFetch(`${API_ENDPOINT}/appdb/version/v2`, {
             headers: {
                 'apikey': Buffer.from(API_KEY, 'base64').toString()
             }
@@ -113,14 +150,14 @@ async function downloadDatabase() {
 
         const dbData = await dbResponse.json() as ServiceData[];
         
-        // 保存主数据库
+        // Save main database
         fs.writeFileSync(
             path.join(baseDir, 'database.json'), 
             JSON.stringify(dbData, null, 2)
         );
         console.log(`Main database saved with ${dbData.length} services`);
 
-        // 2. 确定要处理的服务
+        // Determine services to process
         let servicesToProcess = dbData;
         if (!isFullDownload) {
             servicesToProcess = dbData.slice(0, 5);
@@ -129,7 +166,7 @@ async function downloadDatabase() {
             console.log(`Full mode: processing all ${dbData.length} services`);
         }
 
-        // 3. 下载服务详细信息
+        // Download service details
         for (const service of servicesToProcess) {
             try {
                 console.log(`\nProcessing service: ${service.name}`);
@@ -139,15 +176,15 @@ async function downloadDatabase() {
                     fs.mkdirSync(serviceDir, { recursive: true });
                 }
 
-                // 3.1 获取服务详情
+                // Get service details
                 const detailsResponse = await nodeFetch(
-                    `https://${API_URL}/services/v2/${service.id}.json`
+                    `${API_ENDPOINT}/services/v2/${service.id}.json`
                 );
 
                 if (detailsResponse.ok) {
                     const detailsData = await detailsResponse.json() as ServiceDetails;
                     
-                    // 保存服务详情
+                    // Save service details
                     fs.writeFileSync(
                         path.join(serviceDir, 'details.json'),
                         JSON.stringify({
@@ -163,47 +200,81 @@ async function downloadDatabase() {
                     );
                     console.log(`Saved details for ${service.name} (${detailsData.points?.length || 0} points)`);
 
-                    // 3.2 下载每个评分点的详细信息
-                    if (detailsData.points) {
-                        const pointsDir = path.join(serviceDir, 'points');
-                        if (!fs.existsSync(pointsDir)) {
-                            fs.mkdirSync(pointsDir);
+                    // Download service documents and webpages
+                    if (detailsData.documents && detailsData.documents.length > 0) {
+                        const documentsDir = path.join(serviceDir, 'webpages');
+                        if (!fs.existsSync(documentsDir)) {
+                            fs.mkdirSync(documentsDir);
                         }
 
-                        for (const point of detailsData.points) {
-                            const pointResponse = await nodeFetch(
-                                `https://${API_URL}/points/v2/${point.id}.json`
-                            );
-                            if (pointResponse.ok) {
-                                const pointData = await pointResponse.json();
-                                fs.writeFileSync(
-                                    path.join(pointsDir, `${point.id}.json`),
-                                    JSON.stringify(pointData, null, 2)
-                                );
+                        // Save documents index
+                        const docsIndex = detailsData.documents.map(doc => ({
+                            name: doc.name,
+                            original_url: doc.url,
+                            local_path: `webpages/${doc.name.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.html`
+                        }));
+
+                        fs.writeFileSync(
+                            path.join(serviceDir, 'documents_index.json'),
+                            JSON.stringify(docsIndex, null, 2)
+                        );
+
+                        // Download each document
+                        console.log(`Downloading ${docsIndex.length} documents for ${service.name}`);
+                        for (const doc of docsIndex) {
+                            try {
+                                const filePath = path.join(serviceDir, doc.local_path);
+                                await downloadFile(doc.original_url, filePath);
+                                
+                                // Add a small delay between downloads
+                                await sleep(1000);
+                            } catch (error) {
+                                console.error(`Failed to download document: ${doc.original_url}`, error);
                             }
-                            await sleep(500);
                         }
                     }
 
-                    // 3.3 下载每个 case 的详细信息
-                    if (detailsData.cases) {
-                        const casesDir = path.join(serviceDir, 'cases');
-                        if (!fs.existsSync(casesDir)) {
-                            fs.mkdirSync(casesDir);
+                    // Download linked pages from points
+                    if (detailsData.points) {
+                        const pointsWebpagesDir = path.join(serviceDir, 'points_webpages');
+                        if (!fs.existsSync(pointsWebpagesDir)) {
+                            fs.mkdirSync(pointsWebpagesDir);
                         }
 
-                        for (const case_ of detailsData.cases) {
-                            const caseResponse = await nodeFetch(
-                                `https://${API_URL}/cases/v2/${case_.id}.json`
-                            );
-                            if (caseResponse.ok) {
-                                const caseData = await caseResponse.json();
-                                fs.writeFileSync(
-                                    path.join(casesDir, `${case_.id}.json`),
-                                    JSON.stringify(caseData, null, 2)
-                                );
+                        for (const point of detailsData.points) {
+                            if (point.source && point.source.url) {
+                                try {
+                                    const fileName = `point_${point.id}_source.html`;
+                                    const filePath = path.join(pointsWebpagesDir, fileName);
+                                    await downloadFile(point.source.url, filePath);
+                                    
+                                    // Add a small delay between downloads
+                                    await sleep(1000);
+                                } catch (error) {
+                                    console.error(`Failed to download point source: ${point.source.url}`, error);
+                                }
                             }
-                            await sleep(500);
+                        }
+                    }
+
+                    // Download service links
+                    if (detailsData.links && detailsData.links.length > 0) {
+                        const linksDir = path.join(serviceDir, 'links');
+                        if (!fs.existsSync(linksDir)) {
+                            fs.mkdirSync(linksDir);
+                        }
+
+                        for (const link of detailsData.links) {
+                            try {
+                                const fileName = `${link.type}_${link.name.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.html`;
+                                const filePath = path.join(linksDir, fileName);
+                                await downloadFile(link.url, filePath);
+                                
+                                // Add a small delay between downloads
+                                await sleep(1000);
+                            } catch (error) {
+                                console.error(`Failed to download link: ${link.url}`, error);
+                            }
                         }
                     }
                 }
@@ -219,10 +290,114 @@ async function downloadDatabase() {
             console.log('Note: Only downloaded sample data. Use --all flag to download complete database.');
         }
 
+        console.log('\nAll downloads completed!');
     } catch (error) {
-        console.error('Error downloading data:', error);
+        console.error('Error during download:', error);
     }
 }
 
-// 执行下载
+// Function to download HTML files
+async function downloadHtmlFiles() {
+    const viewsDir = path.join(currentDir, 'data/views');
+    if (!fs.existsSync(viewsDir)) {
+        fs.mkdirSync(viewsDir, { recursive: true });
+    }
+
+    // 直接从网站下载 HTML 文件
+    const htmlFiles = [
+        { url: `${WEBSITE_ENDPOINT}/en/popup`, file: 'popup.html' },
+        { url: `${WEBSITE_ENDPOINT}/en/settings`, file: 'settings/settings.html' }
+    ];
+
+    for (const { url, file } of htmlFiles) {
+        try {
+            console.log(`Downloading ${url}`);
+            const response = await nodeFetch(url);
+            if (response.ok) {
+                const content = await response.text();
+                const filePath = path.join(viewsDir, file);
+                const dir = path.dirname(filePath);
+                if (!fs.existsSync(dir)) {
+                    fs.mkdirSync(dir, { recursive: true });
+                }
+                fs.writeFileSync(filePath, content);
+                console.log(`Downloaded ${file}`);
+            } else {
+                console.error(`Failed to download ${url}, status: ${response.status}`);
+            }
+        } catch (error) {
+            console.error(`Error downloading ${url}:`, error);
+        }
+    }
+}
+
+// Function to download icons
+async function downloadIcons() {
+    const iconsDir = path.join(currentDir, 'data/icons');
+    if (!fs.existsSync(iconsDir)) {
+        fs.mkdirSync(iconsDir, { recursive: true });
+    }
+
+    // List of icons to download
+    const icons = [
+        'logo/logo16.png',
+        'logo/logo32.png',
+        'logo/logo48.png',
+        'logo/logo128.png',
+        'loading.png',
+        'grades/a.png',
+        'grades/b.png',
+        'grades/c.png',
+        'grades/d.png',
+        'grades/e.png',
+        'grades/none.png'
+    ];
+
+    for (const icon of icons) {
+        const response = await nodeFetch(`https://${DOMAIN_URL}/icons/${icon}`);
+        if (response.ok) {
+            const buffer = await response.buffer();
+            const filePath = path.join(iconsDir, icon);
+            const dir = path.dirname(filePath);
+            if (!fs.existsSync(dir)) {
+                fs.mkdirSync(dir, { recursive: true });
+            }
+            fs.writeFileSync(filePath, buffer);
+            console.log(`Downloaded ${icon}`);
+        }
+    }
+}
+
+// Function to download localization files
+async function downloadLocales() {
+    const localesDir = path.join(currentDir, 'data/_locales');
+    if (!fs.existsSync(localesDir)) {
+        fs.mkdirSync(localesDir, { recursive: true });
+    }
+
+    // Get list of supported languages
+    const response = await nodeFetch(`https://${DOMAIN_URL}/locales/list.json`);
+    if (response.ok) {
+        const languages = await response.json();
+        
+        for (const lang of languages) {
+            const langDir = path.join(localesDir, lang);
+            if (!fs.existsSync(langDir)) {
+                fs.mkdirSync(langDir);
+            }
+            
+            const messagesResponse = await nodeFetch(`https://${DOMAIN_URL}/locales/${lang}/messages.json`);
+            if (messagesResponse.ok) {
+                const content = await messagesResponse.json();
+                fs.writeFileSync(
+                    path.join(langDir, 'messages.json'),
+                    JSON.stringify(content, null, 2)
+                );
+                console.log(`Downloaded locale: ${lang}`);
+            }
+        }
+    }
+}
+
+// Execute download
 downloadDatabase();
