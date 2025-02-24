@@ -16,14 +16,22 @@ function createDirectory(dirPath) {
     }
 }
 
-// Function to download a file
+// Function to download a file with error handling
 async function downloadFile(url, filePath) {
-    const response = await axios.get(url, { responseType: 'stream' });
-    response.data.pipe(fs.createWriteStream(filePath));
-    return new Promise((resolve, reject) => {
-        response.data.on('end', () => resolve());
-        response.data.on('error', err => reject(err));
-    });
+    try {
+        const response = await axios.get(url, { responseType: 'stream' });
+        response.data.pipe(fs.createWriteStream(filePath));
+        return new Promise((resolve, reject) => {
+            response.data.on('end', () => resolve());
+            response.data.on('error', err => reject(err));
+        });
+    } catch (error) {
+        if (error.response && error.response.status === 404) {
+            console.error(`Error: Resource not found at ${url}`);
+        } else {
+            console.error(`Error downloading file from ${url}:`, error.message);
+        }
+    }
 }
 
 // Main function to download data

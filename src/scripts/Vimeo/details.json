@@ -1,0 +1,14 @@
+{
+  "id": 164,
+  "is_comprehensively_reviewed": true,
+  "urls": [
+    "vimeo.com",
+    "vimeocdn.com",
+    "livestream.com"
+  ],
+  "name": "Vimeo",
+  "updated_at": "2023-07-10T22:00:50.803709",
+  "created_at": "2018-01-16T15:26:05.134345",
+  "slug": "vimeo",
+  "rating": "E"
+}

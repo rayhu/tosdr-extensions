@@ -1,0 +1,16 @@
+{
+  "id": 158,
+  "is_comprehensively_reviewed": true,
+  "urls": [
+    "apple.com",
+    "shazam.com",
+    "webkit.org",
+    "cdn-apple.com",
+    "apple.news"
+  ],
+  "name": "Apple Services",
+  "updated_at": "2023-07-10T22:00:23.609828",
+  "created_at": "2018-01-16T15:26:04.975317",
+  "slug": "apple",
+  "rating": "D"
+}
