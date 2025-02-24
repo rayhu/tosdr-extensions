@@ -1,0 +1,700 @@
+[
+  {
+    "services": [
+      {
+        "id": 157,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "tutanota.com",
+          "tuta.com"
+        ],
+        "name": "Tuta",
+        "updated_at": "2025-01-04T16:46:03.715910",
+        "created_at": "2018-01-16T15:26:04.947992",
+        "slug": "tutanota",
+        "rating": "A"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 164,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "vimeo.com",
+          "vimeocdn.com",
+          "livestream.com"
+        ],
+        "name": "Vimeo",
+        "updated_at": "2023-07-10T22:00:50.803709",
+        "created_at": "2018-01-16T15:26:05.134345",
+        "slug": "vimeo",
+        "rating": "E"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 158,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "apple.com",
+          "shazam.com",
+          "webkit.org",
+          "cdn-apple.com",
+          "apple.news"
+        ],
+        "name": "Apple Services",
+        "updated_at": "2023-07-10T22:00:23.609828",
+        "created_at": "2018-01-16T15:26:04.975317",
+        "slug": "apple",
+        "rating": "D"
+      },
+      {
+        "id": 757,
+        "is_comprehensively_reviewed": false,
+        "urls": [
+          "www.apple.com"
+        ],
+        "name": "Apple Media Services (DEPRECATED)",
+        "updated_at": "2023-04-22T11:50:25.498339",
+        "created_at": "2018-10-18T13:28:27.764897",
+        "slug": "apple_media_services",
+        "rating": "N/A"
+      },
+      {
+        "id": 1333,
+        "is_comprehensively_reviewed": false,
+        "urls": [
+          "itunes.apple.com"
+        ],
+        "name": "iTunes Store",
+        "updated_at": "2021-03-25T03:19:41.340948",
+        "created_at": "2019-01-06T17:18:49.480444",
+        "slug": "itunes_store",
+        "rating": "N/A"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 173,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "wordpress.org",
+          "wordpress.net",
+          "wordcamp.org",
+          "buddypress.org",
+          "bbpress.org"
+        ],
+        "name": "WordPress.org",
+        "updated_at": "2021-05-16T22:00:21.569186",
+        "created_at": "2018-01-16T15:26:05.367688",
+        "slug": "wordpressorg",
+        "rating": "B"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 183,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "couchsurfing.org",
+          "couchsurfing.com"
+        ],
+        "name": "CouchSurfing",
+        "updated_at": "2023-07-10T22:00:24.216150",
+        "created_at": "2018-01-16T15:26:05.544807",
+        "slug": "couchsurfing",
+        "rating": "E"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 180,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "steampowered.com",
+          "steamcommunity.com",
+          "steamdeck.com",
+          "s.team",
+          "steamgames.com"
+        ],
+        "name": "Steam",
+        "updated_at": "2023-08-09T06:44:28.206474",
+        "created_at": "2018-01-16T15:26:05.510613",
+        "slug": "steam",
+        "rating": "D"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 165,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "goodreads.com"
+        ],
+        "name": "Goodreads",
+        "updated_at": "2023-07-10T22:00:29.948173",
+        "created_at": "2018-01-16T15:26:05.158643",
+        "slug": "goodreads",
+        "rating": "E"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 177,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "wikimedia.org",
+          "wikimediafoundation.org",
+          "wikiquote.org",
+          "wikiversity.org",
+          "wikidata.org",
+          "wikivoyage.org",
+          "wikibooks.org",
+          "wikinews.org",
+          "wiktionary.org",
+          "wikisource.org"
+        ],
+        "name": "Wikimedia",
+        "updated_at": "2022-07-07T12:10:05.246060",
+        "created_at": "2018-01-16T15:26:05.437630",
+        "slug": "wikimedia",
+        "rating": "B"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 182,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "facebook.com",
+          "facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion",
+          "facebookcorewwwi.onion",
+          "messenger.com",
+          "fb.com",
+          "fbcdn.net",
+          "facebook.net",
+          "atdmt.com",
+          "lrcdn.net",
+          "atdmt.com",
+          "atlassolutions.com",
+          "accountkit.com"
+        ],
+        "name": "Facebook",
+        "updated_at": "2023-07-10T22:02:24.881812",
+        "created_at": "2018-01-16T15:26:05.533031",
+        "slug": "facebook",
+        "rating": "E"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 175,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "pinterest.com",
+          "pinterestinc.com",
+          "pinimg.com"
+        ],
+        "name": "Pinterest",
+        "updated_at": "2023-07-10T22:00:51.680706",
+        "created_at": "2018-01-16T15:26:05.405610",
+        "slug": "pinterest",
+        "rating": "E"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 592,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "cik.cool"
+        ],
+        "name": "Campus Innovations Kultur",
+        "updated_at": "2023-06-05T22:01:04.216769",
+        "created_at": "2018-07-06T05:50:28.984308",
+        "slug": "campus_innovations_kultur",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 530,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "mozilla.org",
+          "extensionworkshop.com",
+          "firefox.com"
+        ],
+        "name": "Mozilla.org",
+        "updated_at": "2024-01-27T19:09:03.645250",
+        "created_at": "2018-06-12T22:03:48.303997",
+        "slug": "mozillaorg",
+        "rating": "C"
+      },
+      {
+        "id": 4159,
+        "is_comprehensively_reviewed": false,
+        "urls": [
+          "vpn.mozilla.org"
+        ],
+        "name": "Mozilla VPN",
+        "updated_at": "2023-07-10T22:02:34.521990",
+        "created_at": "2021-06-21T00:45:42.662405",
+        "slug": "mozilla-vpn",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 536,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "discord.com",
+          "discord.gg",
+          "discord.co",
+          "discordapp.io",
+          "discord.dev",
+          "discord.new",
+          "discord.media",
+          "discord.design",
+          "discordapp.com",
+          "discordapp.net",
+          "dis.gd",
+          "discord.gift",
+          "discordstatus.com",
+          "discordcdn.com",
+          "airhorn.solutions",
+          "airhornbot.com",
+          "bigbeans.solutions",
+          "watchanimeattheoffice.com"
+        ],
+        "name": "Discord",
+        "updated_at": "2023-10-26T10:02:29.266888",
+        "created_at": "2018-06-20T12:22:06.538763",
+        "slug": "discord",
+        "rating": "E"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 534,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "kahoot.com",
+          "kahoot.it"
+        ],
+        "name": "Kahoot!",
+        "updated_at": "2023-06-05T22:01:03.777361",
+        "created_at": "2018-06-19T09:07:22.749756",
+        "slug": "kahoot",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 527,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "qwant.com",
+          "qwantjunior.com"
+        ],
+        "name": "Qwant",
+        "updated_at": "2021-03-25T03:19:36.108592",
+        "created_at": "2018-06-09T07:31:51.624829",
+        "slug": "qwant",
+        "rating": "B"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 1636,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "archive.org"
+        ],
+        "name": "Internet Archive",
+        "updated_at": "2023-07-10T22:01:17.252082",
+        "created_at": "2019-06-20T16:19:47.392891",
+        "slug": "internet_archive",
+        "rating": "C"
+      },
+      {
+        "id": 2426,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "modarchive.org"
+        ],
+        "name": "The MOD Archive",
+        "updated_at": "2023-06-05T22:01:35.401331",
+        "created_at": "2020-11-26T20:59:07.501693",
+        "slug": "the_mod_archive",
+        "rating": "C"
+      },
+      {
+        "id": 3231,
+        "is_comprehensively_reviewed": false,
+        "urls": [
+          "blue-archive.org"
+        ],
+        "name": "blue-archive (discontinued?)",
+        "updated_at": "2023-07-10T22:02:31.244356",
+        "created_at": "2021-04-23T12:13:32.774161",
+        "slug": "bluearchive",
+        "rating": "C"
+      },
+      {
+        "id": 4826,
+        "is_comprehensively_reviewed": false,
+        "urls": [
+          "freemusicarchive.org"
+        ],
+        "name": "Free Music Archive",
+        "updated_at": "2024-02-01T23:02:26.095902",
+        "created_at": "2021-08-12T20:55:30.092801",
+        "slug": "free-music-archive",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 1638,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "redbubble.com"
+        ],
+        "name": "Redbubble",
+        "updated_at": "2023-07-10T22:00:58.108711",
+        "created_at": "2019-06-21T22:20:28.820144",
+        "slug": "redbubble",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 1607,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "sourcehut.org",
+          "sr.ht"
+        ],
+        "name": "SourceHut",
+        "updated_at": "2021-06-26T22:00:32.130408",
+        "created_at": "2019-06-01T17:44:11.260625",
+        "slug": "sourcehut",
+        "rating": "B"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 1597,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "huawei.com",
+          "huaweimobileservices.com"
+        ],
+        "name": "Huawei",
+        "updated_at": "2023-07-10T22:00:27.298563",
+        "created_at": "2019-05-29T15:01:25.857267",
+        "slug": "huawei",
+        "rating": "E"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 1593,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "isodme.com"
+        ],
+        "name": "ISODME",
+        "updated_at": "2023-07-10T22:01:10.023711",
+        "created_at": "2019-05-24T01:40:56.346579",
+        "slug": "isodme",
+        "rating": "D"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 2540,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "elmundo.es"
+        ],
+        "name": "El Mundo (Spain)",
+        "updated_at": "2023-07-10T22:00:31.305667",
+        "created_at": "2021-01-16T15:30:37.446479",
+        "slug": "el_mundo_spain",
+        "rating": "D"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 2532,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "twilio.com",
+          "authy.com"
+        ],
+        "name": "Authy (Twilio)",
+        "updated_at": "2021-03-27T21:35:36.794310",
+        "created_at": "2021-01-16T11:03:26.335449",
+        "slug": "authy_twilio",
+        "rating": "B"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 2538,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "eltiempo.es",
+          "eltiempo.net"
+        ],
+        "name": "Eltiempo.es",
+        "updated_at": "2023-06-05T22:01:47.930849",
+        "created_at": "2021-01-16T15:14:52.638779",
+        "slug": "eltiempoes",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 2539,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "marca.com"
+        ],
+        "name": "Marca",
+        "updated_at": "2023-07-10T22:01:34.108484",
+        "created_at": "2021-01-16T15:25:10.511421",
+        "slug": "marca",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 2535,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "ok.ru"
+        ],
+        "name": "Однокла́ссники (Ok.ru)",
+        "updated_at": "2023-07-10T22:01:46.302353",
+        "created_at": "2021-01-16T13:27:03.325972",
+        "slug": "_okru",
+        "rating": "D"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 3388,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "schildi.chat"
+        ],
+        "name": "SchildiChat",
+        "updated_at": "2023-07-10T22:01:44.576011",
+        "created_at": "2021-05-01T20:43:07.176278",
+        "slug": "schildichat",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 3365,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "thunderbird.net"
+        ],
+        "name": "Mozilla Thunderbird",
+        "updated_at": "2023-07-10T22:01:44.717640",
+        "created_at": "2021-05-01T12:20:54.578355",
+        "slug": "mozilla_thunderbird",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 3387,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "opentracksapp.com"
+        ],
+        "name": "OpenTracks",
+        "updated_at": "2023-07-10T22:01:27.704492",
+        "created_at": "2021-05-01T20:35:38.803910",
+        "slug": "opentracks_",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 3362,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "apkpure.com"
+        ],
+        "name": "APK Pure",
+        "updated_at": "2023-07-10T22:00:39.949902",
+        "created_at": "2021-04-30T22:59:12.090155",
+        "slug": "apk_pure_",
+        "rating": "E"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 3319,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "tfc.tv",
+          "iwanttfc.com"
+        ],
+        "name": "The Filipino Channel",
+        "updated_at": "2023-07-10T22:02:39.809030",
+        "created_at": "2021-04-28T19:02:10.997983",
+        "slug": "the_filipino_channel",
+        "rating": "D"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 5643,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "ableton.com"
+        ],
+        "name": "Ableton",
+        "updated_at": "2023-07-10T22:02:15.859702",
+        "created_at": "2021-11-16T05:35:39.637759",
+        "slug": "ableton",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 5630,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "downloadoperagx.com",
+          "opera.com"
+        ],
+        "name": "Opera",
+        "updated_at": "2023-07-10T22:02:16.473215",
+        "created_at": "2021-11-16T02:15:42.281724",
+        "slug": "opera-gx",
+        "rating": "D"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 5211,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "truthsocial.com"
+        ],
+        "name": "Truth Social",
+        "updated_at": "2023-06-05T22:02:17.372707",
+        "created_at": "2021-10-21T18:40:59.458893",
+        "slug": "truth-social",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 5113,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "canvas.com"
+        ],
+        "name": "Canvas",
+        "updated_at": "2023-07-10T22:02:40.713007",
+        "created_at": "2021-10-14T10:36:09.601918",
+        "slug": "canvas",
+        "rating": "C"
+      }
+    ]
+  },
+  {
+    "services": [
+      {
+        "id": 5070,
+        "is_comprehensively_reviewed": true,
+        "urls": [
+          "privacyguides.org",
+          "privacyguides.net"
+        ],
+        "name": "Privacy Guides",
+        "updated_at": "2022-10-27T21:10:09.993187",
+        "created_at": "2021-10-01T00:28:49.576108",
+        "slug": "privacy-guides",
+        "rating": "A"
+      }
+    ]
+  }
+]

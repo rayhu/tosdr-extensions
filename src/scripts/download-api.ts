@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const nodeFetch = require('node-fetch');
+const { execSync } = require('child_process');
 
 const DOMAIN_URL = 'tosdr.org';
 const API_ENDPOINT = `https://api.${DOMAIN_URL}`;
@@ -61,27 +62,58 @@ interface ServiceDetails {
     }[];
 }
 
+// 添加一个进度显示函数
+function showProgress(current: number, total: number, name: string) {
+    const percentage = Math.round((current / total) * 100);
+    process.stdout.write(`\rProgress: ${current}/${total} (${percentage}%) - ${name}`);
+    if (current === total) {
+        process.stdout.write('\n');
+    }
+}
+
 async function downloadFile(url: string, filePath: string, isBinary: boolean = false) {
     try {
-        console.log(`Attempting to download: ${url}`);
+        console.log('\n----------------------------------------');
+        console.log(`File: ${path.basename(filePath)}`);
+        console.log(`URL: ${url}`);
+        console.log(`Path: ${filePath}`);
+        console.log('----------------------------------------');
+        
         const response = await fetchWithRetry(url);
-        const content = isBinary ? await response.buffer() : await response.text();
-        
-        const dir = path.dirname(filePath);
-        if (!fs.existsSync(dir)) {
-            fs.mkdirSync(dir, { recursive: true });
+        const contentLength = response.headers.get('content-length');
+        const total = parseInt(contentLength || '0', 10);
+
+        if (isBinary) {
+            const buffer = await response.buffer();
+            const dir = path.dirname(filePath);
+            if (!fs.existsSync(dir)) {
+                fs.mkdirSync(dir, { recursive: true });
+            }
+            fs.writeFileSync(filePath, buffer);
+            console.log('✓ Download completed\n');
+            return true;
+        } else {
+            let content = '';
+            const arrayBuffer = await response.arrayBuffer();
+            const text = new TextDecoder().decode(arrayBuffer);
+            
+            if (!text.trim()) {
+                console.log('⚠ Warning: Empty content');
+                return false;
+            }
+
+            const dir = path.dirname(filePath);
+            if (!fs.existsSync(dir)) {
+                fs.mkdirSync(dir, { recursive: true });
+            }
+            
+            fs.writeFileSync(filePath, text);
+            console.log('\n✓ Download completed\n');
+            return true;
         }
-        
-        if (!isBinary && !content.trim()) {
-            console.log(`Warning: Empty content from ${url}`);
-            return false;
-        }
-        
-        fs.writeFileSync(filePath, content);
-        console.log(`Successfully downloaded: ${url} -> ${filePath}`);
-        return true;
     } catch (error) {
-        console.error(`Error downloading ${url}:`, error);
+        console.error(`✗ Error downloading file:`);
+        console.error(`  ${error}`);
         return false;
     }
 }
@@ -109,12 +141,63 @@ async function fetchWithRetry(url: string, options: any = {}, retries = 3) {
     throw new Error(`Failed to fetch ${url} after ${retries} attempts`);
 }
 
+// 添加一个辅助函数来验证文件保存
+function saveFile(filePath: string, content: any, isJson: boolean = false) {
+    try {
+        // 确保目录存在
+        const dir = path.dirname(filePath);
+        if (!fs.existsSync(dir)) {
+            fs.mkdirSync(dir, { recursive: true });
+        }
+
+        // 保存文件
+        const fileContent = isJson ? JSON.stringify(content, null, 2) : content;
+        fs.writeFileSync(filePath, fileContent);
+        
+        // 验证文件是否成功保存
+        if (fs.existsSync(filePath)) {
+            const stats = fs.statSync(filePath);
+            console.log(`✓ File saved successfully: ${filePath} (${stats.size} bytes)`);
+            return true;
+        } else {
+            console.error(`✗ File not found after saving: ${filePath}`);
+            return false;
+        }
+    } catch (error) {
+        console.error(`✗ Error saving file ${filePath}:`, error);
+        return false;
+    }
+}
+
+// 添加目录结构打印函数
+function printDirectoryStructure(dir: string, prefix: string = ''): void {
+    const files: string[] = fs.readdirSync(dir);
+    
+    files.forEach((file: string, index: number) => {
+        const filePath: string = path.join(dir, file);
+        const stats = fs.statSync(filePath);
+        const isLast: boolean = index === files.length - 1;
+        
+        // 打印当前文件/目录
+        console.log(`${prefix}${isLast ? '└── ' : '├── '}${file}`);
+        
+        // 如果是目录，递归打印其内容
+        if (stats.isDirectory()) {
+            printDirectoryStructure(filePath, `${prefix}${isLast ? '    ' : '│   '}`);
+        }
+    });
+}
+
 async function downloadDatabase() {
     try {
-        // Create main data directory
-        const dataDir = path.join(currentDir, 'data');
-        if (!fs.existsSync(dataDir)) {
-            fs.mkdirSync(dataDir, { recursive: true });
+        // 获取绝对路径
+        const absoluteDataDir = path.resolve(currentDir, 'data');
+        console.log(`Using data directory: ${absoluteDataDir}`);
+
+        // 创建主数据目录
+        if (!fs.existsSync(absoluteDataDir)) {
+            fs.mkdirSync(absoluteDataDir, { recursive: true });
+            console.log(`Created data directory: ${absoluteDataDir}`);
         }
 
         // 1. Download HTML files
@@ -131,7 +214,7 @@ async function downloadDatabase() {
 
         // 4. Download service data
         console.log('\nDownloading service data...');
-        const baseDir = path.join(currentDir, 'data/services');
+        const baseDir = path.join(absoluteDataDir, 'services');
         if (!fs.existsSync(baseDir)) {
             fs.mkdirSync(baseDir, { recursive: true });
         }
@@ -151,10 +234,8 @@ async function downloadDatabase() {
         const dbData = await dbResponse.json() as ServiceData[];
         
         // Save main database
-        fs.writeFileSync(
-            path.join(baseDir, 'database.json'), 
-            JSON.stringify(dbData, null, 2)
-        );
+        const dbFilePath = path.join(absoluteDataDir, 'services', 'database.json');
+        saveFile(dbFilePath, dbData, true);
         console.log(`Main database saved with ${dbData.length} services`);
 
         // Determine services to process
@@ -171,7 +252,11 @@ async function downloadDatabase() {
             try {
                 console.log(`\nProcessing service: ${service.name}`);
                 
-                const serviceDir = path.join(baseDir, `${service.id}_${service.slug || service.name.toLowerCase().replace(/[^a-z0-9]/g, '_')}`);
+                const serviceDir = path.join(
+                    absoluteDataDir, 
+                    'services', 
+                    `${service.id}_${service.slug || service.name.toLowerCase().replace(/[^a-z0-9]/g, '_')}`
+                );
                 if (!fs.existsSync(serviceDir)) {
                     fs.mkdirSync(serviceDir, { recursive: true });
                 }
@@ -184,20 +269,20 @@ async function downloadDatabase() {
                 if (detailsResponse.ok) {
                     const detailsData = await detailsResponse.json() as ServiceDetails;
                     
+                    // Generate and save rendered popup HTML
+                    const popupHtml = await generatePopupHtml(service, detailsData);
+                    const popupDir = path.join(serviceDir, 'rendered');
+                    if (!fs.existsSync(popupDir)) {
+                        fs.mkdirSync(popupDir);
+                    }
+                    
+                    const popupFilePath = path.join(popupDir, 'popup.html');
+                    saveFile(popupFilePath, popupHtml);
+                    console.log(`Generated popup.html for ${service.name}`);
+
                     // Save service details
-                    fs.writeFileSync(
-                        path.join(serviceDir, 'details.json'),
-                        JSON.stringify({
-                            id: service.id,
-                            name: service.name,
-                            rating: service.rating,
-                            points: detailsData.points,
-                            urls: detailsData.urls,
-                            documents: detailsData.documents,
-                            cases: detailsData.cases,
-                            links: detailsData.links
-                        }, null, 2)
-                    );
+                    const detailsFilePath = path.join(serviceDir, 'details.json');
+                    saveFile(detailsFilePath, detailsData, true);
                     console.log(`Saved details for ${service.name} (${detailsData.points?.length || 0} points)`);
 
                     // Download service documents and webpages
@@ -214,23 +299,23 @@ async function downloadDatabase() {
                             local_path: `webpages/${doc.name.replace(/[^a-z0-9]/gi, '_').toLowerCase()}.html`
                         }));
 
-                        fs.writeFileSync(
-                            path.join(serviceDir, 'documents_index.json'),
-                            JSON.stringify(docsIndex, null, 2)
-                        );
+                        const docsIndexFilePath = path.join(serviceDir, 'documents_index.json');
+                        saveFile(docsIndexFilePath, docsIndex, true);
 
-                        // Download each document
-                        console.log(`Downloading ${docsIndex.length} documents for ${service.name}`);
+                        // Download documents
+                        console.log(`\nDownloading ${detailsData.documents.length} documents for ${service.name}:`);
+                        let completed = 0;
+                        
                         for (const doc of docsIndex) {
+                            completed++;
+                            console.log(`\nDocument ${completed}/${docsIndex.length}:`);
                             try {
                                 const filePath = path.join(serviceDir, doc.local_path);
                                 await downloadFile(doc.original_url, filePath);
-                                
-                                // Add a small delay between downloads
-                                await sleep(1000);
                             } catch (error) {
                                 console.error(`Failed to download document: ${doc.original_url}`, error);
                             }
+                            await sleep(1000);
                         }
                     }
 
@@ -241,19 +326,21 @@ async function downloadDatabase() {
                             fs.mkdirSync(pointsWebpagesDir);
                         }
 
-                        for (const point of detailsData.points) {
-                            if (point.source && point.source.url) {
-                                try {
-                                    const fileName = `point_${point.id}_source.html`;
-                                    const filePath = path.join(pointsWebpagesDir, fileName);
-                                    await downloadFile(point.source.url, filePath);
-                                    
-                                    // Add a small delay between downloads
-                                    await sleep(1000);
-                                } catch (error) {
-                                    console.error(`Failed to download point source: ${point.source.url}`, error);
-                                }
+                        const pointsWithUrls = detailsData.points.filter(p => p.source && p.source.url);
+                        console.log(`\nDownloading ${pointsWithUrls.length} point sources for ${service.name}:`);
+                        let completed = 0;
+
+                        for (const point of pointsWithUrls) {
+                            completed++;
+                            console.log(`\nPoint source ${completed}/${pointsWithUrls.length}:`);
+                            try {
+                                const fileName = `point_${point.id}_source.html`;
+                                const filePath = path.join(pointsWebpagesDir, fileName);
+                                await downloadFile(point.source.url, filePath);
+                            } catch (error) {
+                                console.error(`Failed to download point source: ${point.source.url}`, error);
                             }
+                            await sleep(1000);
                         }
                     }
 
@@ -277,6 +364,10 @@ async function downloadDatabase() {
                             }
                         }
                     }
+
+                    // 打印目录结构
+                    console.log('\nCreated directory structure:');
+                    printDirectoryStructure(serviceDir);
                 }
 
                 await sleep(1000);
@@ -303,31 +394,74 @@ async function downloadHtmlFiles() {
         fs.mkdirSync(viewsDir, { recursive: true });
     }
 
-    // 直接从网站下载 HTML 文件
+    // Updated URLs for HTML files
     const htmlFiles = [
-        { url: `${WEBSITE_ENDPOINT}/en/popup`, file: 'popup.html' },
-        { url: `${WEBSITE_ENDPOINT}/en/settings`, file: 'settings/settings.html' }
+        { 
+            url: `${WEBSITE_ENDPOINT}/get-extension`, 
+            file: 'popup.html',
+            selector: '#popup-content'  // 选择器用于提取相关内容
+        },
+        { 
+            url: `${WEBSITE_ENDPOINT}/settings`, 
+            file: 'settings/settings.html',
+            selector: '#settings-content'
+        }
     ];
 
-    for (const { url, file } of htmlFiles) {
+    for (const { url, file, selector } of htmlFiles) {
         try {
-            console.log(`Downloading ${url}`);
-            const response = await nodeFetch(url);
+            console.log(`\nDownloading ${file} from ${url}`);
+            const response = await fetchWithRetry(url);
+            
             if (response.ok) {
                 const content = await response.text();
                 const filePath = path.join(viewsDir, file);
                 const dir = path.dirname(filePath);
+                
                 if (!fs.existsSync(dir)) {
                     fs.mkdirSync(dir, { recursive: true });
                 }
-                fs.writeFileSync(filePath, content);
-                console.log(`Downloaded ${file}`);
+                
+                // Save the file
+                saveFile(filePath, content);
+                console.log(`✓ Downloaded ${file} successfully`);
+                
+                // Print file size
+                const stats = fs.statSync(filePath);
+                console.log(`  File size: ${stats.size} bytes`);
             } else {
-                console.error(`Failed to download ${url}, status: ${response.status}`);
+                console.error(`✗ Failed to download ${file} from ${url}`);
+                console.error(`  Status: ${response.status} ${response.statusText}`);
+                
+                // Try alternative URL
+                const altUrl = `${WEBSITE_ENDPOINT}/${file}`;
+                console.log(`\nTrying alternative URL: ${altUrl}`);
+                
+                const altResponse = await fetchWithRetry(altUrl);
+                if (altResponse.ok) {
+                    const content = await altResponse.text();
+                    const filePath = path.join(viewsDir, file);
+                    const dir = path.dirname(filePath);
+                    
+                    if (!fs.existsSync(dir)) {
+                        fs.mkdirSync(dir, { recursive: true });
+                    }
+                    
+                    saveFile(filePath, content);
+                    console.log(`✓ Downloaded ${file} from alternative URL successfully`);
+                } else {
+                    console.error(`✗ Failed to download from alternative URL as well`);
+                }
             }
         } catch (error) {
-            console.error(`Error downloading ${url}:`, error);
+            console.error(`✗ Error downloading ${file}:`, error);
         }
+    }
+    
+    // Print directory contents
+    if (fs.existsSync(viewsDir)) {
+        console.log('\nContents of views directory:');
+        printDirectoryStructure(viewsDir);
     }
 }
 
@@ -399,5 +533,79 @@ async function downloadLocales() {
     }
 }
 
+// 添加一个函数来生成完整的 popup HTML
+async function generatePopupHtml(service: ServiceData, detailsData: ServiceDetails) {
+    // 基本的 popup.html 模板
+    const template = `
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Terms of Service; Didn't Read - ${service.name}</title>
+    <style>
+        body {
+            width: 400px;
+            padding: 10px;
+            font-family: Arial, sans-serif;
+        }
+        .rating {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .point {
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+        .point-title {
+            font-weight: bold;
+        }
+        .point-status {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>${service.name}</h1>
+    <div class="rating">Rating: ${service.rating || 'Not Rated'}</div>
+    
+    <h2>Points:</h2>
+    ${detailsData.points?.map(point => `
+        <div class="point">
+            <div class="point-title">${point.title}</div>
+            <div class="point-status">Status: ${point.status}</div>
+            <div class="point-case">
+                Classification: ${point.case.classification}
+                Score: ${point.case.score}
+            </div>
+            ${point.description ? `<div class="point-description">${point.description}</div>` : ''}
+            ${point.source?.url ? `<div class="point-source">Source: <a href="${point.source.url}">${point.source.document}</a></div>` : ''}
+        </div>
+    `).join('\n') || 'No points available'}
+
+    <h2>Documents:</h2>
+    <ul>
+    ${detailsData.documents?.map(doc => `
+        <li><a href="${doc.url}">${doc.name}</a></li>
+    `).join('\n') || 'No documents available'}
+    </ul>
+
+    <h2>Links:</h2>
+    <ul>
+    ${detailsData.links?.map(link => `
+        <li><a href="${link.url}">${link.name} (${link.type})</a></li>
+    `).join('\n') || 'No links available'}
+    </ul>
+</body>
+</html>`;
+
+    return template;
+}
+
 // Execute download
 downloadDatabase();
+
+// 在脚本开始时打印当前工作目录
+console.log('Current working directory:', process.cwd());
+console.log('Script directory:', __dirname);
